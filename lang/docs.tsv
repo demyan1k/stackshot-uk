@@ -1,0 +1,396 @@
+# Markdown and XML windows (src/Markdown, src/Xml): spanish <TAB> english <TAB> ukrainian
+{0} con BOM	{0} with BOM	{0} з BOM
+No encuentro el archivo: {0}	File not found: {0}	Файл не знайдено: {0}
+Solo admito archivos .md, .xml o .txt: {0}	Only .md, .xml or .txt files are supported: {0}	Підтримуються лише файли .md, .xml і .txt: {0}
+El archivo pesa demasiado (máximo {0} MB): {1}	The file is too large (max {0} MB): {1}	Файл завеликий (максимум {0} МБ): {1}
+No he podido leer el archivo: {0}	Couldn't read the file: {0}	Не вдалося прочитати файл: {0}
+Hay caracteres que no caben en {0}.	Some characters don't fit in {0}.	Деякі символи не вміщуються в {0}.
+El archivo tiene bytes que no son {0} válido.	The file has bytes that aren't valid {0}.	У файлі є байти, які не є коректним {0}.
+No tengo permiso para escribir en {0}. Usa «Guardar como…».	I don't have permission to write to {0}. Use “Save as…”.	Немає дозволу на запис у {0}. Скористайся «Зберегти як…».
+No he podido guardar {0}: {1}	Couldn't save {0}: {1}	Не вдалося зберегти {0}: {1}
+imagen	image	зображення
+{0} de {1}	{0} of {1}	{0} з {1}
+resultado	result	результат
+resultados	results	результатів
+resultados#2	results	результати
+No he podido guardar la imagen: {0}	Couldn't save the image: {0}	Не вдалося зберегти зображення: {0}
+No he podido copiar {0}: {1}	Couldn't copy {0}: {1}	Не вдалося скопіювати {0}: {1}
+No puedo abrir un archivo remoto ({0}): {1}	I can't open a remote file ({0}): {1}	Не вдається відкрити віддалений файл ({0}): {1}
+No encuentro WSL para abrir: {0}	Can't find WSL to open: {0}	Не вдається знайти WSL, щоб відкрити: {0}
+No encuentro la carpeta personal de WSL para abrir: {0}	Can't find the WSL home folder to open: {0}	Не вдається знайти домашню теку WSL, щоб відкрити: {0}
+Índice	Contents	Зміст
+El documento es demasiado largo para una sola imagen.	The document is too long for a single image.	Документ задовгий для одного зображення.
+Columna {0}	Column {0}	Стовпець {0}
+texto	text	текст
+Tabla pegada ({0} × {1}).	Table pasted ({0} × {1}).	Таблицю вставлено ({0} × {1}).
+Las imágenes se guardan en la carpeta «{0}», junto al documento.	Images are saved in the “{0}” folder next to the document.	Зображення зберігаються в теці «{0}» поруч із документом.
+Imagen pegada: {0}.	Image pasted: {0}.	Зображення вставлено: {0}.
+Imagen añadida: {0}.	Image added: {0}.	Зображення додано: {0}.
+imágenes	images	зображень
+imágenes#2	images	зображення
+Añadidas {0} {1}.	Added {0} {1}.	Додано {0} {1}.
+Exportando PDF… página {0}	Exporting PDF… page {0}	Експортую PDF… сторінка {0}
+No he podido guardar el PDF: {0}	Couldn't save the PDF: {0}	Не вдалося зберегти PDF: {0}
+página	page	сторінка
+páginas	pages	сторінок
+páginas#2	pages	сторінки
+PDF exportado: {0} ({1} {2}).	PDF exported: {0} ({1} {2}).	PDF експортовано: {0} ({1} {2}).
+Código del fallo: {0}	Fault code: {0}	Код помилки: {0}
+usa «Guardar el adjunto como…»	use “Save attachment as…”	скористайся «Зберегти вкладення як…»
+Por seguridad no abro programas, scripts ni accesos directos: {0}.	For safety I don't open programs, scripts or shortcuts: {0}.	З міркувань безпеки я не відкриваю програми, скрипти й ярлики: {0}.
+Es un archivo ZIP: {0}.	It's a ZIP archive: {0}.	Це ZIP-архів: {0}.
+Tiene macros: {0} si confías en él.	It has macros: {0} if you trust it.	Містить макроси: {0}, якщо ти йому довіряєш.
+No sé qué tipo de archivo es: {0}.	I don't know what kind of file it is: {0}.	Не знаю, що це за тип файлу: {0}.
+¿Abrir el adjunto «{0}»?	Open attachment “{0}”?	Відкрити вкладення «{0}»?
+Dentro del XML hay: {0}. Se abrirá con el programa que Windows tenga para los archivos {1}.	Found inside the XML: {0}. It will open with the program Windows has for {1} files.	Усередині XML знайдено: {0}. Воно відкриється в програмі, яку Windows призначила для файлів {1}.
+No he podido abrir «{0}»: quizá no haya ningún programa para los archivos {1}.	Couldn't open “{0}”: there may be no program for {1} files.	Не вдалося відкрити «{0}»: можливо, немає програми для файлів {1}.
+Adjunto guardado: {0}.	Attachment saved: {0}.	Вкладення збережено: {0}.
+Archivo {0}	{0} file	Файл {0}
+cambio	change	зміна
+cambios	changes	змін
+cambios#2	changes	зміни
+añadido	added	додано
+añadidos	added	додано
+añadidos#2	added	додано
+quitado	removed	видалено
+quitados	removed	видалено
+quitados#2	removed	видалено
+Antes: {0}\nAhora: {1}	Before: {0}\nNow: {1}	Було: {0}\nСтало: {1}
+Sin diferencias	No differences	Без відмінностей
+diferencia	difference	відмінність
+diferencias	differences	відмінностей
+diferencias#2	differences	відмінності
+«{0}» no es un XML bien formado. {1}	“{0}” isn't well-formed XML. {1}	«{0}» — некоректний XML. {1}
+El XML es muy grande: solo se comparan sus primeros {0} nodos.	The XML is very large: only its first {0} nodes are compared.	XML дуже великий: порівнюються лише його перші {0} вузлів.
+Sin título	Untitled	Без назви
+¿Guardar los cambios en «{0}»?	Save changes to “{0}”?	Зберегти зміни в «{0}»?
+coincidencia	match	збіг
+coincidencias	matches	збігів
+coincidencias#2	matches	збіги
+nodo	node	вузол
+nodos	nodes	вузлів
+nodos#2	nodes	вузли
+palabra	word	слово
+palabras	words	слів
+palabras#2	words	слова
+Hay bytes que no son {0} válido: se muestran como «�».	Some bytes aren't valid {0}: they're shown as “�”.	Деякі байти не є коректним {0}: їх показано як «�».
+Cargando {0}…	Loading {0}…	Завантажую {0}…
+«{0}» ha cambiado fuera de Stackshot	“{0}” changed outside Stackshot	«{0}» змінено поза Stackshot
+Al guardar, esos bytes se sustituyen por «�» y el original se pierde. Para conservarlo, usa «Guardar como…».	When saving, those bytes are replaced with “�” and the original is lost. To keep it, use “Save as…”.	Під час збереження ці байти буде замінено на «�», а оригінал втратиться. Щоб його зберегти, скористайся «Зберегти як…».
+Al guardar, esos bytes se sustituyen por «�».	When saving, those bytes are replaced with “�”.	Під час збереження ці байти буде замінено на «�».
+Guardado a las {0}.	Saved at {0}.	Збережено о {0}.
+¿Recargar «{0}» desde el disco?	Reload “{0}” from disk?	Перезавантажити «{0}» з диска?
+Reemplazos hechos: {0}	Replaced: {0}	Замінено: {0}
+Formatear	Format	Форматувати
+Compactar	Minify	Стиснути
+El texto cambió mientras formateaba: vuelve a pulsar {0}.	The text changed while formatting: press {0} again.	Текст змінився під час форматування: натисни «{0}» ще раз.
+tipo desconocido	unknown type	невідомий тип
+El adjunto es demasiado grande (máximo {0} MB).	The attachment is too large (max {0} MB).	Вкладення завелике (максимум {0} МБ).
+nodo sin cambios	unchanged node	вузол без змін
+nodos sin cambios	unchanged nodes	вузлів без змін
+nodos sin cambios#2	unchanged nodes	вузли без змін
+XML interno	inner XML	внутрішній XML
+Copiado.	Copied.	Скопійовано.
+línea	line	рядок
+líneas	lines	рядків
+líneas#2	lines	рядки
+Copiadas {0} {1}.	Copied {0} {1}.	Скопійовано {0} {1}.
+… y {0} {1} más	… and {0} more {1}	… і ще {0} {1}
+Línea {0}, columna {1}: 	Line {0}, column {1}: 	Рядок {0}, стовпець {1}: 
+No he podido leer el XML: {0}	Couldn't read the XML: {0}	Не вдалося прочитати XML: {0}
+La etiqueta de cierre </{0}> no coincide con <{1}>, abierta en la línea {2}, columna {3}.	The closing tag </{0}> doesn't match <{1}>, opened at line {2}, column {3}.	Закривальний тег </{0}> не збігається з <{1}>, відкритим у рядку {2}, стовпець {3}.
+El archivo termina sin cerrar: {0}.	The file ends without closing: {0}.	Файл закінчується незакритим елементом: {0}.
+El atributo {0} está repetido.	The attribute {0} is repeated.	Атрибут {0} повторюється.
+Copiar valor de «{0}»	Copy value of “{0}”	Копіювати значення «{0}»
+Abrir el adjunto ({0})	Open the attachment ({0})	Відкрити вкладення ({0})
+Abrir el adjunto	Open the attachment	Відкрити вкладення
+Es {0}: solo se puede guardar	It's {0}: it can only be saved	Це {0}: його можна лише зберегти
+… y {0} {1} más (contrae lo que no necesites para verlas)	… and {0} more {1} (collapse what you don't need to see them)	… і ще {0} {1} (згорни непотрібне, щоб їх побачити)
+Elige dónde guardarlo.	Choose where to save it.	Вибери, куди зберегти.
+Este archivo es de solo lectura. Usa «Guardar como…».	This file is read-only. Use “Save as…”.	Цей файл лише для читання. Скористайся «Зберегти як…».
+Expresión no válida	Invalid expression	Хибний вираз
+Buscar	Find	Знайти
+Coincidir mayúsculas	Match case	З урахуванням регістру
+Palabra completa	Whole word	Ціле слово
+Expresión regular	Regular expression	Регулярний вираз
+Anterior (Mayús+F3)	Previous (Shift+F3)	Попередній (Shift+F3)
+Siguiente (F3)	Next (F3)	Наступний (F3)
+Cerrar (Esc)	Close (Esc)	Закрити (Esc)
+Reemplazar por	Replace with	Замінити на
+Reemplazar	Replace	Замінити
+Reemplazar todo	Replace all	Замінити все
+Sin resultados (búsqueda cortada)	No results (search cut short)	Нічого не знайдено (пошук обрізано)
+Sin resultados	No results	Нічого не знайдено
+Deshacer	Undo	Скасувати
+Rehacer	Redo	Повторити
+Cortar	Cut	Вирізати
+Cortado.	Cut.	Вирізано.
+Copiar	Copy	Копіювати
+Pegar	Paste	Вставити
+Seleccionar todo	Select all	Вибрати все
+No puedo mostrar esta imagen	I can't show this image	Не вдається показати це зображення
+No encuentro la imagen	Image not found	Зображення не знайдено
+La imagen es demasiado grande para mostrarla	The image is too large to show	Зображення завелике для показу
+Está vacío: no hay nada que mostrar.	It's empty: there's nothing to show.	Порожньо: нічого показувати.
+Es demasiado grande (máximo 2 MB de texto).	It's too large (max 2 MB of text).	Завеликий (максимум 2 МБ тексту).
+No parece texto: tiene contenido binario.	This doesn't look like text: it has binary content.	Схоже, це не текст: у ньому двійкові дані.
+No hay ningún archivo.	There is no file.	Немає жодного файлу.
+Modo	Mode	Режим
+Texto del XML	XML text	Текст XML
+Texto Markdown	Markdown text	Текст Markdown
+Vista previa	Preview	Попередній перегляд
+Buscar o filtrar	Find or filter	Пошук або фільтр
+Ancho del texto y de la vista previa	Width of the text and the preview	Ширина тексту й попереднього перегляду
+Índice: mostrar u ocultar los títulos del documento	Contents: show or hide the document's headings	Зміст: показати чи сховати заголовки документа
+Índice del documento	Document contents	Зміст документа
+No hay títulos todavía. Las líneas que empiezan por # aparecerán aquí.	No headings yet. Lines that start with # will appear here.	Заголовків ще немає. Тут з’являться рядки, що починаються з #.
+No he podido usar el portapapeles.	Couldn't use the clipboard.	Не вдалося скористатися буфером обміну.
+En el portapapeles no hay texto.	There's no text on the clipboard.	У буфері обміну немає тексту.
+No he podido pegar la tabla.	Couldn't paste the table.	Не вдалося вставити таблицю.
+Pegando la tabla…	Pasting the table…	Вставляю таблицю…
+Guardar como…	Save as…	Зберегти як…
+Cancelar	Cancel	Скасувати
+Guardando la imagen…	Saving the image…	Зберігаю зображення…
+Guarda el documento antes de pegar la imagen	Save the document before pasting the image	Збережи документ, перш ніж вставляти зображення
+Guarda el documento antes de añadir la imagen	Save the document before adding the image	Збережи документ, перш ніж додавати зображення
+Guarda el documento antes de añadir las imágenes	Save the document before adding the images	Збережи документ, перш ніж додавати зображення
+No he podido añadir la imagen.	Couldn't add the image.	Не вдалося додати зображення.
+Exportando PDF…	Exporting PDF…	Експортую PDF…
+Exportar PDF…	Export PDF…	Експортувати PDF…
+Ya estoy exportando un PDF…	I'm already exporting a PDF…	PDF уже експортується…
+documento	document	документ
+Exportar PDF	Export PDF	Експорт PDF
+Documento PDF|*.pdf|Todos los archivos|*.*	PDF document|*.pdf|All files|*.*	Документ PDF|*.pdf|Усі файли|*.*
+No he podido exportar el PDF.	Couldn't export the PDF.	Не вдалося експортувати PDF.
+Cancelado.	Canceled.	Скасовано.
+Body vacío	Empty Body	Порожній Body
+Sin mensaje	No message	Без повідомлення
+Respuesta con fallo	Response with a fault	Відповідь із помилкою
+Sin SOAP Fault	No SOAP Fault	Без SOAP Fault
+XML anterior de la carpeta ([)	Previous XML in the folder ([)	Попередній XML у теці ([
+XML siguiente de la carpeta (])	Next XML in the folder (])	Наступний XML у теці (])
+Abriendo el adjunto…	Opening the attachment…	Відкриваю вкладення…
+Leyendo el adjunto…	Reading the attachment…	Читаю вкладення…
+Guardando el adjunto…	Saving the attachment…	Зберігаю вкладення…
+ Usa «Guardar el adjunto como…».	 Use “Save attachment as…”.	 Скористайся «Зберегти вкладення як…».
+No he podido leer el adjunto.	Couldn't read the attachment.	Не вдалося прочитати вкладення.
+No he podido escribir el adjunto.	Couldn't write the attachment.	Не вдалося записати вкладення.
+No he podido abrir la imagen en el editor.	Couldn't open the image in the editor.	Не вдалося відкрити зображення в редакторі.
+No he podido guardar el adjunto.	Couldn't save the attachment.	Не вдалося зберегти вкладення.
+Abrir	Open	Відкрити
+Guardar el adjunto	Save the attachment	Збереження вкладення
+Todos los archivos|*.*	All files|*.*	Усі файли|*.*
+Comparación	Comparison	Порівняння
+antes 	before 	було 
+   ahora 	   now 	   стало 
+Solo diferencias	Differences only	Лише відмінності
+Mostrar solo lo que cambia (y lo que lleva hasta ello)	Show only what changes (and the path leading to it)	Показувати лише те, що змінилося (і шлях до нього)
+Diferencia anterior (Mayús+F7)	Previous difference (Shift+F7)	Попередня відмінність (Shift+F7)
+Siguiente diferencia (F7)	Next difference (F7)	Наступна відмінність (F7)
+Salir de la comparación	Exit comparison	Вийти з порівняння
+Salir de la comparación (Esc)	Exit comparison (Esc)	Вийти з порівняння (Esc)
+No hay diferencias.	There are no differences.	Відмінностей немає.
+De vuelta en la primera diferencia.	Back at the first difference.	Знову на першій відмінності.
+De vuelta en la última diferencia.	Back at the last difference.	Знову на останній відмінності.
+Comparar con el XML anterior de la carpeta	Compare with the previous XML in the folder	Порівняти з попереднім XML у теці
+Comparar con otro archivo…	Compare with another file…	Порівняти з іншим файлом…
+Salir de la comparación   Esc	Exit comparison   Esc	Вийти з порівняння   Esc
+Copiar como JSON	Copy as JSON	Копіювати як JSON
+El nodo seleccionado	The selected node	Вибраний вузол
+Todo el documento	The whole document	Увесь документ
+Comparar con otro XML	Compare with another XML	Порівняти з іншим XML
+XML|*.xml;*.xsd;*.config;*.svg;*.xaml|Todos los archivos|*.*	XML|*.xml;*.xsd;*.config;*.svg;*.xaml|All files|*.*	XML|*.xml;*.xsd;*.config;*.svg;*.xaml|Усі файли|*.*
+Corrige el XML antes de compararlo.	Fix the XML before comparing it.	Виправ XML, перш ніж порівнювати.
+Un momento: todavía estoy leyendo el XML.	One moment: I'm still reading the XML.	Хвилинку: я ще читаю XML.
+Comparando…	Comparing…	Порівнюю…
+No hay XML anteriores en la carpeta.	There are no earlier XML files in the folder.	У теці немає попередніх XML.
+No he podido leer el archivo.	Couldn't read the file.	Не вдалося прочитати файл.
+No hay XML posteriores en la carpeta.	There are no later XML files in the folder.	У теці немає пізніших XML.
+Markdown y XML	Markdown and XML	Markdown і XML
+Si no los guardas, se perderán.	If you don't save them, they'll be lost.	Якщо не зберегти, вони будуть втрачені.
+Guardar	Save	Зберегти
+No guardar	Don't save	Не зберігати
+Vista	View	Перегляд
+Editar	Edit	Редагувати
+Nuevo	New	Новий
+Nuevo (Ctrl+N)	New (Ctrl+N)	Новий (Ctrl+N)
+Más opciones	More options	Більше опцій
+Guardar (Ctrl+S)	Save (Ctrl+S)	Зберегти (Ctrl+S)
+Listo	Done	Готово
+Crear la captura y cerrar (Ctrl+Intro)	Create the screenshot and close (Ctrl+Enter)	Створити знімок і закрити (Ctrl+Enter)
+Formatear (Ctrl+Mayús+F)	Format (Ctrl+Shift+F)	Форматувати (Ctrl+Shift+F)
+Opciones de formato	Format options	Параметри форматування
+Expandir todo	Expand all	Розгорнути все
+Contraer todo	Collapse all	Згорнути все
+Copiar XML	Copy XML	Копіювати XML
+Ordenar	Tidy up	Упорядкувати
+Insertar índice	Insert contents	Вставити зміст
+Copiar Markdown	Copy Markdown	Копіювати Markdown
+Copiar como imagen	Copy as image	Копіювати як зображення
+Negrita (Ctrl+B)	Bold (Ctrl+B)	Жирний (Ctrl+B)
+Cursiva (Ctrl+I)	Italic (Ctrl+I)	Курсив (Ctrl+I)
+Tachado (Ctrl+Mayús+X)	Strikethrough (Ctrl+Shift+X)	Закреслений (Ctrl+Shift+X)
+Título (Ctrl+1 a Ctrl+6)	Heading (Ctrl+1 to Ctrl+6)	Заголовок (Ctrl+1 – Ctrl+6)
+Lista (Ctrl+Mayús+8)	List (Ctrl+Shift+8)	Список (Ctrl+Shift+8)
+Lista numerada (Ctrl+Mayús+7)	Numbered list (Ctrl+Shift+7)	Нумерований список (Ctrl+Shift+7)
+Lista de tareas	Task list	Список завдань
+Cita	Quote	Цитата
+Enlace (Ctrl+K)	Link (Ctrl+K)	Посилання (Ctrl+K)
+Código (Ctrl+Mayús+C)	Code (Ctrl+Shift+C)	Код (Ctrl+Shift+C)
+Bloque de código	Code block	Блок коду
+Tabla (dentro de una: filas y columnas)	Table (inside one: rows and columns)	Таблиця (всередині таблиці: рядки й стовпці)
+Separador	Divider	Роздільник
+Deshacer (Ctrl+Z)	Undo (Ctrl+Z)	Скасувати (Ctrl+Z)
+Rehacer (Ctrl+Y)	Redo (Ctrl+Y)	Повторити (Ctrl+Y)
+Insertar fila debajo	Insert row below	Вставити рядок нижче
+Insertar columna a la derecha	Insert column to the right	Вставити стовпець праворуч
+Eliminar fila	Delete row	Видалити рядок
+Eliminar columna	Delete column	Видалити стовпець
+Alinear la tabla	Align the table	Вирівняти таблицю
+La fila de títulos no se puede eliminar.	The header row can't be deleted.	Рядок заголовків не можна видалити.
+Abrir…	Open…	Відкрити…
+Recargar desde el disco	Reload from disk	Перезавантажити з диска
+Mostrar en la carpeta	Show in folder	Показати в теці
+Copiar la ruta	Copy the path	Копіювати шлях
+Ruta copiada.	Path copied.	Шлях скопійовано.
+Copiar como HTML	Copy as HTML	Копіювати як HTML
+Exportar HTML…	Export HTML…	Експортувати HTML…
+XML anterior de la carpeta   [	Previous XML in the folder   [	Попередній XML у теці   [
+XML siguiente de la carpeta   ]	Next XML in the folder   ]	Наступний XML у теці   ]
+XML recientes	Recent XML	Нещодавні XML
+HTML copiado.	HTML copied.	HTML скопійовано.
+Exportar HTML	Export HTML	Експорт HTML
+Página web|*.html;*.htm|Todos los archivos|*.*	Web page|*.html;*.htm|All files|*.*	Вебсторінка|*.html;*.htm|Усі файли|*.*
+Sangría	Indentation	Відступ
+2 espacios	2 spaces	2 пробіли
+4 espacios	4 spaces	4 пробіли
+Tabulador	Tab	Табуляція
+Atributos en líneas nuevas	Attributes on new lines	Атрибути з нових рядків
+Pega o arrastra un .md, .xml o texto	Paste or drag in a .md, .xml or some text	Встав або перетягни .md, .xml чи текст
+Ctrl+V pega desde el portapapeles. Admite .md y .txt de hasta 2 MB, y .xml de hasta 8 MB.	Ctrl+V pastes from the clipboard. Supports .md and .txt up to 2 MB, and .xml up to 8 MB.	Ctrl+V вставляє з буфера обміну. Підтримуються .md і .txt до 2 МБ та .xml до 8 МБ.
+Abrir archivo…	Open file…	Відкрити файл…
+Abrir (Ctrl+O)	Open (Ctrl+O)	Відкрити (Ctrl+O)
+Documento en blanco	Blank document	Порожній документ
+Leyendo el XML…	Reading the XML…	Читаю XML…
+El XML no está bien formado	The XML isn't well-formed	XML сформовано некоректно
+Corrígelo en el editor: esta vista se actualiza sola.	Fix it in the editor: this view updates by itself.	Виправ у редакторі: цей перегляд оновиться сам.
+Pasa a Editar para corregirlo.	Switch to Edit to fix it.	Перейди в режим «Редагувати», щоб виправити.
+Ir al error	Go to error	До помилки
+Ver, editar y convertir Markdown o XML en una captura	View, edit and turn Markdown or XML into a screenshot	Перегляд, редагування та перетворення Markdown чи XML на знімок
+sin guardar	unsaved	не збережено
+guardado	saved	збережено
+sin cambios	no changes	без змін
+leyendo…	reading…	читаю…
+XML con errores	XML with errors	XML з помилками
+bien formado	well-formed	коректний
+(los primeros)	(the first ones)	(перші)
+Abrir un documento Markdown o XML	Open a Markdown or XML document	Відкрити документ Markdown або XML
+Markdown, XML y texto|*.md;*.markdown;*.mdown;*.mkd;*.xml;*.xsd;*.config;*.svg;*.xaml;*.txt|Todos los archivos|*.*	Markdown, XML and text|*.md;*.markdown;*.mdown;*.mkd;*.xml;*.xsd;*.config;*.svg;*.xaml;*.txt|All files|*.*	Markdown, XML і текст|*.md;*.markdown;*.mdown;*.mkd;*.xml;*.xsd;*.config;*.svg;*.xaml;*.txt|Усі файли|*.*
+En el portapapeles no hay texto ni un archivo .md o .xml.	There's no text or .md/.xml file on the clipboard.	У буфері обміну немає ні тексту, ні файлу .md чи .xml.
+Si guardas, tu versión sustituye a la del disco.	If you save, your version replaces the one on disk.	Якщо зберегти, твоя версія замінить версію на диску.
+Sobrescribir	Overwrite	Перезаписати
+Guardar igualmente	Save anyway	Усе одно зберегти
+Puedo guardarlo en UTF-8, que admite cualquier carácter.	I can save it as UTF-8, which supports any character.	Можу зберегти в UTF-8, що підтримує будь-які символи.
+Guardar en UTF-8	Save as UTF-8	Зберегти як UTF-8
+No he podido guardar.	Couldn't save.	Не вдалося зберегти.
+Guardar como	Save as	Зберегти як
+XML|*.xml|Todos los archivos|*.*	XML|*.xml|All files|*.*	XML|*.xml|Усі файли|*.*
+Markdown|*.md|Texto|*.txt|Todos los archivos|*.*	Markdown|*.md|Text|*.txt|All files|*.*	Markdown|*.md|Текст|*.txt|Усі файли|*.*
+Se perderán los cambios que no has guardado.	Unsaved changes will be lost.	Незбережені зміни буде втрачено.
+Recargar	Reload	Перезавантажити
+Recargado desde el disco.	Reloaded from disk.	Перезавантажено з диска.
+Recargado: el archivo cambió fuera de Stackshot.	Reloaded: the file changed outside Stackshot.	Перезавантажено: файл змінено поза Stackshot.
+El archivo ha cambiado en el disco y aquí tienes cambios sin guardar.	The file changed on disk and you have unsaved changes here.	Файл змінився на диску, а тут є незбережені зміни.
+El archivo ya no existe en el disco. Guárdalo para no perder el texto.	The file no longer exists on disk. Save it so you don't lose the text.	Файлу більше немає на диску. Збережи його, щоб не втратити текст.
+Mantener mis cambios	Keep my changes	Залишити мої зміни
+La expresión tarda demasiado: no he reemplazado nada.	The expression is taking too long: I didn't replace anything.	Вираз виконується надто довго: нічого не замінено.
+No hay nada que reemplazar.	There's nothing to replace.	Нічого замінювати.
+Pulsa Esc otra vez para cerrar.	Press Esc again to close.	Натисни Esc ще раз, щоб закрити.
+No he encontrado ningún texto ni archivo .md o .xml en lo que has soltado.	I couldn't find any text or .md/.xml file in what you dropped.	У тому, що ти скинув, не знайдено ні тексту, ні файлу .md чи .xml.
+Abriendo el editor…	Opening the editor…	Відкриваю редактор…
+Ya estaba ordenado.	It was already tidy.	Уже впорядковано.
+Ya estaba	Already was	Уже було
+Documento ordenado.	Document tidied up.	Документ упорядковано.
+Ordenado	Tidied	Готово
+No hay títulos suficientes para un índice.	There aren't enough headings for a table of contents.	Заголовків замало для змісту.
+Índice insertado.	Contents inserted.	Зміст вставлено.
+Insertado	Inserted	Вставлено
+Ya estoy formateando…	I'm already formatting…	Форматування вже триває…
+Formateando…	Formatting…	Форматую…
+Compactando…	Minifying…	Стискаю…
+Ya estaba formateado.	It was already formatted.	Уже відформатовано.
+Ya estaba compacto.	It was already compact.	Уже стиснуто.
+XML formateado.	XML formatted.	XML відформатовано.
+XML compactado.	XML minified.	XML стиснуто.
+Corrige el XML antes de crear la imagen.	Fix the XML before creating the image.	Виправ XML, перш ніж створювати зображення.
+Pasa a Vista para crear la imagen del XML.	Switch to View to create the XML image.	Перейди в режим «Перегляд», щоб створити зображення XML.
+Demasiado largo para una imagen	Too long for an image	Задовге для зображення
+Como imagen mediría más de 16.000 píxeles de alto y no se podría ver bien. En PDF va entero, repartido en páginas.	As an image it would be over 16,000 pixels tall and couldn't be viewed properly. As a PDF it fits whole, split across pages.	Як зображення воно мало б понад 16 000 пікселів заввишки, і його було б важко роздивитися. У PDF воно вміщається повністю, розбите на сторінки.
+Guardar como PDF	Save as PDF	Зберегти як PDF
+XML copiado.	XML copied.	XML скопійовано.
+Markdown copiado.	Markdown copied.	Markdown скопійовано.
+Copiado	Copied	Скопійовано
+Imagen copiada.	Image copied.	Зображення скопійовано.
+Copiada	Copied	Скопійовано
+No he podido añadir la captura.	Couldn't add the screenshot.	Не вдалося додати знімок.
+Documento	Document	Документ
+No hay ningún adjunto.	There is no attachment.	Немає жодного вкладення.
+El campo no es base64 válido.	The field isn't valid base64.	Поле не є коректним base64.
+imagen PNG	PNG image	зображення PNG
+imagen JPEG	JPEG image	зображення JPEG
+imagen GIF	GIF image	зображення GIF
+imagen BMP	BMP image	зображення BMP
+imagen TIFF	TIFF image	зображення TIFF
+un ejecutable	an executable	виконуваний файл
+un acceso directo	a shortcut	ярлик
+ZIP u Office	ZIP or Office	ZIP або Office
+archivo de texto	text file	текстовий файл
+un documento de Office con macros	an Office document with macros	документ Office з макросами
+documento de Word	Word document	документ Word
+hoja de Excel	Excel spreadsheet	таблиця Excel
+presentación de PowerPoint	PowerPoint presentation	презентація PowerPoint
+un archivo ZIP	a ZIP archive	ZIP-архів
+No he podido escribir el adjunto en la carpeta temporal.	Couldn't write the attachment to the temporary folder.	Не вдалося записати вкладення в тимчасову теку.
+Los dos XML son iguales	The two XML files are identical	Обидва XML однакові
+No cuentan los espacios en blanco, el orden de los atributos ni los prefijos de los espacios de nombres.	Whitespace, attribute order and namespace prefixes don't count.	Пробіли, порядок атрибутів і префікси просторів імен не враховуються.
+Siguiente diferencia   F7	Next difference   F7	Наступна відмінність   F7
+Diferencia anterior   Mayús+F7	Previous difference   Shift+F7	Попередня відмінність   Shift+F7
+No hay diferencias que mostrar.	There are no differences to show.	Немає відмінностей для показу.
+La comparación es demasiado larga para una sola imagen.	The comparison is too long for a single image.	Порівняння задовге для одного зображення.
+Es demasiado grande (máximo 8 MB de XML).	It's too large (max 8 MB of XML).	Завеликий (максимум 8 МБ XML).
+No hay ningún elemento XML.	There is no XML element.	Немає жодного елемента XML.
+Tiene una declaración DOCTYPE (DTD), que Stackshot no procesa por seguridad. Quita esa línea para verlo.	It has a DOCTYPE (DTD) declaration, which Stackshot doesn't process for security reasons. Remove that line to view it.	Містить оголошення DOCTYPE (DTD), яке Stackshot з міркувань безпеки не обробляє. Видали цей рядок, щоб переглянути.
+Está tan anidado o es tan grande que no se puede formatear con sangría.	It's so deeply nested or so large that it can't be indented.	Він так глибоко вкладений або такий великий, що його не можна відформатувати з відступами.
+No hay nada seleccionado.	Nothing is selected.	Нічого не вибрано.
+Solo los elementos y el texto se pueden copiar como JSON.	Only elements and text can be copied as JSON.	Як JSON можна копіювати лише елементи й текст.
+Es demasiado grande para copiarlo como JSON.	It's too large to copy as JSON.	Завеликий, щоб копіювати як JSON.
+Añadido: 	Added: 	Додано: 
+Quitado: 	Removed: 	Видалено: 
+Cambiado: 	Changed: 	Змінено: 
+Diferencias entre los dos XML	Differences between the two XML files	Відмінності між двома XML
+Árbol del XML	XML tree	Дерево XML
+Copiar valor	Copy value	Копіювати значення
+Valor copiado.	Value copied.	Значення скопійовано.
+Su nombre es de un programa o un script: solo se puede guardar	Its name is that of a program or script: it can only be saved	Назва належить програмі чи скрипту: його можна лише зберегти
+Tipo desconocido: solo se puede guardar	Unknown type: it can only be saved	Невідомий тип: його можна лише зберегти
+Guardar el adjunto como…	Save the attachment as…	Зберегти вкладення як…
+JSON copiado.	JSON copied.	JSON скопійовано.
+No he podido convertirlo a JSON.	Couldn't convert it to JSON.	Не вдалося перетворити на JSON.
+Anterior (Mayús+Enter)	Previous (Shift+Enter)	Попередній (Shift+Enter)
+Siguiente (Enter)	Next (Enter)	Наступний (Enter)
+Mostrar solo lo que coincide	Show only what matches	Показувати лише збіги
+Copiar ruta (XPath)	Copy path (XPath)	Копіювати шлях (XPath)
+Copiado en parte: la selección es demasiado grande.	Partly copied: the selection is too large.	Скопійовано частково: виділення завелике.
+No hay nada que mostrar.	There's nothing to show.	Нема що показувати.
+El XML es demasiado largo para una sola imagen.	The XML is too long for a single image.	XML задовгий для одного зображення.
+No reconozco esta ruta: {0}	I don't recognize this path: {0}	Не розпізнаю цей шлях: {0}
+Hay un carácter que XML no admite. {0}	There is a character that XML doesn't allow. {0}	Є символ, який XML не підтримує. {0}
+Prefijo de espacio de nombres sin declarar. {0}	Undeclared namespace prefix. {0}	Необоголошений префікс простору імен. {0}
+código	code	код
+No he podido abrir el diálogo de guardar.	Couldn't open the save dialog.	Не вдалося відкрити діалог збереження.
+No puedo mostrar imágenes SVG	I can't show SVG images	Не вдається показати зображення SVG
+El archivo termina antes de lo esperado.	The file ends earlier than expected.	Файл закінчується раніше, ніж очікувалося.
+Falta el elemento raíz.	The root element is missing.	Бракує кореневого елемента.
+Hay más de un elemento raíz.	There is more than one root element.	Є більше одного кореневого елемента.
+Hay texto fuera del elemento raíz o el documento empieza mal.	There is text outside the root element, or the document starts incorrectly.	Є текст поза кореневим елементом, або документ починається некоректно.
+Referencia a una entidad no válida (para escribir & usa &amp;).	Invalid entity reference (to write & use &amp;).	Недійсне посилання на сутність (щоб написати &, використовуй &amp;).

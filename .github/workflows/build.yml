@@ -1,0 +1,166 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+
+# Read-only by default; only the release job (v* tags) can write.
+# Actions are pinned to commit SHAs (tags can be moved).
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Compilar
+        shell: powershell
+        run: .\build.ps1
+
+      # Deterministic suites that need neither FFmpeg nor the screen: the FFmpeg arguments of every quality against
+      # the v2.0.0 reference, the Cine hash, arguments and memory budgets, and the exact sound timeline.
+      - name: Pruebas
+        shell: powershell
+        run: |
+          .\tests\cine\run-tests.ps1 regression hash args pool audio
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+
+      # More suites that need no screen, FFmpeg or network: stitching, settings, policies, command line, folder watch and
+      # editor arguments. Reported on every build but not yet blocking, until they have proved steady on CI runners.
+      - name: Pruebas ampliadas (informativas)
+        continue-on-error: true
+        shell: powershell
+        run: |
+          $failed = 0
+          .\tests\app\run-tests.ps1 scroll explain hunt-settings w6cli xmlwatch
+          $failed += $LASTEXITCODE
+          .\tests\editor\run-tests.ps1 args atomic
+          $failed += $LASTEXITCODE
+          if ($failed -ne 0) { Write-Host "::warning::$failed extended tests failed"; exit 1 }
+
+      # A release tag must match the version compiled into the app (AssemblyVersion in src/Program.cs).
+      - name: Versión de la etiqueta
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: powershell
+        run: |
+          $tag = $env:GITHUB_REF_NAME.TrimStart('v')
+          $built = (Get-Item 'bin\Stackshot.exe').VersionInfo.FileVersion
+          if (-not $built.StartsWith($tag + '.') -and $built -ne $tag) { Write-Host "::error::Tag v$tag but the app says $built (src/Program.cs)"; exit 1 }
+
+      - name: Paquete MSI
+        shell: powershell
+        run: .\tools\build-msi.ps1
+
+      - name: Sumas SHA-256
+        shell: powershell
+        run: |
+          foreach ($f in 'Stackshot.exe', 'Stackshot.msi') {
+            $h = (Get-FileHash "bin\$f" -Algorithm SHA256).Hash.ToLower()
+            # sha256sum format with a Unix newline, so `sha256sum -c` also works on Linux and macOS.
+            [IO.File]::WriteAllText("bin\$f.sha256", "$h  $f`n")
+            Write-Host "$f SHA-256: $h"
+          }
+
+      # In-app updates only install a Stackshot.exe signed with this key (RSA-PSS, public key in src/Updater.cs).
+      # Without the secret (forks, pull requests) the build still works, but the app won't install that version.
+      - name: Firma de actualizaciones
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: powershell
+        env:
+          UPDATE_SIGNING_KEY: ${{ secrets.UPDATE_SIGNING_KEY }}
+        run: |
+          if (-not $env:UPDATE_SIGNING_KEY) { Write-Host '::warning::UPDATE_SIGNING_KEY not set: this release cannot be installed from the app.'; exit 0 }
+          $rsa = New-Object System.Security.Cryptography.RSACng
+          $rsa.FromXmlString($env:UPDATE_SIGNING_KEY)
+          $data = [IO.File]::ReadAllBytes('bin\Stackshot.exe')
+          $sig = $rsa.SignData($data, [Security.Cryptography.HashAlgorithmName]::SHA256, [Security.Cryptography.RSASignaturePadding]::Pss)
+          [IO.File]::WriteAllText('bin\Stackshot.exe.sig', [Convert]::ToBase64String($sig))
+          $rsa.Dispose()
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: Stackshot
+          path: |
+            bin/Stackshot.exe
+            bin/Stackshot.exe.sha256
+            bin/Stackshot.exe.sig
+            bin/Stackshot.msi
+            bin/Stackshot.msi.sha256
+          if-no-files-found: error
+
+  release:
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # create the release and upload assets
+      id-token: write      # sign provenance (Sigstore)
+      attestations: write  # store the attestation on GitHub
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: Stackshot
+          path: dist
+
+      # Verifiable proof that the .exe and .msi were built from this code by this workflow:
+      #   gh attestation verify Stackshot.exe --repo rubenitx/stackshot
+      - uses: actions/attest-build-provenance@4d101475d8b20a2381f78447822ac1eab6504dd8 # v4.2.2
+        with:
+          subject-path: |
+            dist/Stackshot.exe
+            dist/Stackshot.msi
+
+      - name: Notas de la versión
+        run: |
+          v="${GITHUB_REF_NAME#v}"
+          awk -v v="$v" '/^## /{p = index($0, "## " v) == 1; next} p' CHANGELOG.md > notes.md
+          # The same news in Spanish, between markers the app reads to tell what a new version brings before updating.
+          awk -v v="$v" '/^## /{p = $0 == "## " v; next} p' docs/novedades.md > es.md
+          if grep -q '^- ' es.md; then
+            {
+              echo
+              echo "<details><summary>Novedades en español</summary>"
+              echo
+              echo "<!-- novedades -->"
+              cat es.md
+              echo "<!-- /novedades -->"
+              echo
+              echo "</details>"
+            } >> notes.md
+          fi
+          base="https://github.com/${GITHUB_REPOSITORY}/releases/download/${GITHUB_REF_NAME}"
+          exe=$(cut -d' ' -f1 dist/Stackshot.exe.sha256)
+          msi=$(cut -d' ' -f1 dist/Stackshot.msi.sha256)
+          {
+            echo
+            echo "### Download"
+            echo
+            echo "| File | For | SHA-256 |"
+            echo "|---|---|---|"
+            echo "| **[Stackshot.exe]($base/Stackshot.exe)** | Individual use: run it and follow the welcome window | \`$exe\` |"
+            echo "| **[Stackshot.msi]($base/Stackshot.msi)** | IT deployment (Intune, SCCM, \`msiexec /i Stackshot.msi /qn\`) | \`$msi\` |"
+            echo
+            echo "Both install per user on Windows 10/11 without administrator rights."
+            echo "Verify that a file was built from this repository: \`gh attestation verify <file> --repo ${GITHUB_REPOSITORY}\`"
+          } >> notes.md
+          cat notes.md
+
+      - uses: softprops/action-gh-release@efb35369e0ad2afab669f228072c1b0d510eae64 # v3.0.3
+        with:
+          body_path: notes.md
+          files: |
+            dist/Stackshot.exe
+            dist/Stackshot.exe.sha256
+            dist/Stackshot.exe.sig
+            dist/Stackshot.msi
+            dist/Stackshot.msi.sha256

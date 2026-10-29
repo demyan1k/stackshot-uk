@@ -1,0 +1,635 @@
+# Home window, pages, history, welcome, tray panel, search: spanish <TAB> english <TAB> ukrainian
+Ajustes de grabación	Recording settings	Налаштування запису
+Abrir Stackshot	Open Stackshot	Відкрити Stackshot
+Abrir {0}	Open {0}	Відкрити {0}
+Clics y teclas	Clicks and keys	Кліки та клавіші
+Se dibujan en el vídeo mientras grabas, para que quien lo vea siga lo que haces. No salen durante las pausas.	They are drawn on the video while you record, so whoever watches can follow what you do. They don't appear during pauses.	Вони малюються на відео під час запису, щоб глядач міг стежити за твоїми діями. Під час пауз їх не видно.
+Mostrar los clics	Show clicks	Показувати кліки
+Un círculo donde haces clic: azul con el botón izquierdo y naranja con el derecho.	A circle where you click: blue with the left button and orange with the right one.	Коло в місці кліка: синє для лівої кнопки й помаранчеве для правої.
+Mostrar las teclas pulsadas	Show pressed keys	Показувати натиснуті клавіші
+Los atajos (Ctrl + C, Alt + Tab, Win + Mayús + S…) salen abajo, en el centro. Lo que escribes nunca aparece, así que tus contraseñas tampoco.	Shortcuts (Ctrl + C, Alt + Tab, Win + Shift + S…) appear at the bottom, in the centre. What you type never shows up, so your passwords don't either.	Комбінації (Ctrl + C, Alt + Tab, Win + Shift + S…) з’являються внизу по центру. Те, що ти друкуєш, ніколи не показується, тож паролі теж.
+Pulsa la combinación que quieras; Supr la quita y Esc cancela	Press the combination you want; Del removes it and Esc cancels	Натисни потрібну комбінацію; Del прибирає її, Esc скасовує
+Ir a Inicio	Go to Home	Перейти на головну
+Ejecutar	Run	Виконати
+Abrir	Open	Відкрити
+Captura reciente: {0}	Recent screenshot: {0}	Недавній знімок: {0}
+Vídeo reciente: {0}	Recent video: {0}	Недавнє відео: {0}
+GIF reciente: {0}	Recent GIF: {0}	Недавній GIF: {0}
+Inicio	Home	Головна
+Historial	History	Історія
+Atajos	Shortcuts	Гарячі клавіші
+General	General	Загальні
+Fondo y editor	Background and editor	Фон і редактор
+Grabación	Recording	Запис
+Mascota	Mascot	Маскот
+Acerca de	About	Про програму
+Secciones	Sections	Розділи
+Versión {0}	Version {0}	Версія {0}
+Ajustes de la mascota	Mascot settings	Налаштування маскота
+Nivel {0} · {1}	Level {0} · {1}	Рівень {0} · {1}
+{0} {1} para el nivel {2}	{0} {1} to level {2}	{0} {1} до рівня {2}
+captura	screenshot	знімок
+capturas (2-4)	screenshots	знімки
+capturas	screenshots	знімків
+Nivel máximo	Max level	Максимальний рівень
+Capturar un área	Capture an area	Захопити область
+Capturar un área de la pantalla	Capture an area of the screen	Захопити область екрана
+Detener la grabación	Stop recording	Зупинити запис
+Grabar vídeo	Record video	Записати відео
+Grabando…	Recording…	Триває запис…
+Capturando con desplazamiento	Capturing with scrolling	Захоплення з прокручуванням
+Versión {0} disponible	Version {0} available	Доступна версія {0}
+Echando una siesta	Taking a nap	Дрімає
+Listo para capturar	Ready to capture	Готово до захоплення
+{0} Soy {1}. ¿Qué capturamos?	{0} I'm {1}. What shall we capture?	{0} Я {1}. Що захопимо?
+{0} Soy {1}.	{0} I'm {1}.	{0} Я {1}.
+Repetir la última área	Repeat the last area	Повторити останню область
+Capturar la pantalla	Capture the screen	Захопити екран
+Capturar la ventana activa	Capture the active window	Захопити активне вікно
+Captura con desplazamiento	Scrolling capture	Захоплення з прокручуванням
+Copiar texto de la pantalla	Copy text from the screen	Копіювати текст з екрана
+Grabar GIF	Record GIF	Записати GIF
+Ver y ordenar Markdown	View and organise Markdown	Переглянути й упорядкувати Markdown
+Capturar con temporizador	Capture with a timer	Захоплення з таймером
+Un área	An area	Область
+La última área	Last area	Остання область
+Pantalla completa	Full screen	Весь екран
+Una ventana	A window	Вікно
+Con desplazamiento	With scrolling	З прокручуванням
+Copiar texto	Copy text	Копіювати текст
+Vídeo	Video	Відео
+GIF animado	Animated GIF	Анімований GIF
+Con temporizador	With a timer	З таймером
+Rendimiento	Performance	Продуктивність
+Equilibrado	Balanced	Збалансований
+Completo	Full	Повний
+Sin atajo	No shortcut	Без комбінації
+Pulsa la combinación…	Press the combination…	Натисни комбінацію…
+Cambiar…	Change…	Змінити…
+¿Dónde quieres guardar las capturas que conserves?	Where do you want to save the screenshots you keep?	Куди зберігати знімки, які ти залишаєш?
+Donde van las capturas que guardas.	Where the screenshots you save go.	Куди потрапляють знімки, які ти зберігаєш.
+{0} también es de «{1}»	{0} also belongs to “{1}”	{0} також призначено для «{1}»
+{0} lo está usando otro programa	{0} is being used by another program	{0} використовує інша програма
+y {0} más	and {0} more	і ще {0}
+También: {0}	Also: {0}	Також: {0}
+{0} era de «{1}», que se ha quedado sin atajo.	{0} belonged to “{1}”, which is left without a shortcut.	{0} належала «{1}», тепер у неї немає комбінації.
+{0} era de «{1}»; ahora es de «{2}».	{0} belonged to “{1}”; now it belongs to “{2}”.	{0} належала «{1}»; тепер вона належить «{2}».
+Impr Pant ya es de Stackshot	Print Screen now belongs to Stackshot	Print Screen тепер належить Stackshot
+Windows la tenía reservada para Recortes; ya está liberada en tu usuario. Si aún se abre Recortes, cierra sesión y vuelve a entrar.	Windows had it reserved for the Snipping Tool; it is now freed for your user. If the Snipping Tool still opens, sign out and back in.	Windows зарезервувала її для «Ножиців»; для твого користувача вона вже вільна. Якщо «Ножиці» все ще відкриваються, вийди з системи й увійди знову.
+{0} y {1}	{0} and {1}	{0} і {1}
+Haz clic en un atajo y pulsa la combinación que quieras, con Ctrl, Alt, Mayús o Win. Supr lo quita y Esc cancela.	Click a shortcut and press the combination you want, with Ctrl, Alt, Shift or Win. Del removes it and Esc cancels.	Клацни комбінацію й натисни потрібні клавіші разом з Ctrl, Alt, Shift або Win. Del прибирає її, Esc скасовує.
+Impr Pant abre Recortes de Windows	Print Screen opens the Windows Snipping Tool	Print Screen відкриває «Ножиці» Windows
+Para que capture con Stackshot hay que liberarla. Solo cambia en tu usuario.	To make it capture with Stackshot it has to be freed. It only changes for your user.	Щоб вона захоплювала через Stackshot, її треба звільнити. Змінюється лише для твого користувача.
+Liberar	Free it	Звільнити
+Si otro programa (Recortes, ShareX, Lightshot…) ya usa alguno, aparecerá marcado en naranja y Stackshot te avisará junto al reloj.	If another program (Snipping Tool, ShareX, Lightshot…) already uses one, it will be marked in orange and Stackshot will let you know next to the clock.	Якщо якусь із комбінацій уже використовує інша програма («Ножиці», ShareX, Lightshot…), її буде позначено помаранчевим, а Stackshot сповістить тебе біля годинника.
+Restaurar los atajos de serie	Restore the default shortcuts	Відновити стандартні комбінації
+Un perfil solo cambia unos pocos ajustes de golpe; después puedes retocar cualquiera.	A profile only changes a few settings at once; afterwards you can tweak any of them.	Профіль змінює лише кілька налаштувань одразу; потім можеш підлаштувати будь-яке з них.
+Has cambiado {0} respecto a este perfil. 	You've changed {0} compared with this profile. 	Відмінності від цього профілю: {0}. 
+Volver a aplicar «{0}»	Apply “{0}” again	Застосувати «{0}» знову
+la animación al abrir	the opening animation	анімація під час відкриття
+los saludos de la mascota	the mascot's greetings	привітання маскота
+la mascota en el escritorio	the mascot on the desktop	маскот на робочому столі
+los avisos de pausas	the break reminders	нагадування про перерви
+los comentarios de actividad	the activity comments	коментарі про активність
+Cómo arranca Stackshot y qué hace cada vez que capturas.	How Stackshot starts and what it does each time you capture.	Як запускається Stackshot і що він робить щоразу, коли ти робиш знімок.
+Lo justo para capturar: sin mascota (ni en la ventana ni en el escritorio, y sin gastar nada en ella), sin animación al abrir y sin avisos por fuera. Ideal para equipos justos.	Just what you need to capture: no mascot (neither in the window nor on the desktop, and nothing spent on it), no opening animation and no notices outside. Ideal for modest computers.	Лише найнеобхідніше для знімків: без маскота (ні у вікні, ні на робочому столі, і без жодних витрат на нього), без анімації під час відкриття та без сповіщень ззовні. Ідеально для слабких комп’ютерів.
+El equilibrio de siempre: animaciones suaves y la mascota solo dentro de Stackshot.	The usual balance: smooth animations and the mascot only inside Stackshot.	Звичайний баланс: плавні анімації та маскот лише всередині Stackshot.
+Todo activado: la mascota también paseando por el escritorio, sus saludos y los avisos de salud.	Everything on: the mascot also strolling around the desktop, its greetings and the health reminders.	Усе ввімкнено: маскот ще й гуляє робочим столом, вітається та нагадує про здоров’я.
+Perfil	Profile	Профіль
+Perfil rápido	Quick profile	Швидкий профіль
+Apariencia	Appearance	Вигляд
+Tema	Theme	Тема
+Claro u oscuro, o el mismo que tenga Windows en cada momento.	Light or dark, or whatever Windows has at the moment.	Світла чи темна, або така сама, як зараз у Windows.
+Como Windows	Like Windows	Як у Windows
+Claro	Light	Світла
+Oscuro	Dark	Темна
+Vista de Inicio	Home view	Вигляд головної
+Cómo se ve la página principal.	How the main page looks.	Як виглядає головна сторінка.
+Arranque	Startup	Запуск
+Iniciar con Windows	Start with Windows	Запускати разом із Windows
+Arranca en segundo plano al encender el equipo.	Starts in the background when you turn the computer on.	Запускається у фоновому режимі під час вмикання комп’ютера.
+Seguir en la bandeja al cerrar	Stay in the tray when closed	Залишатися в треї після закриття
+Al cerrar esta ventana, Stackshot sigue funcionando junto al reloj.	When you close this window, Stackshot keeps running next to the clock.	Коли закриваєш це вікно, Stackshot продовжує працювати біля годинника.
+Animación al abrir	Opening animation	Анімація під час відкриття
+La bienvenida con el logo cuando abres Stackshot.	The welcome with the logo when you open Stackshot.	Вітання з логотипом, коли відкриваєш Stackshot.
+Actualizaciones	Updates	Оновлення
+Archivos	Files	Файли
+Abrir .md con Stackshot	Open .md with Stackshot	Відкривати .md у Stackshot
+Abrir .xml con Stackshot	Open .xml with Stackshot	Відкривати .xml у Stackshot
+Abrir .mkv con Stackshot	Open .mkv with Stackshot	Відкривати .mkv у Stackshot
+Aplicaciones predeterminadas de Windows	Windows default apps	Типові програми Windows
+Ahí eliges qué programa abre cada tipo de archivo; Stackshot nunca lo cambia por su cuenta.	That's where you choose which program opens each file type; Stackshot never changes it on its own.	Там ти обираєш, яка програма відкриває кожен тип файлів; Stackshot ніколи не змінює це самостійно.
+Grabaciones recuperadas	Recovered recordings	Відновлені записи
+{0} de grabaciones que no llegaron a terminar. Stackshot nunca las borra: ábrelas, guárdalas o bórralas tú.	{0} of recordings that never finished. Stackshot never deletes them: open them, save them or delete them yourself.	{0} записів, які не вдалося завершити. Stackshot їх ніколи не видаляє: відкрий, збережи або видали їх сам.
+Usar la tecla Impr Pant	Use the Print Screen key	Використовувати клавішу Print Screen
+Ahora la usa Recortes de Windows. Se cambia solo en tu usuario.	The Windows Snipping Tool uses it now. It only changes for your user.	Зараз її використовують «Ножиці» Windows. Змінюється лише для твого користувача.
+Usar	Use	Використати
+Recientes	Recent	Нещодавні
+Mostrar capturas recientes en Inicio	Show recent screenshots on Home	Показувати нещодавні знімки на головній
+Desactívalo y Inicio no muestra ni carga miniaturas.	Turn it off and Home neither shows nor loads thumbnails.	Вимкни, і головна не показуватиме й не завантажуватиме мініатюри.
+Buscar por el texto de las capturas	Search by screenshot text	Шукати за текстом на знімках
+Stackshot lee el texto de cada captura en tu equipo para que el Historial la encuentre por lo que ponía.	Stackshot reads the text of each screenshot on your computer so History can find it by what it said.	Stackshot читає текст кожного знімка на твоєму комп’ютері, щоб Історія могла знайти його за написаним.
+Guardar las temporales	Keep temporary ones	Зберігати тимчасові
+Cuánto duran las capturas que no guardas en tu carpeta.	How long the screenshots you don't save to your folder last.	Як довго живуть знімки, які ти не зберігаєш у своїй теці.
+1 hora	1 hour	1 година
+Al cerrar	On close	Під час закриття
+1 día	1 day	1 день
+7 días	7 days	7 днів
+30 días	30 days	30 днів
+Borrar recientes	Clear recent	Очистити нещодавні
+Quita las capturas temporales; las de tu carpeta no se tocan.	Removes the temporary screenshots; those in your folder are left alone.	Прибирає тимчасові знімки; ті, що в твоїй теці, не чіпаються.
+Borrar	Delete	Видалити
+Al capturar	When capturing	Під час захоплення
+Después de seleccionar un área	After selecting an area	Після вибору області
+Directo la envía a la pila; Ajustar antes te deja moverla y redimensionarla viendo cómo quedará, y la capturas con Enter; con opciones además eliges captura, vídeo, GIF o desplazamiento.	Direct sends it to the stack; Adjust first lets you move and resize it while seeing how it will look, and you capture with Enter; with options you also pick screenshot, video, GIF or scrolling.	«Одразу» надсилає її в стос; «Підрегулювати» дозволяє пересунути й змінити розмір, бачачи результат, а знімок робиться клавішею Enter; з опціями ще й обираєш знімок, відео, GIF або прокручування.
+Directo a la pila	Straight to the stack	Одразу в стос
+Ajustar antes	Adjust first	Спершу підрегулювати
+Mostrar opciones	Show options	Показати опції
+Sonido de cámara	Camera sound	Звук камери
+Un clic suave cada vez que capturas.	A soft click every time you capture.	М’який клік щоразу, коли робиш знімок.
+Copiar cada captura	Copy every screenshot	Копіювати кожен знімок
+Lista para pegar con Ctrl+V nada más hacerla; los vídeos y GIF, como archivo.	Ready to paste with Ctrl+V right after taking it; videos and GIFs as a file.	Готовий до вставлення через Ctrl+V одразу після створення; відео та GIF — як файл.
+Esconder las miniaturas	Hide the thumbnails	Ховати мініатюри
+Si no las usas, se apartan al borde y solo asoma un trocito; al pasar el ratón por encima vuelven.	If you don't use them, they move to the edge and only a sliver shows; hover over it and they come back.	Якщо ти ними не користуєшся, вони відсуваються до краю й видно лише краєчок; наведи курсор, і вони повернуться.
+No	No	Ні
+A los 3 s	After 3 s	Через 3 с
+A los 5 s	After 5 s	Через 5 с
+A los 10 s	After 10 s	Через 10 с
+Captura con temporizador	Timer capture	Захоплення з таймером
+Eliges el área y cuenta atrás antes de capturar: da tiempo a abrir un menú o un aviso. Esc la cancela.	You pick the area and it counts down before capturing: time to open a menu or a notice. Esc cancels it.	Ти обираєш область, і перед захопленням іде відлік: є час відкрити меню чи сповіщення. Esc скасовує.
+3 s	3 s	3 с
+5 s	5 s	5 с
+10 s	10 s	10 с
+Seguir al ratón entre pantallas	Follow the mouse between screens	Слідувати за мишею між екранами
+Con varias pantallas, las miniaturas van a la del ratón.	With several screens, the thumbnails go to the one with the mouse.	Якщо екранів кілька, мініатюри з’являються на тому, де миша.
+Incluir el puntero	Include the pointer	Включати вказівник
+El puntero del ratón aparece en la captura, donde estaba al empezarla.	The mouse pointer appears in the screenshot, where it was when you started.	Вказівник миші з’являється на знімку там, де він був на початку.
+Datos sensibles	Sensitive data	Чутливі дані
+Tapar los datos sensibles al capturar	Cover sensitive data when capturing	Приховувати чутливі дані під час захоплення
+DNI, NIE, número de la Seguridad Social, IBAN, tarjetas, correos y teléfonos se tapan solos en cada captura. Se leen en tu equipo; nada sale de él.	ID numbers, social security numbers, IBANs, cards, emails and phone numbers are covered automatically in every capture. They are read on your computer; nothing leaves it.	Посвідчення особи, номери соцстрахування, IBAN, картки, пошта й телефони автоматично приховуються на кожному знімку. Їх розпізнають на твоєму комп’ютері; нічого не залишає його.
+Apagado, decides tú: en el editor, «Datos sensibles» los tapa con marcas que puedes quitar.	When off, you decide: in the editor, “Sensitive data” covers them with marks you can remove.	Коли вимкнено, вирішуєш ти: у редакторі «Чутливі дані» закриває їх позначками, які можна прибрати.
+Capturas guardadas	Saved screenshots	Збережені знімки
+Guardar todas las capturas	Save all screenshots	Зберігати всі знімки
+Cada captura y grabación va también a tu carpeta. Apagado, solo las que guardas con Guardar.	Every screenshot and recording also goes to your folder. When off, only the ones you save with Save.	Кожен знімок і запис потрапляє ще й до твоєї теки. Коли вимкнено — лише ті, що ти зберігаєш кнопкою «Зберегти».
+Lo que no está en tu carpeta se borra solo según lo elegido en Recientes (nunca mientras tenga miniatura o esté en el editor).	What isn't in your folder is deleted automatically according to what you chose in Recent (never while it has a thumbnail or is in the editor).	Те, чого немає в твоїй теці, видаляється автоматично згідно з вибором у «Нещодавні» (ніколи, поки є мініатюра або воно відкрите в редакторі).
+Avanzado	Advanced	Додатково
+Abrir los XML nuevos de una carpeta	Open new XMLs from a folder	Відкривати нові XML з теки
+Pensado para programas que dejan cada mensaje SOAP como un archivo XML en una carpeta. En el visor, [ y ] pasan al XML anterior o al siguiente, y «Más opciones» lista los últimos que han llegado.	Meant for programs that leave each SOAP message as an XML file in a folder. In the viewer, [ and ] go to the previous or next XML, and “More options” lists the latest ones that arrived.	Призначено для програм, які залишають кожне SOAP-повідомлення як XML-файл у теці. У переглядачі [ та ] переходять до попереднього чи наступного XML, а «Більше опцій» показує останні, що надійшли.
+Cada XML que aparezca en esa carpeta se abre solo en el visor de Stackshot, delante de todo.	Every XML that appears in that folder opens by itself in the Stackshot viewer, in front of everything.	Кожен XML, що з’являється в цій теці, сам відкривається в переглядачі Stackshot поверх усього.
+Elige abajo la carpeta que vigilar.	Choose the folder to watch below.	Обери внизу теку для спостереження.
+La carpeta no existe todavía; Stackshot la vuelve a buscar cada minuto.	The folder doesn't exist yet; Stackshot looks for it again every minute.	Теки ще не існує; Stackshot шукає її знову щохвилини.
+Activo: los XML nuevos se abren solos en el visor, delante de todo.	Active: new XMLs open by themselves in the viewer, in front of everything.	Активно: нові XML відкриваються самі в переглядачі поверх усього.
+Ninguna carpeta	No folder	Теку не обрано
+Carpeta elegida por ti.	Folder chosen by you.	Теку обрав ти.
+Elige la carpeta donde aparecen los XML.	Choose the folder where the XMLs appear.	Обери теку, де з’являються XML.
+Elegir…	Choose…	Обрати…
+¿Qué carpeta vigilo? Cada XML nuevo que aparezca en ella se abrirá en el visor.	Which folder should I watch? Every new XML that appears in it will open in the viewer.	Яку теку відстежувати? Кожен новий XML, що з’явиться в ній, відкриється в переглядачі.
+Abrir esa ventana	Open that window	Відкрити це вікно
+Stackshot ya aparece entre las aplicaciones que pueden abrir {0}.	Stackshot already appears among the apps that can open {0}.	Stackshot уже є серед програм, які можуть відкривати {0}.
+Elige Stackshot para {0} en la ventana de Windows que se abre ahora: Windows pide que esa decisión la tomes tú.	Choose Stackshot for {0} in the Windows window that opens now: Windows requires that you make that decision yourself.	Обери Stackshot для {0} у вікні Windows, що відкриється зараз: Windows вимагає, щоб це рішення ухвалив ти сам.
+Doble clic en un {0} (los másters Cine, que el reproductor de Windows no abre) y se ve en el reproductor de Stackshot, a tamaño real.	Double-click a {0} (the Cine masters, which the Windows player doesn't open) and it plays in the Stackshot player, at full size.	Подвійний клік на {0} (майстри Cine, які програвач Windows не відкриває) — і він відтворюється в програвачі Stackshot у повному розмірі.
+Doble clic en un {0} y se abre en el visor de Stackshot.	Double-click a {0} and it opens in the Stackshot viewer.	Подвійний клік на {0} — і він відкривається в переглядачі Stackshot.
+Stackshot es la aplicación predeterminada para {0}.	Stackshot is the default app for {0}.	Stackshot — типова програма для {0}.
+Registrado, pero Windows abre los {0} con otra aplicación. Elige Stackshot en Aplicaciones predeterminadas.	Registered, but Windows opens {0} with another app. Choose Stackshot in Default apps.	Зареєстровано, але Windows відкриває {0} іншою програмою. Обери Stackshot у розділі «Типові програми».
+No se pudo abrir la carpeta	Couldn't open the folder	Не вдалося відкрити теку
+¿Borrar las capturas temporales?	Delete the temporary screenshots?	Видалити тимчасові знімки?
+Las guardadas en tu carpeta no se tocan.	The ones saved in your folder are left alone.	Ті, що збережені у твоїй теці, не чіпаються.
+Cancelar	Cancel	Скасувати
+Recientes borradas	Recent cleared	Нещодавні очищено
+Se han borrado las capturas temporales. Las de tu carpeta siguen ahí.	The temporary screenshots have been deleted. The ones in your folder are still there.	Тимчасові знімки видалено. Ті, що в твоїй теці, залишилися.
+Instalar actualizaciones automáticamente	Install updates automatically	Встановлювати оновлення автоматично
+Se descargan, se comprueba su firma y se instalan solas cuando no estés usando el equipo.	They are downloaded, their signature is checked and they install on their own when you're not using the computer.	Їх завантажують, перевіряють підпис і встановлюють самі, коли ти не користуєшся комп’ютером.
+En este equipo las instala informática: Stackshot solo te avisará de cada versión nueva.	On this computer IT installs them: Stackshot will only let you know about each new version.	На цьому комп’ютері їх встановлює ІТ-відділ: Stackshot лише повідомлятиме про кожну нову версію.
+Solo con Stackshot instalado; esta copia no puede instalarse sola.	Only with Stackshot installed; this copy can't install itself.	Лише з установленим Stackshot; ця копія не може встановитися сама.
+Necesita «Buscar actualizaciones»: sin buscarlas no puede instalarlas.	It needs “Check for updates”: without checking for them it can't install them.	Потрібне «Шукати оновлення»: без пошуку встановити їх неможливо.
+Buscar actualizaciones	Check for updates	Шукати оновлення
+Al abrir Stackshot y cada 3 horas pregunta a GitHub si hay una versión nueva. No envía nada tuyo.	When Stackshot opens and every 3 hours it asks GitHub whether there is a new version. It sends nothing of yours.	Під час запуску Stackshot і кожні 3 години він питає GitHub, чи є нова версія. Нічого твого не надсилається.
+Su forma de ser, qué te dice y si te acompaña también por el escritorio.	Its personality, what it says to you and whether it also keeps you company on the desktop.	Його характер, що він тобі каже і чи супроводжує тебе ще й на робочому столі.
+Carácter	Character	Характер
+Mostrar la mascota	Show the mascot	Показувати маскота
+En Inicio y abajo en la barra lateral.	On Home and at the bottom of the sidebar.	На головній і внизу бічної панелі.
+¡He vuelto!	I'm back!	Я повернувся!
+Personalidad	Personality	Особистість
+Lo que dice y cómo se mueve.	What it says and how it moves.	Що він каже і як рухається.
+Saludos y consejos	Greetings and tips	Привітання та поради
+De vez en cuando te cuenta trucos de Stackshot.	Now and then it tells you Stackshot tricks.	Час від часу розповідає тобі про фішки Stackshot.
+Disfraz de temporada	Seasonal costume	Сезонний костюм
+Sin gorro, se pone la calabaza en Halloween y el de Papá Noel en Navidad.	No hat: it puts on the pumpkin at Halloween and Santa's at Christmas.	Без шапки: на Гелловін одягає гарбуз, а на Різдво — шапку Діда Мороза.
+En el escritorio	On the desktop	На робочому столі
+Mascota en el escritorio	Mascot on the desktop	Маскот на робочому столі
+Pasea junto a la barra de tareas, te mira, juega y se echa la siesta.	It strolls along the taskbar, watches you, plays and takes naps.	Гуляє панеллю завдань, дивиться на тебе, грає й дрімає.
+Solo con el perfil Completo (en General › Perfil).	Only with the Full profile (in General › Profile).	Лише з повним профілем (у Загальні › Профіль).
+Activa antes «Mostrar la mascota».	Turn on “Show the mascot” first.	Спершу ввімкни «Показувати маскота».
+Sube a las ventanas	Climbs onto windows	Залазить на вікна
+De vez en cuando salta a la ventana que tienes delante y pasea por encima. Si la mueves, viaja con ella.	Now and then it jumps onto the window in front of you and walks along the top. If you move it, it travels along.	Час від часу стрибає на вікно перед тобою й ходить по ньому. Якщо пересунеш вікно, він їде разом із ним.
+En el escritorio consume algo más: unos 10 MB de memoria y en torno al 1 % de CPU mientras se mueve (casi nada cuando duerme). Se esconde sola con juegos o presentaciones a pantalla completa y nunca sale en tus capturas ni al compartir pantalla. Un clic abre su menú y varios seguidos le hacen cosquillas; puedes arrastrarla a donde quieras.	On the desktop it uses a bit more: about 10 MB of memory and around 1 % of CPU while it moves (almost nothing when it sleeps). It hides by itself during full-screen games or presentations and never shows up in your captures or when sharing your screen. One click opens its menu and several in a row tickle it; you can drag it wherever you like.	На робочому столі він споживає трохи більше: близько 10 МБ пам’яті та приблизно 1 % процесора, поки рухається (майже нічого, коли спить). Сам ховається під час повноекранних ігор чи презентацій і ніколи не потрапляє на твої знімки чи в показ екрана. Один клік відкриває його меню, а кілька поспіль лоскочуть його; можеш перетягнути його куди завгодно.
+{0} para un área	{0} for an area	{0} — область
+{0} para detener	{0} to stop	{0} — зупинити
+{0} para grabar	{0} to record	{0} — записати
+Jugar con {0}	Play with {0}	Пограти з {0}
+Pídele algo a {0}	Ask {0} for something	Попроси щось у {0}
+{0}, soy	{0}, I'm	{0}, я
+¡Ahora me llamo {0}!	My name is {0} now!	Тепер мене звати {0}!
+dddd, d 'de' MMMM	dddd, MMMM d	dddd, d MMMM
++{0} vs ayer	+{0} vs yesterday	+{0} проти вчора
+{0} vs ayer	{0} vs yesterday	{0} проти вчора
+Nivel {0}	Level {0}	Рівень {0}
+ · {0} para subir	 · {0} to level up	 · ще {0} до підвищення
+Minimalista	Minimal	Мінімалістичний
+Widgets	Widgets	Віджети
+Escena	Scene	Сцена
+Últimas capturas	Latest screenshots	Останні знімки
+Ver todas	See all	Усі
+Área	Area	Область
+Repetir	Repeat	Повторити
+Pantalla	Screen	Екран
+Ventana	Window	Вікно
+Desplazar	Scroll	Прокрут.
+Texto	Text	Текст
+Temporizador	Timer	Таймер
+Detener	Stop	Зупинити
+Modos de captura	Capture modes	Режими захоплення
+Cambiar el nombre	Change the name	Змінити ім’я
+Nombre de la mascota	Mascot name	Ім’я маскота
+Copiar	Copy	Копіювати
+Editar	Edit	Редагувати
+Copiada	Copied	Скопійовано
+Ya puedes pegarla donde quieras.	You can now paste it wherever you like.	Тепер можеш вставити її куди завгодно.
+¡Copiada!	Copied!	Скопійовано!
+No se pudo copiar	Couldn't copy	Не вдалося скопіювати
+No se ha podido leer la captura o el portapapeles está ocupado. Vuelve a intentarlo.	The screenshot couldn't be read or the clipboard is busy. Try again.	Не вдалося прочитати знімок, або буфер обміну зайнятий. Спробуй ще раз.
+Hoy	Today	Сьогодні
+Última captura	Latest screenshot	Останній знімок
+Mostrar	Show	Показати
+Guardar	Save	Зберегти
+Aquí verás tu última captura	Your latest screenshot will show up here	Тут з’явиться твій останній знімок
+Capturas hoy	Screenshots today	Знімків сьогодні
+Mascota escondida	Mascot hidden	Маскота приховано
+Mostrar en Mascota	Show in Mascot	Показати в розділі «Маскот»
+Estándar	Standard	Стандартна
+Máxima	Maximum	Максимальна
+Alta	High	Висока
+Grabar	Record	Записати
+con sonido	with sound	зі звуком
+sin sonido	no sound	без звуку
+Carpeta	Folder	Тека
+Truco	Tip	Порада
+Guardando…	Saving…	Збереження…
+No se pudo guardar	Couldn't save	Не вдалося зберегти
+Detener grabación	Stop recording	Зупинити запис
+hasta {0} (unos {1} s de picos a {2} × {3})	up to {0} (about {1} s of peaks at {2} × {3})	до {0} (близько {1} с піків за {2} × {3})
+Normal: {0}. Solo se usa la que hace falta; si se llena, la grabación se detiene y conserva lo grabado.	Normal: {0}. Only what is needed is used; if it fills up, the recording stops and keeps what was recorded.	Нормально: {0}. Використовується лише потрібний обсяг; якщо він заповниться, запис зупиниться і збереже записане.
+Alta: {0}. Para tomas que se detienen con mucho movimiento; con poca memoria libre el equipo puede ir más lento.	High: {0}. For takes that stop with lots of motion; with little free memory the computer may run slower.	Висока: {0}. Для записів, що зупиняються за інтенсивного руху; за малого обсягу вільної пам’яті комп’ютер може працювати повільніше.
+El de Windows: {0}	Windows default: {0}	Типовий для Windows: {0}
+La primera que encuentre: {0}	The first one found: {0}	Перша знайдена: {0}
+Ligera y fluida, para chats y correos.	Light and smooth, for chats and emails.	Легка й плавна, для чатів і листів.
+60 fps nítidos, listo al momento.	Sharp 60 fps, ready instantly.	Чіткі 60 к/с, готово одразу.
+60 fps sin pérdida al grabar.	60 fps with no loss while recording.	60 к/с без втрат під час запису.
+Sin pérdidas y verificado, en MKV.	Lossless and verified, in MKV.	Без втрат і з перевіркою, у MKV.
+Nitidez	Sharpness	Чіткість
+Fluidez	Smoothness	Плавність
+Tamaño	Size	Розмір
+Estándar: 24, 30 o 60 fps con buena compresión. Archivos pequeños que se envían en segundos.	Standard: 24, 30 or 60 fps with good compression. Small files that send in seconds.	Стандартна: 24, 30 або 60 к/с із гарним стисненням. Малі файли, що надсилаються за секунди.
+Alta: 60 fps y mucho detalle, codificado mientras grabas, así que se guarda al instante. Archivos más grandes.	High: 60 fps and lots of detail, encoded while you record, so it saves instantly. Larger files.	Висока: 60 к/с і багато деталей, кодування під час запису, тож зберігається миттєво. Більші файли.
+Máxima: 60 fps al ritmo exacto de tu monitor, se graba sin ninguna pérdida (en áreas de más de 1920 × 1200 con calidad muy alta, pero no sin pérdidas) y al terminar se codifica con calidad muy alta. Tarda un poco en guardar.	Maximum: 60 fps at the exact rate of your monitor, recorded with no loss at all (in areas larger than 1920 × 1200, at very high quality but not lossless) and encoded at very high quality when it finishes. It takes a little while to save.	Максимальна: 60 к/с точно в такт з твоїм монітором, запис без жодних втрат (в областях понад 1920 × 1200 — з дуже високою якістю, але не без втрат), а після завершення кодується з дуже високою якістю. Зберігається трохи довше.
+Cine: guarda cada píxel y el sonido tal como los entrega Windows, sin pérdidas (archivo .mkv), y al terminar lo comprueba fotograma a fotograma. Ocupa mucho (de MB a GB por minuto, según el movimiento) y usa bastante CPU, memoria y disco. Se reproduce dentro de Stackshot (el reproductor de Windows no lo abre); para compartirlo, Exportar en el editor crea un MP4 compatible y el original no cambia. Graba a 60 o 30 fps (lo eliges aquí debajo) y no capta todos los refrescos de una pantalla de más de 60 Hz. Es fiel a lo que entrega Windows, no al color que muestra tu monitor (el HDR lo convierte Windows a SDR). Si el equipo no puede seguir el ritmo, la grabación se detiene y conserva lo grabado.	Cine: saves every pixel and the sound exactly as Windows delivers them, lossless (.mkv file), and checks it frame by frame when it finishes. It takes up a lot (from MB to GB per minute, depending on the motion) and uses plenty of CPU, memory and disk. It plays inside Stackshot (the Windows player doesn't open it); to share it, Export in the editor creates a compatible MP4 and the original doesn't change. It records at 60 or 30 fps (you choose below) and doesn't catch every refresh of a screen above 60 Hz. It is faithful to what Windows delivers, not to the colour your monitor shows (Windows converts HDR to SDR). If the computer can't keep up, the recording stops and keeps what was recorded.	Cine: зберігає кожен піксель і звук такими, якими їх віддає Windows, без втрат (файл .mkv), а після завершення перевіряє його кадр за кадром. Займає багато місця (від МБ до ГБ за хвилину залежно від руху) і помітно навантажує процесор, пам’ять і диск. Відтворюється всередині Stackshot (програвач Windows його не відкриває); щоб поділитися, «Експорт» у редакторі створює сумісний MP4, а оригінал не змінюється. Записує у 60 або 30 к/с (обираєш нижче) і не захоплює всі оновлення екрана понад 60 Гц. Це вірно того, що віддає Windows, а не кольору, який показує твій монітор (HDR Windows перетворює на SDR). Якщо комп’ютер не встигає, запис зупиняється і зберігає записане.
+Vídeo con sonido (MP4, o MKV sin pérdidas en Cine) y GIF animado. Para parar, pulsa el atajo otra vez o Detener en la barra de grabación.	Video with sound (MP4, or lossless MKV in Cine) and animated GIF. To stop, press the shortcut again or Stop on the recording bar.	Відео зі звуком (MP4 або MKV без втрат у Cine) і анімований GIF. Щоб зупинити, натисни комбінацію ще раз або «Зупинити» на панелі запису.
+Calidad	Quality	Якість
+Cuánto detalle y fluidez guarda cada vídeo, y lo que pesa.	How much detail and smoothness each video keeps, and how heavy it is.	Скільки деталей і плавності зберігає кожне відео та скільки воно важить.
+Más fotogramas, más fluido (y más pesado).	More frames, smoother (and heavier).	Більше кадрів — плавніше (і важче).
+Fotogramas por segundo	Frames per second	Кадрів за секунду
+Normal	Normal	Нормальна
+Memoria para picos de movimiento	Memory for motion peaks	Пам’ять для піків руху
+Movimiento fluido. Si el área es demasiado grande para tu equipo, te preguntará antes de grabar.	Smooth motion. If the area is too large for your computer, it will ask you before recording.	Плавний рух. Якщо область завелика для твого комп’ютера, перед записом буде запитання.
+La mitad de datos y de trabajo: más margen para áreas grandes o equipos justos. Lo rápido se ve menos suave.	Half the data and half the work: more room for large areas or modest computers. Fast motion looks less smooth.	Удвічі менше даних і роботи: більше запасу для великих областей чи слабких комп’ютерів. Швидкий рух виглядає менш плавно.
+Nitidez y fluidez: cuantas más barras, mejor. Tamaño: lo que ocupa el archivo.	Sharpness and smoothness: the more bars, the better. Size: how much space the file takes.	Чіткість і плавність: чим більше смужок, тим краще. Розмір: скільки місця займає файл.
+Sonido	Sound	Звук
+Se graba lo que actives, cada uno desde el dispositivo que elijas.	What you turn on is recorded, each from the device you choose.	Записується те, що ти ввімкнеш, кожне з обраного пристрою.
+Mientras grabas, la barra de grabación muestra el nivel de cada sonido y un clic en el micrófono lo silencia. El sonido va sincronizado con la imagen y, aunque suenen los dos a la vez, nunca se satura.	While you record, the recording bar shows the level of each sound and a click on the microphone mutes it. The sound stays in sync with the picture and, even if both play at once, it never clips.	Під час запису панель запису показує рівень кожного звуку, а клік на мікрофоні вимикає його. Звук синхронізований із зображенням і, навіть якщо звучать обидва одночасно, ніколи не перевантажується.
+Sonido del equipo	Computer sound	Звук комп’ютера
+Micrófono	Microphone	Мікрофон
+Lo que suena en el ordenador: vídeos, llamadas, avisos.	What plays on the computer: videos, calls, notices.	Те, що звучить на комп’ютері: відео, дзвінки, сповіщення.
+Tu voz mientras grabas, a un volumen claro y constante.	Your voice while you record, at a clear and steady volume.	Твій голос під час запису, з чіткою й сталою гучністю.
+Grabar el sonido de	Record the sound of	Записувати звук з
+Micrófono que se graba	Microphone to record	Мікрофон для запису
+No hay ninguna salida de sonido	There is no sound output	Немає жодного виходу звуку
+No hay ningún micrófono conectado	No microphone is connected	Мікрофон не підключено
+Desconectado: se usará el de Windows	Disconnected: the Windows one will be used	Відключено: використовуватиметься типовий для Windows
+El de Windows	The Windows one	Типовий для Windows
+El que elegiste	The one you chose	Той, що ти обрав
+Cámara	Camera	Камера
+Redonda	Round	Кругла
+Cuadrada	Square	Квадратна
+Pequeña	Small	Мала
+Mediana	Medium	Середня
+Grande	Large	Велике
+Forma	Shape	Форма
+Añade tu cara en una burbuja, como en Loom.	Add your face in a bubble, like in Loom.	Додай своє обличчя в бульбашці, як у Loom.
+Sale en una esquina de la zona grabada. Arrástrala; doble clic cambia la forma y clic derecho el tamaño.	It appears in a corner of the recorded area. Drag it; double-click changes the shape and right-click the size.	З’являється в кутку записуваної області. Перетягни її; подвійний клік змінює форму, а правий — розмір.
+Descarga el motor de vídeo para elegir cámara	Download the video engine to choose a camera	Завантаж відеодвигун, щоб обрати камеру
+Buscando cámaras…	Looking for cameras…	Пошук камер…
+La primera que encuentre	The first one found	Перша знайдена
+Cámara que se graba	Camera to record	Камера для запису
+No está conectada ahora	Not connected right now	Зараз не підключено
+No se encuentra ninguna cámara	No camera found	Камер не знайдено
+Buscar de nuevo	Search again	Шукати знову
+fotogramas por segundo	frames per second	кадрів за секунду
+Fotogramas por segundo del GIF	GIF frames per second	Кадрів за секунду для GIF
+Los GIF pesan mucho: 15 suele ser el punto justo.	GIFs get heavy: 15 is usually the sweet spot.	GIF багато важать: 15 зазвичай — золота середина.
+Motor de vídeo	Video engine	Відеодвигун
+Listo	Ready	Готово
+Sin descargar	Not downloaded	Не завантажено
+FFmpeg graba y codifica tus vídeos y GIF.	FFmpeg records and encodes your videos and GIFs.	FFmpeg записує й кодує твої відео та GIF.
+Se descarga solo (unos 110 MB) la primera vez que grabes.	It downloads by itself (about 110 MB) the first time you record.	Завантажується сам (близько 110 МБ) під час першого запису.
+Descargar ahora	Download now	Завантажити зараз
+Antes de grabar	Before recording	Перед записом
+Al elegir el área aparecen las opciones de la toma (calidad, fotogramas, sonido y cámara) con el botón Grabar, y una cuenta atrás te da tiempo para prepararte. La cuenta atrás no sale en el vídeo.	When you pick the area, the take's options (quality, frames, sound and camera) appear with the Record button, and a countdown gives you time to get ready. The countdown doesn't appear in the video.	Коли обираєш область, з’являються параметри запису (якість, кадри, звук і камера) з кнопкою «Записати», а відлік дає час підготуватися. Відліку у відео немає.
+Mostrar las opciones antes de grabar	Show the options before recording	Показувати параметри перед записом
+Cuenta atrás	Countdown	Відлік
+Después de grabar	After recording	Після запису
+«Editar» en la miniatura abre el editor de vídeo: recorta el principio y el final, cambia la velocidad, el tamaño o el formato, añade marcas y ponle fondo. El sonido se mantiene.	“Edit” on the thumbnail opens the video editor: trim the start and the end, change the speed, size or format, add marks and give it a background. The sound is kept.	«Редагувати» на мініатюрі відкриває відеоредактор: обріж початок і кінець, зміни швидкість, розмір чи формат, додай позначки та фон. Звук зберігається.
+Copiar el archivo al terminar	Copy the file when finished	Копіювати файл після завершення
+Listo para pegar en un chat o un correo nada más parar. Es el mismo ajuste que «Copiar cada captura», en General.	Ready to paste into a chat or an email right after stopping. It's the same setting as “Copy every screenshot”, in General.	Готовий до вставлення в чат чи лист одразу після зупинки. Це те саме налаштування, що й «Копіювати кожен знімок» у розділі «Загальні».
+Abrir los vídeos en Stackshot	Open videos in Stackshot	Відкривати відео в Stackshot
+Reproductor propio, con cualquier formato, pistas de sonido, velocidad y fotograma a fotograma. Si lo apagas, se abren en la aplicación de Windows.	Own player, with any format, audio tracks, speed and frame by frame. If you turn it off, they open in the Windows app.	Власний програвач: будь-який формат, звукові доріжки, швидкість і покадровий перегляд. Якщо вимкнеш, відео відкриваються у програмі Windows.
+Abrir un vídeo o un máster Cine…	Open a video or a Cine master…	Відкрити відео або майстер Cine…
+Elegir el fondo de «Presentar»	Choose the “Present” background	Обрати фон для «Презентувати»
+d MMM	MMM d	d MMM
+d MMM yyyy	MMM d, yyyy	d MMM yyyy
+dddd, d 'de' MMMM 'de' yyyy, HH:mm	dddd, MMMM d, yyyy, HH:mm	dddd, d MMMM yyyy, HH:mm
+Leyendo el texto de las capturas… {0} de {1}	Reading the text of the screenshots… {0} of {1}	Читання тексту зі знімків… {0} з {1}
+Nada coincide con «{0}»	Nothing matches “{0}”	Нічого не збігається з «{0}»
+{0} {1}	{0} {1}	{0} {1}
+resultado	result	результат
+resultados (2-4)	results	результати
+resultados	results	результатів
+elemento	item	елемент
+elementos (2-4)	items	елементи
+elementos	items	елементів
+{0} no se puede abrir en el editor.	{0} can't be opened in the editor.	{0} неможливо відкрити в редакторі.
+{0} ya no está en su carpeta: se ha movido o borrado.	{0} is no longer in its folder: it was moved or deleted.	{0} більше немає у своїй теці: його переміщено або видалено.
+Mientras la búsqueda siga activada, Stackshot volverá a leerlas poco a poco.	While the search stays on, Stackshot will read them again little by little.	Поки пошук увімкнений, Stackshot поступово читатиме їх знову.
+Lo que Stackshot ha leído en tus capturas ({0}). Se vuelve a crear solo mientras la búsqueda esté activada.	What Stackshot has read in your screenshots ({0}). It is recreated by itself while the search is on.	Те, що Stackshot прочитав на твоїх знімках ({0}). Створюється знову автоматично, поки пошук увімкнений.
+Todo	All	Усе
+Capturas	Screenshots	Знімки
+Vídeos	Videos	Відео
+GIF	GIF	GIF
+Tus capturas y grabaciones, de la más reciente a la más antigua.	Your screenshots and recordings, from the most recent to the oldest.	Твої знімки й записи — від найновіших до найстаріших.
+Buscar por texto o nombre	Search by text or name	Пошук за текстом чи назвою
+Buscar por nombre	Search by name	Пошук за назвою
+Borrar la búsqueda	Clear the search	Очистити пошук
+Este Windows no tiene el reconocimiento de texto (OCR): de momento se busca solo por el nombre.	This Windows doesn't have text recognition (OCR): for now the search is by name only.	У цій Windows немає розпізнавання тексту (OCR): наразі пошук лише за назвою.
+en pausa mientras grabas	paused while you record	на паузі, поки триває запис
+en pausa mientras capturas	paused while you capture	на паузі, поки ти робиш знімок
+La búsqueda por texto está desactivada	Text search is turned off	Пошук за текстом вимкнено
+Stackshot puede leer el texto de cada captura en tu equipo, sin que nada salga de él, para que la encuentres por lo que ponía. Ahora solo se busca por el nombre. 	Stackshot can read the text of every screenshot on your computer, with nothing leaving it, so you can find it by what it said. Right now the search is by name only. 	Stackshot може читати текст кожного знімка на твоєму комп’ютері, нічого не надсилаючи назовні, щоб ти міг знайти його за написаним. Зараз пошук іде лише за назвою. 
+Activar la búsqueda por texto	Turn on text search	Увімкнути пошук за текстом
+ (también está en General › Recientes).	 (it's also in General › Recent).	 (його також можна знайти в Загальні › Нещодавні).
+Todavía no hay capturas	No screenshots yet	Знімків ще немає
+Las capturas y grabaciones que hagas aparecerán aquí, ordenadas por días.	The screenshots and recordings you make will appear here, sorted by day.	Знімки й записи, які ти зробиш, з’являться тут, упорядковані за днями.
+Solo se busca por el nombre: la búsqueda por texto está desactivada.	Search is by name only: text search is turned off.	Пошук лише за назвою: пошук за текстом вимкнено.
+Todavía se está leyendo el texto de algunas capturas: prueba otra vez dentro de un momento.	The text of some screenshots is still being read: try again in a moment.	Текст деяких знімків ще читається: спробуй ще раз за мить.
+Prueba con otras palabras o con «Todo».	Try other words or “All”.	Спробуй інші слова або «Усе».
+Prueba con otras palabras: se busca en el texto de cada captura y en su nombre.	Try other words: the search covers the text of every screenshot and its name.	Спробуй інші слова: пошук іде за текстом кожного знімка та його назвою.
+No hay vídeos	No videos	Відео немає
+No hay GIF	No GIFs	GIF немає
+No hay capturas	No screenshots	Знімків немає
+Prueba con «Todo».	Try “All”.	Спробуй «Усе».
+Mostrar en la carpeta	Show in folder	Показати в теці
+Abrir en el editor	Open in the editor	Відкрити в редакторі
+No se pudo abrir	Couldn't open	Не вдалося відкрити
+No se encuentra la captura	Screenshot not found	Знімок не знайдено
+¿Borrar el índice de texto?	Delete the text index?	Видалити індекс тексту?
+Tus capturas no se tocan.	Your screenshots are left alone.	Твої знімки не чіпаються.
+Borrar el índice	Delete the index	Видалити індекс
+Borrar el índice de texto	Delete the text index	Видалити індекс тексту
+Ayer	Yesterday	Вчора
+Esta semana	This week	Цього тижня
+Este mes	This month	Цього місяця
+Anteriores	Earlier	Раніше
+«{0}»	“{0}”	«{0}»
+1 ajuste coincide con {0}.	1 setting matches {0}.	Налаштувань, що відповідають {0}: 1.
+{0} ajustes coinciden con {1}.	{0} settings match {1}.	Налаштувань, що відповідають {1}: {0}.
+Y {0} más: añade otra palabra para afinar.	And {0} more: add another word to narrow it down.	Ще {0}: додай ще одне слово, щоб уточнити.
+No hay ajustes que coincidan con {0}	No settings match {0}	Немає налаштувань, що відповідають {0}
+Buscar ajustes	Search settings	Пошук налаштувань
+Resultados	Results	Результати
+Prueba con otras palabras o con menos letras, como «carpeta», «sonido» o «atajo».	Try other words or fewer letters, such as “folder”, “sound” or “shortcut”.	Спробуй інші слова або менше літер, наприклад «тека», «звук» чи «комбінація».
+Buscando…	Searching…	Пошук…
+Versión {0}  ·  Libre y gratuito (licencia MIT)	Version {0}  ·  Free and open (MIT licence)	Версія {0}  ·  Вільна й безкоштовна (ліцензія MIT)
+Tienes la versión {0}. Las actualizaciones de Stackshot las gestiona tu organización.	You have version {0}. Stackshot updates are managed by your organisation.	У тебе версія {0}. Оновленнями Stackshot керує твоя організація.
+Tienes la versión {0}. Aún no se ha comprobado si hay otra más nueva.	You have version {0}. It hasn't been checked yet whether there is a newer one.	У тебе версія {0}. Ще не перевірено, чи є новіша.
+Descargando Stackshot {0}	Downloading Stackshot {0}	Завантаження Stackshot {0}
+Comprobando Stackshot {0}	Verifying Stackshot {0}	Перевірка Stackshot {0}
+Instalando Stackshot {0}	Installing Stackshot {0}	Встановлення Stackshot {0}
+Stackshot {0} lista para instalar	Stackshot {0} is ready to install	Stackshot {0} готовий до встановлення
+Stackshot {0} disponible	Stackshot {0} is available	Доступний Stackshot {0}
+Ya está descargada y verificada.	It is already downloaded and verified.	Вже завантажено й перевірено.
+Última comprobación: {0}.	Last check: {0}.	Остання перевірка: {0}.
+Stackshot {0} es la versión más reciente. Comprobado {1}.	Stackshot {0} is the latest version. Checked {1}.	Stackshot {0} — найновіша версія. Перевірено {1}.
+{0} %  ·  después se comprueban su suma SHA-256 y su firma	{0} %  ·  then its SHA-256 sum and signature are checked	{0} %  ·  потім перевіряються його сума SHA-256 і підпис
+hace {0} min	{0} min ago	{0} хв тому
+hoy a las {0}	today at {0}	сьогодні о {0}
+ayer a las {0}	yesterday at {0}	вчора о {0}
+el {0} a las {1}	on {0} at {1}	{0} о {1}
+d/M	M/d	d.M
+Captura, marca y comparte en segundos. Miniaturas flotantes, editor rápido, vídeo y GIF.	Capture, mark up and share in seconds. Floating thumbnails, a quick editor, video and GIF.	Знімай, познач і поділися за секунди. Плаваючі мініатюри, швидкий редактор, відео та GIF.
+Ver en GitHub	View on GitHub	Переглянути на GitHub
+Carpeta de datos	Data folder	Тека даних
+Novedades	What's new	Що нового
+Informar de un problema	Report a problem	Повідомити про проблему
+Mis reportes	My reports	Мої звіти
+No se pudo abrir el desinstalador	Couldn't open the uninstaller	Не вдалося відкрити програму видалення
+Desinstala Stackshot desde Configuración > Aplicaciones de Windows.	Uninstall Stackshot from Settings > Apps in Windows.	Видали Stackshot у Параметри > Програми Windows.
+Desinstalar Stackshot…	Uninstall Stackshot…	Видалити Stackshot…
+Se comprueban su suma SHA-256 y su firma antes de instalar nada.	Its SHA-256 sum and signature are checked before anything is installed.	Перед встановленням перевіряються його сума SHA-256 і підпис.
+En cuanto termine de guardarse la grabación, Stackshot se cerrará y volverá a abrirse.	As soon as the recording finishes saving, Stackshot will close and open again.	Щойно запис буде збережено, Stackshot закриється й відкриється знову.
+Stackshot se cerrará y volverá a abrirse en unos segundos.	Stackshot will close and open again in a few seconds.	Stackshot закриється й знову відкриється за кілька секунд.
+Se instalará sola en cuanto no estés usando el equipo.	It will install itself as soon as you're not using the computer.	Встановиться сама, щойно ти перестанеш користуватися комп’ютером.
+Al instalarla, Stackshot se cerrará y volverá a abrirse en unos segundos.	When you install it, Stackshot will close and open again in a few seconds.	Під час встановлення Stackshot закриється й знову відкриється за кілька секунд.
+Instalar ahora	Install now	Встановити зараз
+Ver la versión	View the version	Переглянути версію
+¿Quieres descargarla? Se comprueba su firma y se instala en unos segundos; Stackshot se vuelve a abrir solo.	Want to download it? Its signature is checked and it installs in a few seconds; Stackshot reopens by itself.	Завантажити? Підпис перевіряється, і встановлення займає кілька секунд; Stackshot відкривається знову сам.
+Descargar e instalar	Download and install	Завантажити й встановити
+En este equipo las actualizaciones las instala informática: pídeles el nuevo Stackshot.msi.	On this computer IT installs the updates: ask them for the new Stackshot.msi.	На цьому комп’ютері оновлення встановлює ІТ-відділ: попроси в них новий Stackshot.msi.
+¿Quieres descargarla? Esta copia de Stackshot no está instalada: descárgala desde GitHub.	Want to download it? This copy of Stackshot isn't installed: download it from GitHub.	Завантажити? Ця копія Stackshot не встановлена: завантаж її з GitHub.
+¿Quieres descargarla? Esta versión no trae firma de actualización: descárgala desde GitHub.	Want to download it? This version has no update signature: download it from GitHub.	Завантажити? Ця версія не має підпису оновлення: завантаж її з GitHub.
+Reintentar	Try again	Повторити
+Buscando actualizaciones…	Checking for updates…	Пошук оновлень…
+Preguntando a GitHub por la última versión de Stackshot.	Asking GitHub for the latest version of Stackshot.	Запит до GitHub про останню версію Stackshot.
+No se pudo comprobar	Couldn't check	Не вдалося перевірити
+Estás al día	You're up to date	У тебе остання версія
+Buscar ahora	Check now	Перевірити зараз
+Ver todas las novedades	See all the news	Усі новини
+Buscar actualizaciones automáticamente	Check for updates automatically	Автоматично шукати оновлення
+Al abrir Stackshot y cada 3 horas. No envía nada tuyo.	When Stackshot opens and every 3 hours. It sends nothing of yours.	Під час запуску Stackshot і кожні 3 години. Нічого твого не надсилається.
+Instalarlas automáticamente	Install them automatically	Встановлювати автоматично
+Necesita «Buscar actualizaciones automáticamente».	It needs “Check for updates automatically”.	Потрібне «Автоматично шукати оновлення».
+Se descargan, se comprueba su firma y se instalan cuando no estés usando el equipo.	They are downloaded, their signature is checked and they install when you're not using the computer.	Їх завантажують, перевіряють підпис і встановлюють, коли ти не користуєшся комп’ютером.
+Conectando con GitHub…	Connecting to GitHub…	З’єднання з GitHub…
+ahora mismo	just now	щойно
+¿Qué 	What shall we 	Що 
+capturamos?	capture?	захопимо?
+No se ha podido leer: {0}	Couldn't read it: {0}	Не вдалося прочитати: {0}
+de {0}	of {0}	з {0}
+h {0}	h {0}	год {0}
+Leído a las {0}	Read at {0}	Прочитано о {0}
+Leído a las {0}. Se lee solo cada media hora.	Read at {0}. It is read by itself every half hour.	Прочитано о {0}. Читається автоматично щопівгодини.
+Leyendo tu reloj…	Reading your watch…	Читання даних годинника…
+Aún no lo he leído hoy. Se lee solo cada media hora.	I haven't read it yet today. It is read by itself every half hour.	Сьогодні я ще не читав. Читається автоматично щопівгодини.
+Aún sin leer hoy.	Not read yet today.	Сьогодні ще не прочитано.
+Google aún no tiene datos de hoy. Abre la app de tu reloj en el móvil para que se sincronice y vuelve a leerlo.	Google has no data for today yet. Open your watch's app on your phone so it syncs, then read it again.	У Google ще немає даних за сьогодні. Відкрий застосунок годинника на телефоні, щоб він синхронізувався, і прочитай знову.
+Google aún no tiene datos de hoy. Abre la app del reloj en el móvil para sincronizarlo.	Google has no data for today yet. Open the watch app on your phone to sync it.	У Google ще немає даних за сьогодні. Відкрий застосунок годинника на телефоні, щоб синхронізувати.
+Pasos	Steps	Кроки
+¡Objetivo cumplido!	Goal reached!	Ціль досягнуто!
+Sueño	Sleep	Сон
+anoche	last night	минулої ночі
+sin datos	no data	немає даних
+Activo	Active	Активність
+min	min	хв
+moderado o intenso	moderate or vigorous	помірна або інтенсивна
+Tu reloj hoy	Your watch today	Твій годинник сьогодні
+Ver en Salud y actividad	See in Health and activity	Переглянути в розділі «Здоров’я та активність»
+Salud y actividad	Health and activity	Здоров’я та активність
+Qué ganas conectándolo	What you gain by connecting it	Що ти отримаєш, підключивши його
+La mascota usa tus datos para cuidarte: te avisa si llevas una hora sin moverte y te propone levantarte, te anima por la mañana y después de comer si apenas has caminado, celebra tus paseos, tus minutos activos y tu objetivo de pasos, te dice cuánto te falta por la tarde, adelanta las pausas si has dormido poco (y por la noche te recuerda acostarte antes) y no te pide moverte justo después de caminar. También suma tus pasos al resumen del día.	The mascot uses your data to look after you: it warns you if you've gone an hour without moving and suggests getting up, cheers you on in the morning and after lunch if you've barely walked, celebrates your walks, your active minutes and your step goal, tells you how much you have left in the afternoon, brings breaks forward if you slept little (and reminds you to go to bed earlier at night) and doesn't ask you to move right after walking. It also adds your steps to the day's summary.	Маскот використовує твої дані, щоб дбати про тебе: попереджає, якщо ти годину не рухався, і пропонує підвестися; підбадьорює вранці та після обіду, якщо ти майже не ходив; радіє твоїм прогулянкам, активним хвилинам і цілі за кроками; ввечері каже, скільки ще залишилося; наближає перерви, якщо ти мало спав (а ввечері нагадує лягти раніше), і не просить рухатися одразу після ходьби. Також додає твої кроки до підсумку дня.
+Más relojes y pulseras	More watches and bands	Більше годинників і браслетів
+Próximamente podrás conectar otros relojes y pulseras, no solo Pixel Watch y Fitbit.	Soon you'll be able to connect other watches and bands, not just Pixel Watch and Fitbit.	Незабаром можна буде підключати інші годинники та браслети, не лише Pixel Watch і Fitbit.
+Pronto	Soon	Скоро
+Hoy en tu reloj	Today on your watch	Сьогодні на твоєму годиннику
+Leer ahora	Read now	Прочитати зараз
+El puerto {0} está ocupado: cierra lo que lo use y vuelve a intentarlo.	Port {0} is busy: close whatever is using it and try again.	Порт {0} зайнятий: закрий програму, яка його використовує, і спробуй ще раз.
+No se ha podido abrir el inicio de sesión: {0}	Couldn't open the sign-in: {0}	Не вдалося відкрити вхід: {0}
+No se ha podido conectar: {0}	Couldn't connect: {0}	Не вдалося підключитися: {0}
+Google ha respondido «{0}». Cierra esta pestaña y vuelve a intentarlo desde Stackshot.	Google answered “{0}”. Close this tab and try again from Stackshot.	Google відповів «{0}». Закрий цю вкладку й спробуй ще раз у Stackshot.
+Google ha dicho: {0}	Google said: {0}	Google повідомив: {0}
+{0} Cierra esta pestaña y vuelve a intentarlo desde Stackshot.	{0} Close this tab and try again from Stackshot.	{0} Закрий цю вкладку й спробуй ще раз у Stackshot.
+Has cancelado la conexión.	You cancelled the connection.	Ти скасував підключення.
+Falta configurar la conexión con Google Health.	The connection to Google Health still needs to be set up.	Підключення до Google Health ще не налаштовано.
+Página no encontrada	Page not found	Сторінку не знайдено
+Esta dirección no es de Stackshot.	This address doesn't belong to Stackshot.	Ця адреса не належить Stackshot.
+Conexión cancelada	Connection cancelled	Підключення скасовано
+No se ha conectado nada. Puedes cerrar esta pestaña y, cuando quieras, volver a intentarlo desde Stackshot.	Nothing was connected. You can close this tab and try again from Stackshot whenever you like.	Нічого не підключено. Можеш закрити цю вкладку й будь-коли спробувати ще раз у Stackshot.
+No se ha podido conectar	Couldn't connect	Не вдалося підключитися
+Respuesta no válida	Invalid response	Недійсна відповідь
+Esta respuesta no viene del inicio de sesión que ha abierto Stackshot. Vuelve a intentarlo desde la app.	This response doesn't come from the sign-in that Stackshot opened. Try again from the app.	Ця відповідь не стосується входу, який відкрив Stackshot. Спробуй ще раз із застосунку.
+Reloj 	Watch 	Годинник 
+conectado	connected	підключено
+Stackshot ya puede ver tus pasos, tu actividad y tu sueño. Puedes cerrar esta pestaña y volver a la app.	Stackshot can now see your steps, your activity and your sleep. You can close this tab and go back to the app.	Stackshot тепер бачить твої кроки, активність і сон. Можеш закрити цю вкладку й повернутися до застосунку.
+Se acabó el tiempo para iniciar sesión. Vuelve a intentarlo.	Time ran out to sign in. Try again.	Час на вхід вичерпано. Спробуй ще раз.
+Google ya no acepta la conexión: vuelve a conectar el reloj.	Google no longer accepts the connection: connect the watch again.	Google більше не приймає підключення: підключи годинник знову.
+Falta la clave de Google en el intermediario.	The Google key is missing on the relay.	На проміжному сервері бракує ключа Google.
+Google no responde ({0}).	Google isn't responding ({0}).	Google не відповідає ({0}).
+No hay conexión con Google.	There is no connection to Google.	Немає з’єднання з Google.
+Google no ha dado las claves.	Google didn't give the keys.	Google не надав ключів.
+Google no ha dado una clave duradera: vuelve a conectar.	Google didn't give a long-lasting key: connect again.	Google не надав довготривалого ключа: підключись знову.
+Sin conectar.	Not connected.	Не підключено.
+Google no deja leer los datos: revisa que el reloj esté vinculado en la app Google Health.	Google won't let the data be read: check that the watch is linked in the Google Health app.	Google не дозволяє читати дані: перевір, чи годинник прив’язаний у застосунку Google Health.
+Google pide esperar un poco.	Google asks to wait a little.	Google просить трохи зачекати.
+Ya tienes {0} fondos propios. Quita uno para añadir otro.	You already have {0} backgrounds of your own. Remove one to add another.	У тебе вже {0} власних фонів. Видали один, щоб додати інший.
+Como en CleanShot X: tus capturas, listas para presentar con un fondo bonito, margen y sombra. En el editor, botón Fondo (o la tecla B); también para vídeos y GIF con «Presentar».	Like in CleanShot X: your screenshots, ready to present with a nice background, margin and shadow. In the editor, the Background button (or the B key); also for videos and GIFs with “Present”.	Як у CleanShot X: твої знімки, готові до презентації з гарним фоном, полем і тінню. У редакторі — кнопка «Фон» (або клавіша B); також для відео та GIF через «Презентувати».
+Vista previa del fondo	Background preview	Попередній перегляд фону
+Tus fondos	Your backgrounds	Твої фони
+Estás usando una imagen tuya. Puedes añadir más o quitar esta.	You're using an image of your own. You can add more or remove this one.	Ти використовуєш власне зображення. Можеш додати ще або прибрати це.
+Añade una foto o imagen tuya y úsala como fondo de tus capturas.	Add a photo or image of your own and use it as the background of your screenshots.	Додай своє фото чи зображення й використовуй його як фон знімків.
+Añadir imagen…	Add image…	Додати зображення…
+Quitar este fondo	Remove this background	Прибрати цей фон
+Se borra la copia guardada en Stackshot; tu imagen original no se toca.	The copy saved in Stackshot is deleted; your original image is left alone.	Копію, збережену в Stackshot, буде видалено; твоє оригінальне зображення не чіпається.
+Quitar	Remove	Прибрати
+Abrir el editor con el fondo puesto	Open the editor with the background on	Відкривати редактор із застосованим фоном
+Si no, se pone con el botón Fondo cuando quieras.	If not, you can apply it with the Background button whenever you like.	Інакше його можна застосувати кнопкою «Фон» будь-коли.
+Estilo	Style	Стиль
+Margen	Margin	Поле
+Ninguno	None	Немає
+Pequeño	Small	Мале
+Medio	Medium	Середнє
+Esquinas	Corners	Кути
+Rectas	Square	Прямі
+Suaves	Soft	М’які
+Redondas	Round	Круглі
+Sombra	Shadow	Тінь
+Proporción	Aspect ratio	Пропорції
+Auto	Auto	Авто
+A tu medida, desde el editor	Custom, from the editor	Власне, з редактора
+En el editor tienes más: colores lisos, la captura desenfocada, inserción, alineación y deslizadores para el margen, la sombra y las esquinas; lo último que uses se queda guardado aquí.	The editor has more: solid colours, the blurred screenshot, inset, alignment and sliders for the margin, shadow and corners; whatever you used last stays saved here.	У редакторі є більше: суцільні кольори, розмитий знімок, відступ, вирівнювання та повзунки для поля, тіні й кутів; те, що ти використовував востаннє, зберігається тут.
+Restablecer el estilo	Reset the style	Скинути стиль
+Elige una imagen para usar de fondo	Choose an image to use as background	Обери зображення для фону
+Imágenes|*.png;*.jpg;*.jpeg;*.bmp;*.gif|Todos los archivos|*.*	Images|*.png;*.jpg;*.jpeg;*.bmp;*.gif|All files|*.*	Зображення|*.png;*.jpg;*.jpeg;*.bmp;*.gif|Усі файли|*.*
+No se ha podido abrir esa imagen.	That image couldn't be opened.	Не вдалося відкрити це зображення.
+Fondo	Background	Фон
+Fondos	Backgrounds	Фони
+Color liso	Solid colour	Суцільний колір
+La captura desenfocada	The blurred screenshot	Розмитий знімок
+\nPulsa {0} y listo.	\nPress {0} and you're done.	\nНатисни {0} — і готово.
+Captura, marca y comparte en segundos.	Capture, mark up and share in seconds.	Знімай, познач і поділися за секунди.
+Te damos la bienvenida	Welcome	Ласкаво просимо
+Se abre solo, en segundo plano, al encender el equipo.	It opens by itself, in the background, when you turn the computer on.	Відкривається сам, у фоновому режимі, під час вмикання комп’ютера.
+Windows la usa para Recortes; Stackshot se la queda solo en tu usuario.	Windows uses it for the Snipping Tool; Stackshot takes it over only for your user.	Windows використовує її для «Ножиць»; Stackshot перехоплює її лише для твого користувача.
+Sonido al capturar	Sound when capturing	Звук під час захоплення
+Un pequeño clic de cámara.	A small camera click.	Невеликий клік камери.
+Lista para pegar con Ctrl+V nada más hacerla.	Ready to paste with Ctrl+V right after taking it.	Готовий до вставлення через Ctrl+V одразу після створення.
+Van a tu carpeta al momento. Apagado, solo las que guardes tú.	They go to your folder right away. When off, only the ones you save yourself.	Вони одразу потрапляють до твоєї теки. Коли вимкнено — лише ті, що збережеш ти.
+Mascota y pausas saludables	Mascot and healthy breaks	Маскот і здорові перерви
+Un compañero en la ventana que te recuerda beber agua y descansar la vista. Se puede activar después.	A companion in the window that reminds you to drink water and rest your eyes. You can turn it on later.	Компаньйон у вікні, що нагадує пити воду й давати відпочити очам. Можна ввімкнути пізніше.
+Carpeta de capturas	Screenshots folder	Тека для знімків
+Cambiar la carpeta de capturas	Change the screenshots folder	Змінити теку для знімків
+Clic	Click	Клік
+Capturar un área o una ventana	Capture an area or a window	Захопити область або вікно
+Grabar la pantalla	Record the screen	Записати екран
+en la miniatura para editarla	on the thumbnail to edit it	на мініатюрі, щоб редагувати
+Instalar y empezar	Install and start	Встановити й почати
+Ahora no	Not now	Не зараз
+Captura, marca y comparte en segundos	Capture, mark up and share in seconds	Знімай, познач і поділися за секунди
+Vacía	Empty	Порожньо
+{0} KB	{0} KB	{0} КБ
+{0} GB	{0} GB	{0} ГБ
+{0} MB	{0} MB	{0} МБ
+Lo que guardas va a una carpeta por mes, como {0}-{1}.	What you save goes into one folder per month, like {0}-{1}.	Те, що ти зберігаєш, потрапляє до теки за місяцем, наприклад {0}-{1}.
+Una carpeta por año y, dentro, una por mes, como {0}\\{1}.	One folder per year and, inside it, one per month, like {0}\\{1}.	Тека за роком і всередині — за місяцем, наприклад {0}\\{1}.
+La fecha, como {0}	The date, like {0}	Дата, наприклад {0}
+La hora, como {0}	The time, like {0}	Час, наприклад {0}
+El año, como {0}	The year, like {0}	Рік, наприклад {0}
+El mes, como {0}	The month, like {0}	Місяць, наприклад {0}
+El día, como {0}	The day, like {0}	День, наприклад {0}
+Ejemplo: {0}.png	Example: {0}.png	Приклад: {0}.png
+Volver a {0}	Back to {0}	Повернути {0}
+Por mes	By month	За місяцем
+Por año y mes	By year and month	За роком і місяцем
+Subcarpetas	Subfolders	Підтеки
+Todo va directamente a la carpeta elegida.	Everything goes straight into the chosen folder.	Усе потрапляє просто до обраної теки.
+El tipo de captura: Captura, Pantalla, el programa de la ventana, Desplazamiento…	The kind of capture: Capture, Screen, the window's program, Scrolling…	Тип знімка: Знімок, Екран, програма вікна, Прокручування…
+El programa que tenías delante al capturar, como chrome o EXCEL	The program you had in front when capturing, like chrome or EXCEL	Програма, яка була попереду під час захоплення, наприклад chrome або EXCEL
+El título de esa ventana	The title of that window	Заголовок цього вікна
+Un número que no se repite: 1, 2, 3… (con {fecha}, empieza cada día)	A number that never repeats: 1, 2, 3… (with {fecha}, it starts over each day)	Число, що не повторюється: 1, 2, 3… (разом із {fecha} починається щодня заново)
+ no es ninguno de los de arriba: se queda tal cual.	 is none of the ones above: it stays as it is.	 — не з наведених вище: залишається як є.
+ no son de los de arriba: se quedan tal cual.	 are not among the ones above: they stay as they are.	 — не з наведених вище: залишаються як є.
+\\ / : * ? " < > | no valen en un nombre de archivo: se cambian por _.	\\ / : * ? " < > | are not valid in a file name: they are replaced with _.	\\ / : * ? " < > | не можна використовувати в назві файлу: їх замінено на _.
+Si lo dejas vacío, se usa el nombre de siempre.	If you leave it empty, the usual name is used.	Якщо залишиш порожнім, використовується звичайна назва.
+Sin {hora} ni {n}, las capturas que se llamen igual llevarán (2), (3)… al final.	Without {hora} or {n}, screenshots with the same name will get (2), (3)… at the end.	Без {hora} або {n} знімки з однаковою назвою отримають (2), (3)… наприкінці.
+Para las imágenes; los vídeos y los GIF conservan su nombre.	For images; videos and GIFs keep their name.	Для зображень; відео та GIF зберігають свою назву.
+Nombre de los archivos	File names	Назви файлів
+Restablecer	Reset	Скинути
+Mayús	Shift	Shift
+Área en {0} s	Area in {0} s	Область за {0} с
+{0} {1} hoy	{0} {1} today	{0} {1} сьогодні
+Hoy, {0}	Today, {0}	Сьогодні, {0}
+Ayer, {0}	Yesterday, {0}	Вчора, {0}
+Espacio	Space	Пробіл
+Repetir área	Repeat area	Повторити область
+Terminar desplazamiento	Finish scrolling	Завершити прокручування
+Desplazamiento	Scrolling	Прокручування
+Reanudar grabación	Resume recording	Відновити запис
+Pausar grabación	Pause recording	Призупинити запис
+Abrir capturas guardadas	Open saved screenshots	Відкрити збережені знімки
+Abrir vídeo…	Open video…	Відкрити відео…
+Abrir el último XML	Open the latest XML	Відкрити останній XML
+Cerrar todas las miniaturas	Close all thumbnails	Закрити всі мініатюри
+Ajustes…	Settings…	Налаштування…
+Salir	Quit	Вийти
+Grabación en pausa	Recording paused	Запис призупинено
+Grabando la pantalla	Recording the screen	Запис екрана
+Captura con desplazamiento en curso	Scrolling capture in progress	Триває захоплення з прокручуванням
+1 captura hoy	1 screenshot today	1 знімок сьогодні
+Idioma	Language	Мова
+Se aplica al reiniciar Stackshot.	Applies after Stackshot restarts.	Застосовується після перезапуску Stackshot.
+Automático	Automatic	Автоматично

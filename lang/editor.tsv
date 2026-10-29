@@ -1,0 +1,429 @@
+Auto	Auto	Авто
+Negro	Black	Чорний
+Blanco	White	Білий
+Rojo	Red	Червоний
+Naranja	Orange	Помаранчевий
+Amarillo	Yellow	Жовтий
+Verde	Green	Зелений
+Azul	Blue	Синій
+Morado	Purple	Фіолетовий
+Rosa	Pink	Рожевий
+Gris oscuro	Dark gray	Темно-сірий
+Gris claro	Light gray	Світло-сірий
+Rojo suave	Soft red	М’який червоний
+Naranja suave	Soft orange	М’який помаранчевий
+Amarillo suave	Soft yellow	М’який жовтий
+Verde suave	Soft green	М’який зелений
+Azul suave	Soft blue	М’який синій
+Morado suave	Soft purple	М’який фіолетовий
+Desenfocada	Blurred	Розмитий
+Desenfocada y oscura	Blurred and dark	Розмитий і темний
+Desenfocada y clara	Blurred and light	Розмитий і світлий
+Arriba a la izquierda	Top left	Угорі ліворуч
+Arriba	Top	Угорі
+Arriba a la derecha	Top right	Угорі праворуч
+A la izquierda	Left	Ліворуч
+Centrada	Centered	По центру
+A la derecha	Right	Праворуч
+Abajo a la izquierda	Bottom left	Внизу ліворуч
+Abajo	Bottom	Внизу
+Abajo a la derecha	Bottom right	Внизу праворуч
+Margen	Margin	Відступ
+Esquinas	Corners	Кути
+Sombra	Shadow	Тінь
+Inserción	Inset	Вставка
+Estilos guardados	Saved styles	Збережені стилі
+Guardar este estilo	Save this style	Зберегти цей стиль
+Ninguno	None	Немає
+Degradados	Gradients	Градієнти
+Ver menos	Show less	Менше
+Ver más	Show more	Більше
+Fondos de pantalla	Wallpapers	Шпалери
+Añadir una imagen…	Add an image…	Додати зображення…
+Desenfocado	Blurred	Розмиття
+Color liso	Solid color	Суцільний колір
+Otro color…	Other color…	Інший колір…
+Auto-equilibrar	Auto-balance	Автобаланс
+Alineación	Alignment	Вирівнювання
+Proporción	Aspect ratio	Пропорції
+Estilos guardados…	Saved styles…	Збережені стилі…
+Elige una imagen para usar de fondo	Choose an image to use as the background	Виберіть зображення для фону
+Imágenes|*.png;*.jpg;*.jpeg;*.bmp;*.gif|Todos los archivos|*.*	Images|*.png;*.jpg;*.jpeg;*.bmp;*.gif|All files|*.*	Зображення|*.png;*.jpg;*.jpeg;*.bmp;*.gif|Усі файли|*.*
+No se ha podido abrir esa imagen.	That image could not be opened.	Не вдалося відкрити це зображення.
+Quitar este fondo	Remove this background	Видалити цей фон
+Estilos guardados ({0})	Saved styles ({0})	Збережені стилі ({0})
+Fondo	Background	Тло
+Sin fondo	No background	Без фону
+De 0 a 100	From 0 to 100	Від 0 до 100
+Elegir	Choose	Вибрати
+Cambiar	Toggle	Перемкнути
+Pulsar	Press	Натиснути
+Color {0}	Color {0}	Колір {0}
+Alineación: {0}	Alignment: {0}	Вирівнювання: {0}
+Proporción {0}	Aspect ratio {0}	Пропорції {0}
+ · margen {0}	 · margin {0}	 · відступ {0}
+, inserción	, inset	, вставка
+, sin sombra	, no shadow	, без тіні
+Este estilo ya está guardado	This style is already saved	Цей стиль уже збережено
+Estilo guardado: está en Estilos guardados	Style saved: find it under Saved styles	Стиль збережено: він у розділі «Збережені стилі»
+Aún no hay estilos: pulsa + para guardar el de ahora	No styles yet: press + to save the current one	Стилів ще немає: натисніть +, щоб зберегти поточний
+Quitar un estilo	Remove a style	Видалити стиль
+Datos sensibles	Sensitive data	Чутливі дані
+Buscar y tapar DNI, NIE, n.º de la Seguridad Social, IBAN, tarjetas, correos y teléfonos. Se leen en tu equipo y puedes quitar cualquier marca  (Ctrl+Mayús+X)	Find and cover ID numbers, social security numbers, IBANs, cards, emails and phone numbers. They are read on your computer and you can remove any mark  (Ctrl+Shift+X)	Знайти й закрити номери документів, номери соцстрахування, IBAN, картки, електронні адреси та телефони. Зчитування відбувається на вашому комп’ютері, і будь-яку позначку можна прибрати  (Ctrl+Shift+X)
+Buscando…	Searching…	Пошук…
+No se ha podido leer la imagen.	The image could not be read.	Не вдалося прочитати зображення.
+Buscando datos sensibles…	Searching for sensitive data…	Пошук чутливих даних…
+No hay memoria suficiente para una imagen tan grande.	Not enough memory for such a large image.	Недостатньо пам’яті для такого великого зображення.
+No se han podido buscar los datos sensibles. Vuelve a intentarlo.	Sensitive data could not be searched. Try again.	Не вдалося виконати пошук чутливих даних. Спробуйте ще раз.
+No se han podido buscar los datos sensibles. {0}	Sensitive data could not be searched. {0}	Не вдалося виконати пошук чутливих даних. {0}
+No he encontrado datos sensibles.	No sensitive data found.	Чутливих даних не знайдено.
+Los datos sensibles ya estaban tapados.	The sensitive data was already covered.	Чутливі дані вже були закриті.
+el otro ya lo estaba.	the other one already was.	інший уже був закритий.
+los otros {0} ya lo estaban.	the other {0} already were.	решта ({0}) уже були закриті.
+He tapado 1 dato sensible más; 	I covered 1 more sensitive item; 	Я закрив ще 1 чутливий елемент; 
+He tapado {0} datos sensibles más; 	I covered {0} more sensitive items; 	Я закрив ще чутливих елементів: {0}; 
+{0}: {1}{2}	{0}: {1}{2}	{0}: {1}{2}
+1 dato sensible tapado	1 sensitive item covered	1 чутливий елемент закрито
+{0} datos sensibles tapados	{0} sensitive items covered	Чутливих елементів закрито: {0}
+. Puedes quitarlo.	. You can remove it.	. Ви можете його прибрати.
+. Puedes quitar cualquiera.	. You can remove any of them.	. Ви можете прибрати будь-який.
+El dato sensible se tapó al capturar: es una marca y puedes quitarla.	The sensitive data was covered when captured: it is a mark and you can remove it.	Чутливі дані було закрито під час захоплення: це позначка, яку можна прибрати.
+Los datos sensibles se taparon al capturar: son marcas y puedes quitar cualquiera.	The sensitive data was covered when captured: these are marks and you can remove any of them.	Чутливі дані було закрито під час захоплення: це позначки, і будь-яку можна прибрати.
+Minimizar	Minimize	Згорнути
+Restaurar	Restore	Відновити
+Maximizar	Maximize	Розгорнути
+Cerrar	Close	Закрити
+Barra del editor	Editor toolbar	Панель редактора
+Arrástrame	Drag me	Перетягни мене
+Arrástrala al chat, a un correo o a otra aplicación	Drag it into a chat, an email or another app	Перетягни це в чат, лист або іншу програму
+Posición	Position	Позиція
+{0} de {1}	{0} of {1}	{0} з {1}
+Izquierda / Derecha	Left / Right	Ліворуч / Праворуч
+Volumen	Volume	Гучність
+Arriba / Abajo	Up / Down	Вгору / Вниз
+Flecha	Arrow	Стрілка
+Línea	Line	Лінія
+Recuadro	Rectangle	Прямокутник
+Elipse	Ellipse	Еліпс
+Texto	Text	Текст
+Números	Numbers	Числа
+Resaltar	Highlight	Виділення
+Foco: oscurece el resto	Spotlight: dims the rest	Прожектор: затемнює решту
+Pixelar	Pixelate	Пікселізація
+Tapar (lo más seguro para datos)	Cover (safest for sensitive data)	Закрити (найнадійніше для чутливих даних)
+Recortar	Crop	Обрізати
+Fino	Thin	Тонка
+Medio	Medium	Середня
+Grueso	Thick	Товста
+Pequeño	Small	Малий
+Mediano	Medium	Середній
+Grande	Large	Великий
+Grosor: {0}	Thickness: {0}	Товщина: {0}
+Tamaño: {0}	Size: {0}	Розмір: {0}
+Deshacer  (Ctrl+Z)	Undo  (Ctrl+Z)	Скасувати  (Ctrl+Z)
+Rehacer  (Ctrl+Y)	Redo  (Ctrl+Y)	Повторити  (Ctrl+Y)
+Fondo de presentación: degradados, imágenes, desenfocado o color liso, con margen, sombra y esquinas  (B)	Presentation background: gradients, images, blur or solid color, with margin, shadow and corners  (B)	Тло для подачі: градієнти, зображення, розмиття або суцільний колір, з відступом, тінню та кутами  (B)
+Exportar	Export	Експорт
+Fijar en pantalla: queda flotando encima de todo	Pin to screen: it floats on top of everything	Закріпити на екрані: залишається поверх усього
+Guardar como PDF: las capturas largas se reparten en páginas sin perder nitidez  (Ctrl+P)	Save as PDF: long captures are split across pages without losing sharpness  (Ctrl+P)	Зберегти як PDF: довгі знімки розбиваються на сторінки без втрати чіткості  (Ctrl+P)
+Arrastrar	Drag	Перетягнути
+Arrástrala al chat o a otra aplicación	Drag it into a chat or another app	Перетягни це в чат або іншу програму
+Copiar texto	Copy text	Копіювати текст
+Copiar el texto de la imagen (reconocimiento de texto de Windows)  (Ctrl+Mayús+C)	Copy the text in the image (Windows text recognition)  (Ctrl+Shift+C)	Копіювати текст із зображення (розпізнавання тексту Windows)  (Ctrl+Shift+C)
+Copiar	Copy	Копіювати
+Copiar al portapapeles  (Ctrl+C)	Copy to clipboard  (Ctrl+C)	Копіювати до буфера обміну  (Ctrl+C)
+Copiado ✓	Copied ✓	Скопійовано ✓
+Guardar	Save	Зберегти
+Conservarla en tu carpeta de capturas  (Ctrl+S)	Keep it in your captures folder  (Ctrl+S)	Залишити у твоїй теці зі знімками  (Ctrl+S)
+Guardar sobre la imagen  (Ctrl+S)	Save over the image  (Ctrl+S)	Зберегти поверх зображення  (Ctrl+S)
+Guardada ✓	Saved ✓	Збережено ✓
+Listo	Done	Готово
+Aplicar, copiar y cerrar  (Enter)	Apply, copy and close  (Enter)	Застосувати, скопіювати й закрити  (Enter)
+Crear un GIF con el recorte, las marcas, el fondo y las opciones de abajo  (Enter)	Create a GIF with the crop, the marks, the background and the options below  (Enter)	Створити GIF з обрізанням, позначками, тлом і параметрами нижче  (Enter)
+Exportar para compartir: crea un MP4 (comprimido) con el recorte, las marcas, el fondo y las opciones de abajo. El máster sin pérdidas no cambia  (Enter)	Export to share: creates a (compressed) MP4 with the crop, the marks, the background and the options below. The lossless master does not change  (Enter)	Експорт для поширення: створює MP4 (стиснений) з обрізанням, позначками, тлом і параметрами нижче. Майстер без втрат не змінюється  (Enter)
+Crear un MP4 con el recorte, las marcas, el fondo y las opciones de abajo; el original no cambia  (Enter)	Create an MP4 with the crop, the marks, the background and the options below; the original does not change  (Enter)	Створити MP4 з обрізанням, позначками, тлом і параметрами нижче; оригінал не змінюється  (Enter)
+Enter copia y cierra	Enter copies and closes	Enter копіює й закриває
+Enter crea el GIF	Enter creates the GIF	Enter створює GIF
+Enter crea un MP4 para compartir	Enter creates an MP4 to share	Enter створює MP4 для поширення
+Enter exporta	Enter exports	Enter експортує
+Reproduciendo · Espacio pausa	Playing · Space pauses	Відтворення · Пробіл — пауза
+se ve durante todo el vídeo	shown throughout the video	видно протягом усього відео
+Editar vídeo · 	Edit video · 	Редагування відео · 
+Editar · 	Edit · 	Редагування · 
+No se pudo guardar: {0}	Could not save: {0}	Не вдалося зберегти: {0}
+No se pudo copiar: {0}	Could not copy: {0}	Не вдалося скопіювати: {0}
+No se pudo guardar la edición	The edit could not be saved	Не вдалося зберегти зміни
+No se pudo guardar	Could not save	Не вдалося зберегти
+Guardar como PDF	Save as PDF	Зберегти як PDF
+Guardar como	Save as	Зберегти як
+Guardando {0}…	Saving {0}…	Збереження {0}…
+Guardada: {0}	Saved: {0}	Збережено: {0}
+Leyendo el texto…	Reading the text…	Зчитування тексту…
+Texto copiado al portapapeles.	Text copied to the clipboard.	Текст скопійовано до буфера обміну.
+No se ha podido leer el texto.	The text could not be read.	Не вдалося прочитати текст.
+No se pudo abrir la grabación.	The recording could not be opened.	Не вдалося відкрити запис.
+El archivo no se puede leer ahora; vuelve a intentarlo.	The file cannot be read right now; try again.	Файл зараз неможливо прочитати; спробуй ще раз.
+Máster sin pérdidas: Exportar crea un MP4 para compartir; el máster no cambia.	Lossless master: Export creates an MP4 to share; the master does not change.	Майстер без втрат: Експорт створює MP4 для поширення; майстер не змінюється.
+No se puede reproducir {0}.	{0} cannot be played.	Не вдається відтворити {0}.
+No se pudo iniciar la reproducción.	Playback could not be started.	Не вдалося почати відтворення.
+No se puede reproducir el siguiente vídeo.	The next video cannot be played.	Не вдається відтворити наступне відео.
+Pista {0}	Track {0}	Доріжка {0}
+Silencio	Mute	Без звуку
+Añadir vídeo	Add video	Додати відео
+Añadiendo {0}…	Adding {0}…	Додавання {0}…
+{0} vídeos	{0} videos	{0} відео
+Añadido: {0}	Added: {0}	Додано: {0}
+No se pudo abrir como vídeo:\n\n{0}	Could not open as video:\n\n{0}	Не вдалося відкрити як відео:\n\n{0}
+No queda ningún tramo dentro del recorte.	No segment is left inside the crop.	Усередині обрізки не залишилося жодного фрагмента.
+No hay nada que exportar: el vídeo ya está listo para compartir tal cual.	Nothing to export: the video is already ready to share as it is.	Нічого експортувати: відео вже готове до поширення як є.
+No se sabe cuánto dura este vídeo, así que no se puede ajustar a {0}. Elige Máxima, Alta o Ligera en Calidad.	The length of this video is unknown, so it cannot be fitted to {0}. Choose Maximum, High or Light under Quality.	Невідомо, скільки триває це відео, тож його неможливо вмістити в {0}. Виберіть «Максимальна», «Висока» або «Легка» в розділі «Якість».
+Es demasiado largo para caber en {0} con buena calidad (caben {1}). Recorta el vídeo, súbelo de velocidad o elige 720p o menos en Tamaño.	It is too long to fit in {0} with good quality ({1} fit). Trim the video, speed it up or choose 720p or less under Size.	Відео надто довге, щоб поміститися в {0} з хорошою якістю (вміщується {1}). Обріжте відео, прискорте його або виберіть 720p чи менше в розділі «Розмір».
+Creando el GIF… 	Creating the GIF… 	Створення GIF… 
+Creando el vídeo… 	Creating the video… 	Створення відео… 
+Esc cancela	Esc cancels	Esc скасовує
+No se pudo iniciar FFmpeg: {0}	Could not start FFmpeg: {0}	Не вдалося запустити FFmpeg: {0}
+No se pudo crear el vídeo.\n\n{0}	The video could not be created.\n\n{0}	Не вдалося створити відео.\n\n{0}
+Comprobando el vídeo…	Checking the video…	Перевірка відео…
+Exportado: {0} ya está en la pila.	Exported: {0} is now in the stack.	Експортовано: {0} уже в стопці.
+Exportado: {0}	Exported: {0}	Експортовано: {0}
+{0}\n\nEl archivo no se ha añadido a la pila. Queda en:\n{1}\n\nEl editor sigue abierto: puedes volver a exportar.	{0}\n\nThe file was not added to the stack. It is kept at:\n{1}\n\nThe editor is still open: you can export again.	{0}\n\nФайл не додано до стопки. Він лежить тут:\n{1}\n\nРедактор залишається відкритим: можна експортувати ще раз.
+¿Cancelar la exportación?\n\nEl vídeo a medio crear se descarta.	Cancel the export?\n\nThe half-made video is discarded.	Скасувати експорт?\n\nНедоспіле відео буде відкинуто.
+Cancelar la exportación	Cancel the export	Скасувати експорт
+Seguir exportando	Keep exporting	Продовжити експорт
+¿Exportar la grabación con los cambios?\n\nSi la descartas, los cambios se pierden; el vídeo original no cambia.	Export the recording with the changes?\n\nIf you discard it, the changes are lost; the original video does not change.	Експортувати запис зі змінами?\n\nЯкщо відкинути, зміни буде втрачено; оригінальне відео не змінюється.
+Descartar cambios	Discard changes	Відкинути зміни
+Seguir editando	Keep editing	Продовжити редагування
+Conservar	Keep	Залишити
+No guardar	Don't save	Не зберігати
+Cancelar y salir	Cancel and quit	Скасувати й вийти
+Salir sin exportar	Quit without exporting	Вийти без експорту
+¿Conservar los cambios en la captura?	Keep the changes to the capture?	Зберегти зміни в знімку?
+Se está exportando {0}.\n\nSi sales ahora, el vídeo a medio crear se descarta.	{0} is being exported.\n\nIf you quit now, the half-made video is discarded.	Триває експорт {0}.\n\nЯкщо вийти зараз, недоспіле відео буде відкинуто.
+Hay cambios sin exportar en {0}.\n\nCon Exportar, Stackshot crea el vídeo y no se cierra: sal de nuevo cuando termine.	There are unexported changes in {0}.\n\nWith Export, Stackshot creates the video and stays open: quit again when it finishes.	У {0} є неекспортовані зміни.\n\nЗ Експортом Stackshot створює відео й не закривається: вийдіть знову, коли воно буде готове.
+¿Guardar los cambios en {0} antes de salir?	Save the changes to {0} before quitting?	Зберегти зміни в {0} перед виходом?
+No se pudo preparar el vídeo: {0}	The video could not be prepared: {0}	Не вдалося підготувати відео: {0}
+Alejar  (Ctrl+−)	Zoom out  (Ctrl+−)	Зменшити  (Ctrl+−)
+Tamaño real  (Ctrl+1)	Actual size  (Ctrl+1)	Реальний розмір  (Ctrl+1)
+Acercar  (Ctrl++)	Zoom in  (Ctrl++)	Збільшити  (Ctrl++)
+Ajustar a la ventana  (Ctrl+0)	Fit to window  (Ctrl+0)	За розміром вікна  (Ctrl+0)
+Ajustar	Fit	Вмістити
+Escribe y pulsa Enter · Mayús+Enter añade una línea · Esc cancela	Type and press Enter · Shift+Enter adds a line · Esc cancels	Пиши й натисни Enter · Shift+Enter додає рядок · Esc скасовує
+Foco seleccionado: arrástralo por el borde o tira de sus puntos · Supr lo quita · Ctrl+D añade otro	Spotlight selected: drag it by the edge or pull its handles · Del removes it · Ctrl+D adds another	Прожектор вибрано: перетягни його за край або потягни за точки · Del видаляє · Ctrl+D додає ще один
+arrástrala; tira del punto azul del medio para curvarla	drag it; pull the blue point in the middle to curve it	перетягни її; потягни синю точку посередині, щоб зігнути
+arrástrala; doble clic cambia el texto	drag it; double-click changes the text	перетягни її; подвійний клік змінює текст
+arrástrala o tira de sus puntos	drag it or pull its handles	перетягни її або потягни за точки
+arrástrala para moverla	drag it to move it	перетягни її, щоб перемістити
+Arrastra para dibujar una flecha · Mayús la deja recta · después, tira del punto azul del medio para curvarla	Drag to draw an arrow · Shift keeps it straight · then pull the blue point in the middle to curve it	Перетягни, щоб намалювати стрілку · Shift робить її рівною · потім потягни синю точку посередині, щоб зігнути
+Arrastra para dibujar una línea · Mayús la deja recta o a 45° · después, tira del punto azul del medio para curvarla	Drag to draw a line · Shift keeps it straight or at 45° · then pull the blue point in the middle to curve it	Перетягни, щоб намалювати лінію · Shift робить її рівною або під кутом 45° · потім потягни синю точку посередині, щоб зігнути
+Arrastra sobre lo importante: el resto se oscurece · puedes poner varios focos	Drag over what matters: the rest gets dimmed · you can add several spotlights	Перетягни по важливому: решта затемниться · можна додати кілька прожекторів
+Arrastra para enmarcar · Mayús hace un cuadrado · pincha una marca para moverla	Drag to frame · Shift makes a square · click a mark to move it	Перетягни, щоб обрамити · Shift робить квадрат · клацни позначку, щоб перемістити її
+Arrastra para rodear · Mayús hace un círculo	Drag to circle · Shift makes a circle	Перетягни, щоб обвести · Shift робить коло
+Haz clic donde quieras escribir	Click where you want to type	Клацни там, де хочеш писати
+Cada clic pone el siguiente número: 1, 2, 3…	Each click places the next number: 1, 2, 3…	Кожен клік ставить наступне число: 1, 2, 3…
+Arrastra sobre lo que quieras resaltar	Drag over what you want to highlight	Перетягни по тому, що хочеш виділити
+Arrastra sobre lo que quieras pixelar · para contraseñas o datos sensibles, mejor Tapar (X)	Drag over what you want to pixelate · for passwords or sensitive data, better use Cover (X)	Перетягни по тому, що хочеш запікселізувати · для паролів чи чутливих даних краще Закрити (X)
+Arrastra sobre lo que quieras tapar: un bloque sólido que borra de verdad lo de debajo	Drag over what you want to cover: a solid block that really erases what is underneath	Перетягни по тому, що хочеш закрити: суцільний блок, який справді стирає те, що під ним
+Arrastra el área que quieres conservar · Ctrl+Z lo deshace	Drag the area you want to keep · Ctrl+Z undoes it	Перетягни ділянку, яку хочеш залишити · Ctrl+Z скасовує
+Escribe aquí	Type here	Пиши тут
+Marca seleccionada: {0} · Supr la borra · Ctrl+D la duplica · el color y el grosor se le aplican	Mark selected: {0} · Del deletes it · Ctrl+D duplicates it · the color and thickness apply to it	Позначку вибрано: {0} · Del видаляє · Ctrl+D дублює · колір і товщина застосовуються до неї
+1,5×	1.5×	1,5×
+Original	Original	Оригінал
+Máxima	Maximum	Максимальна
+Alta	High	Висока
+Ligera	Light	Легка
+Línea de tiempo	Timeline	Часова шкала
+Flechas: fotograma a fotograma. Mayús y flechas: de segundo en segundo. Inicio y Fin: principio y final del recorte.	Arrow keys: frame by frame. Shift and arrows: second by second. Home and End: start and end of the trim.	Стрілки: кадр за кадром. Shift і стрілки: секунда за секундою. Home і End: початок і кінець обрізки.
+Vídeo base: marca el tamaño y los fotogramas	Base video: it sets the size and the frame rate	Основне відео: визначає розмір і частоту кадрів
+Mover a la izquierda	Move left	Перемістити ліворуч
+Mover a la derecha	Move right	Перемістити праворуч
+Quitar este vídeo	Remove this video	Видалити це відео
+Dividir	Split	Розділити
+Recuperar	Restore	Відновити
+Quitar tramo	Remove segment	Видалити фрагмент
++ Vídeo	+ Video	+ Відео
+Velocidad	Speed	Швидкість
+Tamaño	Size	Розмір
+Calidad	Quality	Якість
+Formato	Format	Формат
+, recortada de {0} a {1}	, trimmed from {0} to {1}	, обрізано від {0} до {1}
+, con tramos quitados	, with segments removed	, з вилученими фрагментами
+Duración {0}	Duration {0}	Тривалість {0}
+de {0} a {1}	from {0} to {1}	від {0} до {1}
+{0} tramo	{0} segment	{0} фрагмент
+{0} tramos (2-4)	{0} segments	{0} фрагменти
+{0} tramos	{0} segments	{0} фрагментів
+100 % (tamaño real: un píxel del vídeo, un píxel de la pantalla)	100 % (actual size: one video pixel, one screen pixel)	100 % (реальний розмір: один піксель відео — один піксель екрана)
+{0} % (ampliado para llenar la ventana)	{0} % (enlarged to fill the window)	{0} % (збільшено, щоб заповнити вікно)
+{0} % ({1})	{0} % ({1})	{0} % ({1})
+la ventana es más pequeña que el vídeo: maximízala o pulsa F	the window is smaller than the video: maximize it or press F	вікно менше за відео: розгорни його або натисни F
+el vídeo es más grande que la pantalla	the video is larger than the screen	відео більше за екран
+Archivo	File	Файл
+Contenedor	Container	Контейнер
+Códec de vídeo	Video codec	Відеокодек
+Formato de píxel	Pixel format	Формат пікселя
+Fotogramas por segundo	Frames per second	Кадрів за секунду
+Duración	Duration	Тривалість
+Sin sonido	No sound	Без звуку
+estéreo	stereo	стерео
+Tamaño del archivo	File size	Розмір файлу
+Máster sin pérdidas	Lossless master	Майстер без втрат
+Sí: cada píxel y el sonido, tal como los entregó Windows	Yes: every pixel and the sound, exactly as Windows delivered them	Так: кожен піксель і звук — точно так, як їх передала Windows
+Comprobación	Verification	Перевірка
+Correcta	Passed	Пройдено
+No superada	Failed	Не пройдено
+Audio	Audio	Аудіо
+ (píxeles no cuadrados {0}:{1}, se ve a {2} × {3})	 (non-square pixels {0}:{1}, displayed at {2} × {3})	 (непрямокутні пікселі {0}:{1}, відображається як {2} × {3})
+Audio {0}	Audio {0}	Аудіо {0}
+Correcta: {0} fotogramas idénticos	Passed: {0} identical frames	Пройдено: ідентичних кадрів — {0}
+Error al reproducir: {0}	Playback error: {0}	Помилка відтворення: {0}
+Sin salida de sonido	No audio output	Немає виходу звуку
+No se pudo reproducir: FFmpeg no responde.	Cannot play: FFmpeg is not responding.	Не вдалося відтворити: FFmpeg не відповідає.
+No se pudo reproducir el vídeo.	The video could not be played.	Не вдалося відтворити відео.
+No se encuentra el archivo.	The file cannot be found.	Файл не знайдено.
+No se puede reproducir este archivo: FFmpeg no encuentra un vídeo que mostrar.	This file cannot be played: FFmpeg finds no video to show.	Цей файл неможливо відтворити: FFmpeg не знаходить відео для показу.
+Repetir: sí	Repeat: on	Повтор: увімкнено
+Repetir: no	Repeat: off	Повтор: вимкнено
+Tramo quitado	Segment removed	Фрагмент видалено
+No se pudo capturar el fotograma.	The frame could not be captured.	Не вдалося захопити кадр.
+Abrir vídeo	Open video	Відкрити відео
+No se pudo preparar la exportación.	The export could not be prepared.	Не вдалося підготувати експорт.
+Comprobando el vídeo…  ·  Esc cancela	Checking the video…  ·  Esc cancels	Перевірка відео…  ·  Esc скасовує
+MP4 listo y guardado junto al original	MP4 ready and saved next to the original	MP4 готовий і збережений поруч з оригіналом
+MP4 listo: está en la pila	MP4 ready: it is in the stack	MP4 готовий: він у стопці
+MP4 listo	MP4 ready	MP4 готовий
+No se pudo comprobar el vídeo.	The video could not be verified.	Не вдалося перевірити відео.
+No se puede abrir eso.	That cannot be opened.	Це неможливо відкрити.
+Ese archivo no es un vídeo que se pueda abrir.	That file is not a video that can be opened.	Цей файл не є відео, яке можна відкрити.
+  (normal)	  (normal)	  (звичайна)
+Editar	Edit	Редагувати
+Exportar el tramo	Export the segment	Експортувати фрагмент
+Exportar MP4	Export MP4	Експортувати MP4
+Capturar este fotograma	Capture this frame	Захопити цей кадр
+Marcar el inicio del tramo	Mark the start of the segment	Позначити початок фрагмента
+Marcar el final del tramo	Mark the end of the segment	Позначити кінець фрагмента
+Quitar el tramo	Remove the segment	Видалити фрагмент
+Mostrar en carpeta	Show in folder	Показати в теці
+Abrir otro vídeo…	Open another video…	Відкрити інше відео…
+Información	Information	Інформація
+Repetir al terminar	Repeat when finished	Повторювати після завершення
+Escalado: mejor calidad	Scaling: best quality	Масштабування: найкраща якість
+Escalado: más rápido	Scaling: faster	Масштабування: швидше
+Imagen: tamaño real (la más nítida)	Image: actual size (the sharpest)	Зображення: реальний розмір (найчіткіше)
+Imagen: llenar la ventana	Image: fill the window	Зображення: заповнити вікно
+Abrir los vídeos en Stackshot	Open videos in Stackshot	Відкривати відео в Stackshot
+Los vídeos se abrirán en Stackshot	Videos will open in Stackshot	Відео відкриватимуться в Stackshot
+Los vídeos se abrirán en el reproductor de Windows	Videos will open in the Windows player	Відео відкриватимуться у програвачі Windows
+ (correo)	 (email)	 (пошта)
+En pantalla	On screen	На екрані
+Reproducción	Playback	Відтворення
+Pausa  (Espacio)	Pause  (Space)	Пауза  (Пробіл)
+Reproducir  (Espacio)	Play  (Space)	Відтворити  (Пробіл)
+Activar el sonido  (M)	Turn the sound on  (M)	Увімкнути звук  (M)
+Silenciar  (M)	Mute  (M)	Вимкнути звук  (M)
+Pantalla completa  (F)	Full screen  (F)	На весь екран  (F)
+Pista de audio	Audio track	Звукова доріжка
+Más opciones	More options	Більше параметрів
+Información  (I)	Information  (I)	Інформація  (I)
+Abrir en el editor	Open in the editor	Відкрити в редакторі
+Exportar tramo	Export segment	Експорт фрагмента
+Crear un MP4 con el tramo marcado (E y S)	Create an MP4 with the marked segment (E and S)	Створити MP4 з позначеним фрагментом (E і S)
+Crear un MP4 para compartir	Create an MP4 to share	Створити MP4 для поширення
+Sigue donde lo dejaste ({0}) · Inicio vuelve al principio	Continues where you left off ({0}) · Home goes back to the start	Продовжується з того місця, де ти зупинився ({0}) · Home повертає на початок
+Volumen {0} %	Volume {0} %	Гучність {0} %
+Velocidad {0}	Speed {0}	Швидкість {0}
+Inicio del tramo en {0} · S marca el final	Segment starts at {0} · S marks the end	Фрагмент починається з {0} · S позначає кінець
+Tramo {0} – {1}	Segment {0} – {1}	Фрагмент {0} – {1}
+El final tiene que ir después del inicio ({0})	The end must come after the start ({0})	Кінець має бути після початку ({0})
+Tramo {0} – {1} · Exportar lo crea en MP4; G, en GIF	Segment {0} – {1} · Export makes an MP4; G makes a GIF	Фрагмент {0} – {1} · Експорт створює MP4; G — GIF
+Fotograma de {0} en la pila	Frame at {0} is in the stack	Кадр на {0} у стопці
+Fotograma guardado: {0}	Frame saved: {0}	Кадр збережено: {0}
+No se pudo guardar el fotograma: {0}	The frame could not be saved: {0}	Не вдалося зберегти кадр: {0}
+No se sabe cuánto dura este vídeo, así que no se puede ajustar a {0}. Marca un tramo (E y S) o elige otra calidad en Más opciones > Calidad al exportar.	The length of this video is unknown, so it cannot be fitted to {0}. Mark a segment (E and S) or choose another quality under More options > Export quality.	Невідомо, скільки триває це відео, тож його неможливо вмістити в {0}. Познач фрагмент (E і S) або вибери іншу якість у «Більше параметрів» > «Якість експорту».
+Es demasiado largo para caber en {0} con buena calidad (caben {1}). Marca un tramo más corto (E y S) o elige otra calidad en Más opciones > Calidad al exportar.	It is too long to fit in {0} with good quality ({1} fit). Mark a shorter segment (E and S) or choose another quality under More options > Export quality.	Відео надто довге, щоб поміститися в {0} з хорошою якістю (вміщується {1}). Познач коротший фрагмент (E і S) або вибери іншу якість у «Більше параметрів» > «Якість експорту».
+Creando el MP4… {0} %  ·  Esc cancela	Creating the MP4… {0} %  ·  Esc cancels	Створення MP4… {0} %  ·  Esc скасовує
+No se pudo crear el MP4.\n\n{0}	The MP4 could not be created.\n\n{0}	Не вдалося створити MP4.\n\n{0}
+{0}\n\nEl archivo no se ha añadido a la pila. Queda en:\n{1}	{0}\n\nThe file was not added to the stack. It is kept at:\n{1}	{0}\n\nФайл не додано до стопки. Він лежить тут:\n{1}
+Calidad al exportar: {0}…	Export quality: {0}…	Якість експорту: {0}…
+Calidad al exportar: {0}	Export quality: {0}	Якість експорту: {0}
+{0} fotogramas mostrados, {1} omitidos	{0} frames shown, {1} dropped	Показано кадрів: {0}, пропущено: {1}
+{0} · calidad {1}	{0} · quality {1}	{0} · якість {1}
+Crear un GIF con el tramo marcado (E y S) · {0}  (G)	Create a GIF with the marked segment (E and S) · {0}  (G)	Створити GIF з позначеним фрагментом (E і S) · {0}  (G)
+{0} fps	{0} fps	{0} к/с
+al ritmo del GIF	at the GIF's own rate	з власною частотою GIF
+Exportar GIF del tramo	Export GIF of the segment	Експортувати GIF фрагмента
+GIF listo y guardado junto al original	GIF ready and saved next to the original	GIF готовий і збережений поруч з оригіналом
+GIF listo: está en la pila	GIF ready: it is in the stack	GIF готовий: він у стопці
+El tramo dura {0}: un GIF tan largo pesa mucho y tarda en crearse. Para un trozo así suele ir mejor «Exportar tramo» (MP4).\n\n¿Crear el GIF igualmente?	The segment lasts {0}: a GIF this long is heavy and takes a while to create. For a piece like this, “Export segment” (MP4) usually works better.\n\nCreate the GIF anyway?	Фрагмент триває {0}: такий довгий GIF важкий і довго створюється. Для такого шматка зазвичай краще «Експорт фрагмента» (MP4).\n\nВсе одно створити GIF?
+Marca el tramo con E y S para crear el GIF	Mark the segment with E and S to create the GIF	Познач фрагмент клавішами E і S, щоб створити GIF
+No se pudo preparar el GIF.	The GIF could not be prepared.	Не вдалося підготувати GIF.
+Creando el GIF… {0} %  ·  Esc cancela	Creating the GIF… {0} %  ·  Esc cancels	Створення GIF… {0} %  ·  Esc скасовує
+La paleta del GIF no es válida.	The GIF palette is not valid.	Палітра GIF недійсна.
+Comprobando el GIF…  ·  Esc cancela	Checking the GIF…  ·  Esc cancels	Перевірка GIF…  ·  Esc скасовує
+No se pudo crear el GIF.\n\n{0}	The GIF could not be created.\n\n{0}	Не вдалося створити GIF.\n\n{0}
+GIF listo	GIF ready	GIF готовий
+No se pudo comprobar el GIF.	The GIF could not be verified.	Не вдалося перевірити GIF.
+Estructura MP4	MP4 structure	Структура MP4
+Inicio rápido	Fast start	Швидкий старт
+Vídeo	Video	Відео
+Color	Color	Колір
+Sonido	Sound	Звук
+Lectura completa	Full read	Повне зчитування
+Número de fotogramas	Frame count	Кількість кадрів
+Nivel H.264	H.264 level	Рівень H.264
+Límite de tamaño	Size limit	Ліміт розміру
+El vídeo se ha comprobado: se abre entero y tiene el tamaño, la duración y el sonido esperados.	The video has been verified: it opens completely and has the expected size, duration and sound.	Відео перевірено: воно відкривається повністю й має очікувані розмір, тривалість і звук.
+El vídeo no pasa la comprobación: 	The video fails verification: 	Відео не проходить перевірку: 
+sobran {0} bytes al final	{0} extra bytes at the end	зайвих байтів наприкінці: {0}
+no se puede leer en {0}	cannot read at {0}	неможливо прочитати за зміщенням {0}
+la caja '{0}' está cortada	box '{0}' is cut off	блок «{0}» обрізано
+la caja '{0}' en {1} tiene un tamaño imposible	box '{0}' at {1} has an impossible size	блок «{0}» за зміщенням {1} має неможливий розмір
+la caja '{0}' declara {1} bytes y solo quedan {2} (archivo cortado)	box '{0}' declares {1} bytes but only {2} remain (file cut off)	блок «{0}» оголошує {1} байтів, а залишилося лише {2} (файл обрізано)
+no existe	does not exist	не існує
+{0} bytes	{0} bytes	{0} байтів
+, demasiado pequeño	, too small	, надто малий
+{0} MB, como mucho {1} MB	{0} MB, at most {1} MB	{0} МБ, щонайбільше {1} МБ
+GIF completo	complete GIF	повний GIF
+el GIF está cortado o no es un GIF	the GIF is cut off or is not a GIF	GIF обрізано або це не GIF
+no empieza por 'ftyp'	does not start with 'ftyp'	не починається з «ftyp»
+falta 'moov'	'moov' is missing	немає «moov»
+falta 'mdat'	'mdat' is missing	немає «mdat»
+el índice va antes de los datos	the index comes before the data	індекс іде перед даними
+el índice va después de los datos: no empieza a verse hasta que baja entero	the index comes after the data: it does not start playing until it is fully downloaded	індекс іде після даних: відео не починає відтворюватися, доки не завантажиться повністю
+FFmpeg no terminó de leer el archivo	FFmpeg did not finish reading the file	FFmpeg не закінчив читати файл
+{0} vídeo(s), {1}	{0} video(s), {1}	відео: {0}, {1}
+sin códec	no codec	без кодека
+{0}x{1}, esperado {2}x{3}	{0}x{1}, expected {2}x{3}	{0}x{1}, очікувалося {2}x{3}
+{0} vídeo(s), {1} ({2}), {3}	{0} video(s), {1} ({2}), {3}	відео: {0}, {1} ({2}), {3}
+sin perfil	no profile	без профілю
+sin formato	no format	без формату
+; se esperaba h264 High/Main, yuv420p	; expected h264 High/Main, yuv420p	; очікувалося h264 High/Main, yuv420p
+{0}, esperado {1}	{0}, expected {1}	{0}, очікувалося {1}
+no se pudo leer	could not be read	не вдалося прочитати
+, esperado {0}	, expected {0}	, очікувалося {0}
+sin las etiquetas BT.709 ({0})	without the BT.709 tags ({0})	без тегів BT.709 ({0})
+ninguna	none	жодного
+BT.709, pero no dice que el croma va centrado	BT.709, but it does not say the chroma is centered	BT.709, але не вказано, що кольоровість центрована
+BT.709, rango limitado	BT.709, limited range	BT.709, обмежений діапазон
+, croma centrado	, centered chroma	, центрована кольоровість
+{0} pistas de sonido, esperada 1	{0} sound tracks, expected 1	звукових доріжок: {0}, очікувалася 1
+sin sonido, como se esperaba	no sound, as expected	без звуку, як і очікувалося
+{0} pistas de sonido, esperadas 0	{0} sound tracks, expected 0	звукових доріжок: {0}, очікувалося 0
+{0} s, esperado {1} s	{0} s, expected {1} s	{0} с, очікувалося {1} с
+tardó demasiado y se canceló	took too long and was cancelled	тривало надто довго й було скасовано
+sin errores	no errors	без помилок
+FFmpeg salió con {0}	FFmpeg exited with {0}	FFmpeg завершився з кодом {0}
+{0} fotogramas, esperados {1}	{0} frames, expected {1}	кадрів: {0}, очікувалося {1}
+unos {0} min	about {0} min	близько {0} хв
+unos {0} s	about {0} s	близько {0} с
+Tu imagen {0}	Your image {0}	Твоє зображення {0}
+Tu escritorio	Your desktop	Твій робочий стіл
+Atardecer	Sunset	Захід сонця
+Menta	Mint	М’ята
+Océano	Ocean	Океан
+Melocotón	Peach	Персик
+Lavanda	Lavender	Лаванда
+Aurora	Aurora	Північне сяйво
+Noche	Night	Ніч
+Grafito	Graphite	Графіт
+Claro	Light	Світлий
+Oscuro	Dark	Темний

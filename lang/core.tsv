@@ -1,0 +1,455 @@
+Elige la carpeta de los XML	Choose the XML folder	Виберіть теку для XML
+La vigilancia de XML está activada pero no tiene carpeta. Elígela en General > Avanzado.	XML watching is on but has no folder. Choose one in General > Advanced.	Стеження за XML увімкнено, але теку не вибрано. Виберіть її в розділі «Загальні» > «Додатково».
+Se abre {0}. {1} (el visor muestra uno cada vez).	Opening {0}. {1} (the viewer shows one at a time).	Відкривається {0}. {1} (переглядач показує по одному).
+{0} archivo más	{0} more file	ще {0} файл
+{0} archivos más	{0} more files	ще {0} файлів
+{0} archivos más|few	{0} more files	ще {0} файли
+Todavía no hay ninguna carpeta de XML vigilada: elígela en Ajustes > General > Avanzado.	No XML folder is being watched yet: choose one in Settings > General > Advanced.	Жодну теку з XML ще не відстежується: виберіть її в Налаштуваннях > Загальні > Додатково.
+No hay ningún XML en {0}.	There is no XML in {0}.	У {0} немає жодного XML.
+{0} los usa otro programa (¿OneDrive, ShareX, Lightshot, Greenshot…?).	{0} is used by another program (OneDrive, ShareX, Lightshot, Greenshot…?).	{0} уже використовує інша програма (можливо, OneDrive, ShareX, Lightshot, Greenshot…).
+{0} está puesto dos veces en los atajos de Stackshot: solo cuenta la primera.	{0} is set twice in Stackshot's shortcuts: only the first one counts.	{0} вказано двічі серед скорочень Stackshot: враховується лише перше.
+{0} no es una combinación de teclas válida.	{0} is not a valid key combination.	{0} не є дійсною комбінацією клавіш.
+Algunos atajos están ocupados	Some shortcuts are taken	Деякі скорочення зайняті
+Algunos atajos no funcionan	Some shortcuts don't work	Деякі скорочення не працюють
+Elegir otros atajos	Choose other shortcuts	Вибрати інші скорочення
+No se pudo abrir el visor	Couldn't open the viewer	Не вдалося відкрити переглядач
+No se pudo capturar	Couldn't capture	Не вдалося зробити знімок
+No hay memoria suficiente para una imagen tan grande. Prueba con un área más pequeña.	Not enough memory for such a large image. Try a smaller area.	Недостатньо пам'яті для такого великого зображення. Спробуйте меншу область.
+Ha fallado algo inesperado. Vuelve a intentarlo; si se repite, el registro de Stackshot tiene los detalles.	Something unexpected failed. Try again; if it keeps happening, Stackshot's log has the details.	Сталася неочікувана помилка. Спробуйте ще раз; якщо вона повториться, подробиці є в журналі Stackshot.
+Windows quiere cerrar la sesión y hay una grabación en marcha.\n\nStackshot la detiene y la guarda en tu carpeta antes de salir.	Windows wants to sign out and a recording is in progress.\n\nStackshot stops it and saves it to your folder before quitting.	Windows хоче завершити сеанс, а запис триває.\n\nStackshot зупинить його й збереже у вашу теку перед виходом.
+Hay una grabación en marcha.\n\nStackshot la detiene y la guarda en tu carpeta antes de salir.	A recording is in progress.\n\nStackshot stops it and saves it to your folder before quitting.	Триває запис.\n\nStackshot зупинить його й збереже у вашу теку перед виходом.
+Detener y salir	Stop and quit	Зупинити й вийти
+Seguir grabando	Keep recording	Продовжити запис
+Hay una grabación en marcha en Stackshot	A recording is in progress in Stackshot	У Stackshot триває запис
+Stackshot está guardando una grabación…	Stackshot is saving a recording…	Stackshot зберігає запис…
+Hay cambios sin guardar en Stackshot	There are unsaved changes in Stackshot	У Stackshot є незбережені зміни
+No se ha podido leer el texto	Couldn't read the text	Не вдалося прочитати текст
+No hay texto	No text	Тексту немає
+No se ha encontrado texto en la imagen.	No text was found in the image.	На зображенні не знайдено тексту.
+Texto copiado	Text copied	Текст скопійовано
+No se pudo copiar	Couldn't copy	Не вдалося скопіювати
+Otro programa está usando el portapapeles. Vuelve a intentarlo.	Another program is using the clipboard. Try again.	Буфер обміну зайнятий іншою програмою. Спробуйте ще раз.
+No se pudo guardar la captura	Couldn't save the capture	Не вдалося зберегти знімок
+La miniatura sigue en la pila: puedes copiarla o guardarla en tu carpeta.	The thumbnail is still in the stack: you can copy it or save it to your folder.	Мініатюра залишається в стосі: її можна скопіювати або зберегти у вашу теку.
+No se pudo guardar en tu carpeta	Couldn't save to your folder	Не вдалося зберегти у вашу теку
+La miniatura sigue en la pila: puedes volver a pulsar Guardar.	The thumbnail is still in the stack: you can press Save again.	Мініатюра залишається в стосі: можна ще раз натиснути «Зберегти».
+Windows o el antivirus lo ha bloqueado.	Windows or the antivirus blocked it.	Windows або антивірус заблокував це.
+Windows no tiene ninguna aplicación para abrir este tipo de archivo.	Windows has no app to open this type of file.	У Windows немає програми для відкриття файлів цього типу.
+Windows no deja abrir el archivo (por sus permisos o por el antivirus).	Windows won't let the file be opened (because of its permissions or the antivirus).	Windows не дозволяє відкрити файл (через його права доступу або антивірус).
+Windows no deja escribir en {0}. Comprueba los permisos de la carpeta o si «Acceso controlado a carpetas» la protege.	Windows won't let anything be written to {0}. Check the folder's permissions, or whether "Controlled folder access" protects it.	Windows не дозволяє записувати в {0}. Перевірте права доступу до теки та чи не захищає її «Контрольований доступ до папок».
+No queda espacio en el disco de {0}. Libera espacio y vuelve a intentarlo.	There is no space left on the disk of {0}. Free up some space and try again.	На диску, де розташовано {0}, немає місця. Звільніть місце й спробуйте ще раз.
+Otro programa está usando el archivo. Ciérralo y vuelve a intentarlo.	Another program is using the file. Close it and try again.	Файл використовує інша програма. Закрийте її й спробуйте ще раз.
+No se encuentra la carpeta {0} (¿una unidad desconectada o de red?).	The folder {0} can't be found (a disconnected or network drive?).	Теку {0} не знайдено (можливо, відключений або мережевий диск?).
+El archivo ya no existe.	The file no longer exists.	Файлу більше не існує.
+La ruta es demasiado larga para Windows. Elige una carpeta con una ruta más corta.	The path is too long for Windows. Choose a folder with a shorter path.	Шлях задовгий для Windows. Виберіть теку з коротшим шляхом.
+No hay memoria suficiente. Cierra algo y vuelve a intentarlo.	Not enough memory. Close something and try again.	Недостатньо пам'яті. Закрийте щось і спробуйте ще раз.
+Ha fallado al abrir el archivo. Vuelve a intentarlo; si se repite, el registro de Stackshot tiene los detalles.	Opening the file failed. Try again; if it keeps happening, Stackshot's log has the details.	Не вдалося відкрити файл. Спробуйте ще раз; якщо це повториться, подробиці є в журналі Stackshot.
+Ha fallado al leer o escribir el archivo. Vuelve a intentarlo; si se repite, el registro de Stackshot tiene los detalles.	Reading or writing the file failed. Try again; if it keeps happening, Stackshot's log has the details.	Не вдалося прочитати або записати файл. Спробуйте ще раз; якщо це повториться, подробиці є в журналі Stackshot.
+la carpeta	the folder	тека
+Stackshot se cerró durante {0} grabaciones. Lo grabado está a salvo en la carpeta «recuperado».	Stackshot closed during {0} recordings. What was recorded is safe in the "recuperado" folder.	Stackshot закрився під час {0} записів. Записане збережено в теці «recuperado».
+Stackshot se cerró mientras grababa. Lo grabado está a salvo en la carpeta «recuperado».	Stackshot closed while recording. What was recorded is safe in the "recuperado" folder.	Stackshot закрився під час запису. Записане збережено в теці «recuperado».
+Stackshot se cerró mientras grababa (la de las {0}). Lo grabado está a salvo en la carpeta «recuperado».	Stackshot closed while recording (the one from {0}). What was recorded is safe in the "recuperado" folder.	Stackshot закрився під час запису (того, що почався о {0}). Записане збережено в теці «recuperado».
+{0} del {1}	{0} on {1}	{0}, {1}
+Grabación recuperada	Recording recovered	Запис відновлено
+Vídeos	Videos	Відео
+Todos los archivos	All files	Усі файли
+No se pudo abrir	Couldn't open	Не вдалося відкрити
+Abrir vídeo	Open video	Відкрити відео
+Pegada	Pasted	Вставлено
+{0} anterior	{0} previous	{0} попередня
+{0} anteriores	{0} previous	{0} попередніх
+{0} anteriores|few	{0} previous	{0} попередні
+{0} más reciente	{0} newer	{0} новіша
+{0} más recientes	{0} newer	{0} новіших
+{0} más recientes|few	{0} newer	{0} новіші
+No se pudo abrir la carpeta	Couldn't open the folder	Не вдалося відкрити теку
+No se pudo abrir {0}.\n\n{1}	Couldn't open {0}.\n\n{1}	Не вдалося відкрити {0}.\n\n{1}
+Este equipo tiene Stackshot {0} instalado con el paquete MSI.\n\nPara pasar a la {1}, instala Stackshot.msi de esa versión (o pídeselo a informática).	This computer has Stackshot {0} installed with the MSI package.\n\nTo move to {1}, install Stackshot.msi of that version (or ask your IT department).	На цьому комп'ютері встановлено Stackshot {0} за допомогою пакета MSI.\n\nЩоб перейти на версію {1}, встановіть Stackshot.msi цієї версії (або попросіть про це ІТ-відділ).
+¿Actualizar Stackshot de la versión {0} a la {1}?	Update Stackshot from version {0} to {1}?	Оновити Stackshot з версії {0} до {1}?
+No parece una imagen válida, o está dañada.	This doesn't look like a valid image, or it is damaged.	Схоже, це не дійсне зображення або воно пошкоджене.
+El archivo no se puede abrir en el editor.	The file can't be opened in the editor.	Файл не можна відкрити в редакторі.
+No se pudo instalar Stackshot.\n\n{0}\n\nSi Stackshot sigue abierto (una grabación guardándose, cambios sin guardar), ciérralo y vuelve a intentarlo.	Couldn't install Stackshot.\n\n{0}\n\nIf Stackshot is still open (a recording being saved, unsaved changes), close it and try again.	Не вдалося встановити Stackshot.\n\n{0}\n\nЯкщо Stackshot ще відкритий (зберігається запис, є незбережені зміни), закрийте його й спробуйте ще раз.
+Te lo recuerdo {0}.	I'll remind you {0}.	Нагадаю тобі {0}.
+Recordatorio guardado	Reminder saved	Нагадування збережено
+Te lo recuerdo {0}: «{1}».	I'll remind you {0}: "{1}".	Нагадаю тобі {0}: «{1}».
+a las {0}	at {0}	о {0}
+mañana a las {0}	tomorrow at {0}	завтра о {0}
+el {0} a las {1}	on {0} at {1}	{0} о {1}
+Era para {0}:	That was due {0}:	Це мало статися {0}:
+Recordatorio	Reminder	Нагадування
+10 min más	10 more min	Ще 10 хв
+No se pudo apuntar	Couldn't jot it down	Не вдалося записати
+No se pudo cambiar la nota	Couldn't change the note	Не вдалося змінити нотатку
+¡Apuntada! «{0}» ya está en mis accesos rápidos.	Noted! "{0}" is now in my quick links.	Записано! «{0}» тепер у моїх швидких посиланнях.
+¡Apuntadas {0} carpetas en mis accesos rápidos!	Noted! {0} folders are now in my quick links!	Записано! Теки ({0}) тепер у моїх швидких посиланнях!
+Y te abro el archivo.	And I'll open the file for you.	І я відкрию тобі файл.
+Y te abro los {0} archivos.	And I'll open the {0} files for you.	І я відкрию тобі файли ({0}).
+No sé qué hacer con «{0}». Suéltame imágenes, vídeos, XML o Markdown.	I don't know what to do with "{0}". Drop images, videos, XML or Markdown on me.	Не знаю, що робити з «{0}». Кидай мені зображення, відео, XML або Markdown.
+¡Abro {0} archivos!	Opening {0} files!	Відкриваю файли ({0})!
+¡Al editor!	Off to the editor!	До редактора!
+¡A verlo!	Let's watch it!	Дивимось!
+¡Te lo abro!	Opening it for you!	Відкриваю тобі!
+Ojo: ha llegado un XML con fallo. {0}	Heads up: an XML with a fault has arrived. {0}	Увага: надійшов XML із помилкою. {0}
+XML con fallo	XML with a fault	XML із помилкою
+Abrir el XML	Open the XML	Відкрити XML
+Vale, no la hago.	OK, I won't take it.	Гаразд, не роблю.
+Ha fallado algo inesperado. Vuelve a intentarlo.	Something unexpected failed. Try again.	Сталася неочікувана помилка. Спробуйте ще раз.
+Bloque {0} de {1} hecho	Block {0} of {1} done	Блок {0} із {1} завершено
+Fin del descanso	Break over	Кінець перерви
+Descanso largo en pausa · quedan {0}	Long break paused · {0} left	Тривала перерва на паузі · лишилося {0}
+Descanso largo · quedan {0}	Long break · {0} left	Тривала перерва · лишилося {0}
+Descanso en pausa · quedan {0}	Break paused · {0} left	Перерва на паузі · лишилося {0}
+Descanso · quedan {0}	Break · {0} left	Перерва · лишилося {0}
+Concentración en pausa · bloque {0} de {1} · quedan {2}	Focus paused · block {0} of {1} · {2} left	Фокус на паузі · блок {0} із {1} · лишилося {2}
+Concentración · bloque {0} de {1} · quedan {2}	Focus · block {0} of {1} · {2} left	Фокус · блок {0} із {1} · лишилося {2}
+Hoy: {0}, {1} de concentración	Today: {0}, {1} of focus	Сьогодні: {0}, {1} фокусу
+{0} bloque	{0} block	{0} блок
+{0} bloques	{0} blocks	{0} блоків
+{0} bloques|few	{0} blocks	{0} блоки
+Concentración: bloque 1 de {0}	Focus: block 1 of {0}	Фокус: блок 1 із {0}
+¡A concentrarnos! {0}. Te aviso al terminar.	Let's focus! {0}. I'll let you know when it's over.	Зосереджуємось! {0}. Скажу, коли час мине.
+Concentración en pausa	Focus paused	Фокус на паузі
+Descanso en pausa	Break paused	Перерва на паузі
+Quedan {0}.	{0} left.	Лишилося {0}.
+Reanudar	Resume	Відновити
+Seguimos con la concentración	Back to focusing	Продовжуємо зосереджуватись
+Seguimos con el descanso	Back to the break	Продовжуємо перерву
+Concentración terminada	Focus finished	Фокус завершено
+{0}. ¡Bien hecho!	{0}. Well done!	{0}. Молодець!
+Lo dejamos aquí.	We'll stop here.	Зупиняємось тут.
+Descanso largo de {0}	Long break of {0}	Тривала перерва: {0}
+Descanso de {0}	Break of {0}	Перерва: {0}
+Descanso largo	Long break	Тривала перерва
+Descanso	Break	Перерва
+{0}: levántate, mira lejos, bebe agua. Te aviso al terminar.	{0}: get up, look into the distance, drink some water. I'll let you know when it's over.	{0}: підведись, подивись удалину, випий води. Скажу, коли час мине.
+Bloque {0} de nuevo	Block {0} again	Блок {0} знову
+Concentración: bloque {0} de {1}	Focus: block {0} of {1}	Фокус: блок {0} із {1}
+Bloque {0} de {1}: {2} de concentración. ¡Vamos!	Block {0} of {1}: {2} of focus. Let's go!	Блок {0} із {1}: {2} фокусу. Поїхали!
+{0} de concentración. ¡Vamos!	{0} of focus. Let's go!	{0} фокусу. Поїхали!
+{0} minutos más. Te aviso al terminar.	{0} more minutes. I'll let you know when it's over.	Ще {0} хв. Скажу, коли час мине.
+Has estado fuera {0} min y he parado el reloj: quedaban {1}.	You were away for {0} min and I paused the clock: {1} were left.	Тебе не було {0} хв, і я зупинив годинник: лишалося {1}.
+Seguir	Continue	Продовжити
+¿Tienes un Pixel Watch o un Fitbit? Si lo conectas, te acompaño con tus pasos, tu actividad y tu sueño. Los datos van de Google a tu equipo.	Do you have a Pixel Watch or a Fitbit? If you connect it, I'll keep you company with your steps, activity and sleep. The data goes from Google to your computer.	Маєш Pixel Watch або Fitbit? Якщо підключиш його, я буду поруч із твоїми кроками, активністю та сном. Дані йдуть від Google на твій комп'ютер.
+¿Conectamos tu reloj?	Shall we connect your watch?	Підключимо твій годинник?
+Conectar	Connect	Підключити
+{0} de {1} vasos de agua	{0} of {1} glasses of water	{0} із {1} склянок води
+{0} vaso de agua	{0} glass of water	{0} склянка води
+{0} vasos de agua	{0} glasses of water	{0} склянок води
+{0} vasos de agua|few	{0} glasses of water	{0} склянки води
+{0} descanso de vista	{0} eye break	{0} перерва для очей
+{0} descansos de vista	{0} eye breaks	{0} перерв для очей
+{0} descansos de vista|few	{0} eye breaks	{0} перерви для очей
+{0} pausa para moverte	{0} break to move	{0} пауза для руху
+{0} pausas para moverte	{0} breaks to move	{0} пауз для руху
+{0} pausas para moverte|few	{0} breaks to move	{0} паузи для руху
+{0} minuto respirando	{0} minute breathing	{0} хвилина дихання
+{0} minutos respirando	{0} minutes breathing	{0} хвилин дихання
+{0} minutos respirando|few	{0} minutes breathing	{0} хвилини дихання
+{0} de concentración ({1})	{0} of focus ({1})	{0} фокусу ({1})
+{0} paso	{0} step	{0} крок
+{0} pasos	{0} steps	{0} кроків
+{0} pasos|few	{0} steps	{0} кроки
+{0} captura	{0} capture	{0} знімок
+{0} capturas	{0} captures	{0} знімків
+{0} capturas|few	{0} captures	{0} знімки
+Hoy: {0}.	Today: {0}.	Сьогодні: {0}.
+{0} y {1}	{0} and {1}	{0} і {1}
+¿Qué tal el día? {0}	How's the day going? {0}	Як минає день? {0}
+Tu día	Your day	Твій день
+¡Vaya día! Ya llevas {0} capturas.	What a day! You're already at {0} captures.	Ну й день! Уже {0} знімків.
+No he podido leer tu reloj: {0}	I couldn't read your watch: {0}	Не вдалося прочитати твій годинник: {0}
+Todavía no he leído tu reloj hoy.	I haven't read your watch yet today.	Сьогодні я ще не читав твій годинник.
+Google aún no tiene datos de hoy. Abre la app de tu reloj en el móvil para que se sincronice y vuelvo a mirarlo.	Google doesn't have today's data yet. Open your watch's app on your phone so it syncs, and I'll look again.	У Google ще немає даних за сьогодні. Відкрий застосунок годинника на телефоні, щоб він синхронізувався, і я перевірю ще раз.
+¡Hoy ya llevas {0} pasos: objetivo cumplido!	You're already at {0} steps today: goal reached!	Сьогодні вже {0} кроків: мету досягнуто!
+Hoy llevas {0} pasos, el {1} % de tu objetivo de {2}.	Today you're at {0} steps, {1}% of your goal of {2}.	Сьогодні ти зробив {0} кроків, це {1}% твоєї мети ({2}).
+Anoche dormiste {0} y llevas {1} min de actividad moderada o intensa.	Last night you slept {0} and you've had {1} min of moderate or vigorous activity.	Минулої ночі ти спав {0}, а активності помірної чи високої інтенсивності в тебе {1} хв.
+Anoche dormiste {0}.	Last night you slept {0}.	Минулої ночі ти спав {0}.
+Llevas {0} min de actividad moderada o intensa.	You've had {0} min of moderate or vigorous activity.	Активності помірної чи високої інтенсивності в тебе {0} хв.
+Te faltan {0}: unos {1} min andando.	You're {0} short: about {1} min of walking.	Бракує {0}: це приблизно {1} хв ходьби.
+{0} h {1} min	{0} h {1} min	{0} год {1} хв
+{0} h	{0} h	{0} год
+No se ha conectado el reloj	The watch wasn't connected	Годинник не підключено
+Reloj conectado	Watch connected	Годинник підключено
+Stackshot leerá tus pasos, tu actividad y tu sueño cada media hora. Los datos van de Google a tu equipo.	Stackshot will read your steps, activity and sleep every half hour. The data goes from Google to your computer.	Stackshot читатиме твої кроки, активність і сон щопівгодини. Дані йдуть від Google на твій комп'ютер.
+Esta noche has dormido {0}. Hoy te propondré las pausas para la vista y para moverte un poco antes.	You slept {0} last night. Today I'll suggest the eye and movement breaks a little earlier.	Цієї ночі ти спав {0}. Сьогодні я трохи раніше пропонуватиму паузи для очей і для руху.
+Has dormido {0}. ¡Buen día para concentrarse!	You slept {0}. Good day for focusing!	Ти спав {0}. Гарний день, щоб зосередитись!
+Anoche dormiste {0}. ¡A por el día!	Last night you slept {0}. Let's get the day going!	Минулої ночі ти спав {0}. Вперед, назустріч дню!
+¡{0} pasos! Has cumplido tu objetivo de hoy.	{0} steps! You've reached today's goal.	{0} кроків! Ти досяг сьогоднішньої мети.
+¡Buen paseo! {0} pasos más en {1} min.	Nice walk! {0} more steps in {1} min.	Гарна прогулянка! Ще {0} кроків за {1} хв.
+¡Ya vas por la mitad! {0} de {1} pasos.	You're halfway there! {0} of {1} steps.	Ти вже на півдорозі! {0} із {1} кроків.
+En la última hora y media solo has dado {0} pasos. ¿Estiramos las piernas un par de minutos?	In the last hour and a half you've only taken {0} steps. Shall we stretch our legs for a couple of minutes?	За останні півтори години ти зробив лише {0} кроків. Розімнемо ноги кілька хвилин?
+En la última hora solo has dado {0} pasos. ¿Estiramos las piernas un par de minutos?	In the last hour you've only taken {0} steps. Shall we stretch our legs for a couple of minutes?	За останню годину ти зробив лише {0} кроків. Розімнемо ноги кілька хвилин?
+Esta mañana llevas {0} pasos. ¿Te levantas a por un vaso de agua y das una vuelta corta?	This morning you're at {0} steps. Want to get up for a glass of water and a short stroll?	Сьогодні вранці в тебе {0} кроків. Підеш по склянку води й трохи пройдешся?
+Después de comer sienta muy bien caminar: un paseo de diez minutos y vuelves con la cabeza despejada.	A walk feels great after eating: ten minutes and you're back with a clear head.	Після їжі так приємно пройтися: десять хвилин прогулянки, і голова свіжа.
+¡Una hora activa hoy! Tu cuerpo te lo agradece.	An active hour today! Your body thanks you.	Година активності сьогодні! Твоє тіло дякує.
+Ya llevas {0} minutos activos hoy. ¡Así se hace!	You're already at {0} active minutes today. That's the way!	Уже {0} хв активності сьогодні. Так тримати!
+Te faltan {0} pasos para tu objetivo: un paseo de unos {1} minutos y lo tienes.	You're {0} steps short of your goal: a walk of about {1} minutes and you've got it.	До мети бракує {0} кроків: прогулянка приблизно на {1} хв, і вона твоя.
+Anoche dormiste poco: hoy intenta acostarte un poco antes. ¡Mañana lo notarás!	You didn't sleep much last night: try to go to bed a little earlier today. You'll notice it tomorrow!	Минулої ночі ти мало спав: спробуй сьогодні лягти трохи раніше. Завтра відчуєш різницю!
+Llevas {0} pasos, el {1} % de tu objetivo de hoy.	You're at {0} steps, {1}% of today's goal.	У тебе {0} кроків, це {1}% сьогоднішньої мети.
+Escribe una dirección web o la ruta de una carpeta o un archivo.	Type a web address or the path of a folder or a file.	Введіть веб-адресу або шлях до теки чи файлу.
+No encuentro esa carpeta o ese archivo.	I can't find that folder or file.	Не вдається знайти цю теку або файл.
+Escribe una dirección web (como intranet.empresa.es) o una ruta completa (como C:\\Proyectos).	Type a web address (like intranet.company.com) or a full path (like C:\\Projects).	Введіть веб-адресу (наприклад, intranet.company.com) або повний шлях (наприклад, C:\\Projects).
+Esa dirección o ruta no se puede usar.	That address or path can't be used.	Цю адресу чи шлях не можна використати.
+Ya lo tienes en tus accesos rápidos: «{0}».	You already have it in your quick links: "{0}".	Воно вже є у твоїх швидких посиланнях: «{0}».
+Ya tienes {0} accesos: quita alguno para añadir otro.	You already have {0} links: remove one to add another.	У тебе вже {0} посилань: видали якесь, щоб додати інше.
+No he podido abrir el navegador.	I couldn't open the browser.	Не вдалося відкрити браузер.
+No he podido abrir «{0}»: puede que ya no exista.	I couldn't open "{0}": it may no longer exist.	Не вдалося відкрити «{0}»: можливо, його вже не існує.
+Solo imágenes	Images only	Лише зображення
+No se pudieron unir	Couldn't merge them	Не вдалося об'єднати
+Las capturas son demasiado grandes o no se han podido leer. Vuelve a intentarlo.	The captures are too large or couldn't be read. Try again.	Знімки завеликі або їх не вдалося прочитати. Спробуйте ще раз.
+Stackshot {0} ya está aquí	Stackshot {0} is here	Stackshot {0} уже тут
+Entre sus novedades: «{0}». ¿Quieres ver qué trae?	Among what's new: "{0}". Want to see what it brings?	Серед новинок: «{0}». Хочеш побачити, що нового?
+¿Quieres ver qué trae?	Want to see what it brings?	Хочеш побачити, що нового?
+Ver novedades	See what's new	Переглянути новинки
+Novedades en tu reporte	News on your report	Новини за твоїм звітом
+Novedades en {0} de tus reportes	News on {0} of your reports	Новини за {0} твоїми звітами
+Ver mis reportes	See my reports	Переглянути мої звіти
+Guardando el GIF…	Saving the GIF…	Зберігається GIF…
+Guardando el vídeo…	Saving the video…	Зберігається відео…
+{0} %  ·  aparecerá aquí	{0} %  ·  it will appear here	{0} %  ·  з'явиться тут
+Aparecerá aquí en un momento	It will appear here in a moment	З'явиться тут за мить
+Revisando datos…	Checking data…	Перевірка даних…
+No se han revisado los datos sensibles	The sensitive data wasn't checked	Конфіденційні дані не перевірено
+La captura no se ha copiado al portapapeles: cópiala tú si no tiene datos sensibles.	The capture wasn't copied to the clipboard: copy it yourself if it has no sensitive data.	Знімок не скопійовано до буфера обміну: скопіюйте його самі, якщо в ньому немає конфіденційних даних.
+Abrir la carpeta	Open the folder	Відкрити теку
+Nuevo XML	New XML	Новий XML
+{0}. El visor tiene cambios sin guardar: ábrelo desde la bandeja cuando acabes.	{0}. The viewer has unsaved changes: open it from the tray when you're done.	{0}. У переглядачі є незбережені зміни: відкрийте його з трея, коли закінчите.
+Hecho	Done	Готово
+No se pudo	Couldn't	Не вдалося
+No se ha podido	Couldn't	Не вдалося
+No se puede	Can't	Не можна
+No se encuentra	Can't find	Не знайдено
+Algunos atajos	Some shortcuts	Деякі скорочення
+Grabando sin	Recording without	Запис без
+Grabación detenida	Recording stopped	Запис зупинено
+La grabación ha ido	The recording went	Запис пройшов
+El sonido ha saturado	The sound clipped	Звук перевантажено
+Captura con desplazamiento	Scrolling capture	Знімок із прокручуванням
+Cine: sin pérdidas	Cine: lossless	Cine: без втрат
+Impr Pant ya es de Stackshot	Print Screen is now Stackshot's	Print Screen тепер належить Stackshot
+Rojo	Red	Червоний
+Amarillo	Yellow	Жовтий
+Verde	Green	Зелений
+Azul	Blue	Синій
+Blanco	White	Білий
+Cerrar	Close	Закрити
+Abrir	Open	Відкрити
+Fijar en pantalla	Pin to screen	Закріпити на екрані
+Editar	Edit	Редагувати
+Copiar texto	Copy text	Копіювати текст
+Mostrar en la carpeta	Show in folder	Показати в теці
+Copiar	Copy	Копіювати
+Guardar	Save	Зберегти
+Unir	Merge	Об'єднати
+No se pudo guardar	Couldn't save	Не вдалося зберегти
+Copiado	Copied	Скопійовано
+Leyendo…	Reading…	Читання…
+No se pudo leer	Couldn't read	Не вдалося прочитати
+No se pudo fijar la captura	Couldn't pin the capture	Не вдалося закріпити знімок
+No se ha podido leer la imagen. Vuelve a intentarlo.	The image couldn't be read. Try again.	Не вдалося прочитати зображення. Спробуйте ще раз.
+Vuelve a intentarlo.	Try again.	Спробуйте ще раз.
+No se pudo mostrar	Couldn't show it	Не вдалося показати
+Guardada	Saved	Збережено
+Vídeo	Video	Відео
+Captura	Capture	Знімок
+Guardada en {0}	Saved in {0}	Збережено в {0}
+Sin guardar todavía	Not saved yet	Ще не збережено
+Pulsar	Press	Натиснути
+Apuntar	Note	Записати
+¿Qué apunto?	What should I note down?	Що записати?
+¿Qué te recuerdo?	What should I remind you of?	Що тобі нагадати?
+Lo que quieras apuntar	Whatever you want to note down	Усе, що хочеш записати
+Por ejemplo: llamar a Laura	For example: call Laura	Наприклад: зателефонувати Лаурі
+Empieza una línea con «- [ ] » para una lista de tareas.	Start a line with "- [ ] " for a task list.	Почни рядок із «- [ ] », щоб створити список завдань.
+¿Cuándo?	When?	Коли?
+10 min	10 min	10 хв
+30 min	30 min	30 хв
+1 h	1 h	1 год
+2 h	2 h	2 год
+Mañana	Tomorrow	Завтра
+A las…	At…	О…
+Hora	Time	Час
+(por ejemplo 16:30)	(for example 16:30)	(наприклад, 16:30)
+Pendientes	Pending	Заплановані
+Quitar este recordatorio	Remove this reminder	Видалити це нагадування
+Quitar	Remove	Видалити
+Últimas notas	Latest notes	Останні нотатки
+Marcar como pendiente	Mark as pending	Позначити як невиконану
+Marcar como hecha	Mark as done	Позначити як виконану
+Esa nota ha cambiado en Notas.md: ábrela para verla.	That note has changed in Notas.md: open it to see it.	Цю нотатку змінено в Notas.md: відкрий файл, щоб її побачити.
+Borrar esta nota	Delete this note	Видалити цю нотатку
+Borrar	Delete	Видалити
+Quitar del escritorio	Remove from the desktop	Прибрати з робочого столу
+Fijar en el escritorio	Pin to the desktop	Закріпити на робочому столі
+Ver todas (Notas.md, en tu carpeta de capturas)	See all (Notas.md, in your captures folder)	Переглянути всі (Notas.md, у твоїй теці зі знімками)
+Ver mis notas (Notas.md, en tu carpeta de capturas)	See my notes (Notas.md, in your captures folder)	Переглянути мої нотатки (Notas.md, у твоїй теці зі знімками)
+Cancelar	Cancel	Скасувати
+Recuérdamelo	Remind me	Нагадати
+Ctrl+Intro	Ctrl+Enter	Ctrl+Enter
+Guardar y fijar	Save and pin	Зберегти й закріпити
+Escribe lo que quieres apuntar.	Type what you want to note down.	Напиши, що хочеш записати.
+Escribe qué te recuerdo.	Type what I should remind you of.	Напиши, що тобі нагадати.
+Escribe la hora como 16:30.	Type the time like 16:30.	Напиши час у форматі 16:30.
+Apuntado en tus notas.	Added to your notes.	Додано до твоїх нотаток.
+Stackshot: capturas de pantalla, vídeo y GIF	Stackshot: screenshots, video and GIF	Stackshot: знімки екрана, відео та GIF
+Las grabaciones recuperadas ({0}) se quedan en {1}.	The recovered recordings ({0}) stay in {1}.	Відновлені записи ({0}) залишаються в {1}.
+¿Desinstalar Stackshot?\n\nLas capturas que hayas guardado en {0} no se borran.	Uninstall Stackshot?\n\nThe captures you saved in {0} are not deleted.	Видалити Stackshot?\n\nЗнімки, які ви зберегли в {0}, не видаляються.
+Stackshot sigue abierto: hay cambios sin guardar o una grabación guardándose.\n\nCiérralo y vuelve a desinstalar.	Stackshot is still open: there are unsaved changes or a recording is being saved.\n\nClose it and uninstall again.	Stackshot досі відкритий: є незбережені зміни або зберігається запис.\n\nЗакрийте його й повторіть видалення.
+Stackshot se ha desinstalado. ¡Gracias por probarlo!	Stackshot has been uninstalled. Thanks for trying it!	Stackshot видалено. Дякуємо, що спробували!
+La tecla Impr Pant vuelve a abrir Recortes de Windows.	The Print Screen key opens Windows Snipping Tool again.	Клавіша Print Screen знову відкриває «Ножиці» Windows.
+Las grabaciones recuperadas siguen en {0}.	The recovered recordings are still in {0}.	Відновлені записи залишаються в {0}.
+En cuanto termine de guardarse la grabación, Stackshot se cerrará y volverá a abrirse.	As soon as the recording finishes saving, Stackshot will close and reopen.	Щойно запис збережеться, Stackshot закриється й знову відкриється.
+Stackshot se cerrará y volverá a abrirse en unos segundos.	Stackshot will close and reopen in a few seconds.	Stackshot закриється й знову відкриється за кілька секунд.
+Suma SHA-256 y firma digital.	SHA-256 checksum and digital signature.	Контрольна сума SHA-256 і цифровий підпис.
+Conectando con GitHub…	Connecting to GitHub…	Підключення до GitHub…
+{0} %  ·  después se comprueba su firma	{0} %  ·  its signature is checked afterwards	{0} %  ·  потім перевіряється підпис
+Novedades: {0}.	What's new: {0}.	Що нового: {0}.
+Ya está descargada y verificada. Al instalarla, Stackshot se cerrará y volverá a abrirse.	It's downloaded and verified. When you install it, Stackshot will close and reopen.	Її завантажено й перевірено. Під час встановлення Stackshot закриється й знову відкриється.
+¿Quieres descargarla? Se comprueba su firma y se instala en unos segundos.	Want to download it? Its signature is checked and it installs in a few seconds.	Завантажити? Підпис буде перевірено, а встановлення займе кілька секунд.
+En este equipo las actualizaciones las instala informática. ¿Quieres ver la nueva versión?	On this computer updates are installed by IT. Want to see the new version?	На цьому комп'ютері оновлення встановлює ІТ-відділ. Переглянути нову версію?
+¿Quieres descargarla? Esta versión se descarga desde su página de GitHub.	Want to download it? This version is downloaded from its GitHub page.	Завантажити? Цю версію завантажують зі сторінки на GitHub.
+Ver todas las novedades ›	See all the news ›	Усі новинки ›
+Descargando Stackshot {0}	Downloading Stackshot {0}	Завантаження Stackshot {0}
+Comprobando la descarga…	Checking the download…	Перевірка завантаженого…
+Instalando Stackshot {0}	Installing Stackshot {0}	Встановлення Stackshot {0}
+Ocultar	Hide	Сховати
+No se pudo actualizar a la {0}	Couldn't update to {0}	Не вдалося оновити до {0}
+Reintentar	Try again	Повторити
+Ver la versión	See the version	Переглянути версію
+Stackshot {0} lista para instalar	Stackshot {0} ready to install	Stackshot {0} готовий до встановлення
+Instalar ahora	Install now	Встановити зараз
+Ahora no	Not now	Не зараз
+Stackshot {0} disponible	Stackshot {0} available	Доступний Stackshot {0}
+Descargar e instalar	Download and install	Завантажити й встановити
+La instalación de la {0} no se completó. Vuelve a intentarlo o descárgala desde GitHub.	The installation of {0} didn't complete. Try again or download it from GitHub.	Встановлення {0} не завершилося. Спробуйте ще раз або завантажте її з GitHub.
+descargar la actualización	download the update	завантажити оновлення
+consultar GitHub	check GitHub	звернутися до GitHub
+No se pudo {0} ({1}).	Couldn't {0} ({1}).	Не вдалося {0} ({1}).
+No se pudo {0}.	Couldn't {0}.	Не вдалося {0}.
+No se pudo {0}. Se volverá a intentar más tarde.	Couldn't {0}. It will be tried again later.	Не вдалося {0}. Спробуємо ще раз пізніше.
+GitHub ha limitado las consultas durante un rato; se volverá a intentar más tarde.	GitHub has limited requests for a while; it will be tried again later.	GitHub тимчасово обмежив запити; спробуємо ще раз пізніше.
+El proxy de la red no deja {0}.	The network proxy doesn't allow you to {0}.	Мережевий проксі не дозволяє {0}.
+GitHub no responde ahora mismo; se volverá a intentar más tarde.	GitHub isn't responding right now; it will be tried again later.	GitHub зараз не відповідає; спробуємо ще раз пізніше.
+No se pudo {0} (error {1}).	Couldn't {0} (error {1}).	Не вдалося {0} (помилка {1}).
+Se ha perdido la conexión durante la descarga.	The connection was lost during the download.	Під час завантаження зникло з'єднання.
+Sin conexión con GitHub. Se volverá a intentar cuando vuelva la red.	No connection to GitHub. It will be tried again when the network is back.	Немає з'єднання з GitHub. Спробуємо ще раз, коли з'явиться мережа.
+No se pudo abrir una conexión segura con GitHub.	Couldn't open a secure connection to GitHub.	Не вдалося встановити захищене з'єднання з GitHub.
+La firma de la actualización no es válida; se ha descartado.	The update's signature isn't valid; it was discarded.	Підпис оновлення недійсний; його відхилено.
+demasiado grande	too large	завеликий
+La versión descargada no coincide con la publicada; se ha descartado.	The downloaded version doesn't match the published one; it was discarded.	Завантажена версія не збігається з опублікованою; її відхилено.
+La descarga está incompleta; se ha descartado.	The download is incomplete; it was discarded.	Завантаження неповне; його відхилено.
+No se pudo iniciar la actualización.	Couldn't start the update.	Не вдалося розпочати оновлення.
+La instalación no se ha completado (código {0}). Vuelve a intentarlo o descárgala desde GitHub.	The installation didn't complete (code {0}). Try again or download it from GitHub.	Встановлення не завершилося (код {0}). Спробуйте ще раз або завантажте оновлення з GitHub.
+La instalación no se ha completado. Vuelve a intentarlo o descárgala desde GitHub.	The installation didn't complete. Try again or download it from GitHub.	Встановлення не завершилося. Спробуйте ще раз або завантажте оновлення з GitHub.
+La descarga no coincide con la suma SHA-256 publicada; se ha descartado.	The download doesn't match the published SHA-256 checksum; it was discarded.	Завантажений файл не збігається з опублікованою сумою SHA-256; його відхилено.
+No se pudo abrir el navegador	Couldn't open the browser	Не вдалося відкрити браузер
+Informar de un problema	Report a problem	Повідомити про проблему
+¿Descartar el reporte?	Discard the report?	Відхилити звіт?
+Lo que has escrito no se ha enviado.	What you wrote hasn't been sent.	Те, що ви написали, не надіслано.
+Descartar	Discard	Відхилити
+Seguir escribiendo	Keep writing	Продовжити писати
+Mis reportes	My reports	Мої звіти
+Cuéntanos qué pasa	Tell us what's going on	Розкажіть, що сталося
+Llega directamente a quien hace Stackshot, sin cuentas ni correos. 	It goes straight to whoever makes Stackshot, with no accounts or emails. 	Звіт надходить безпосередньо авторові Stackshot, без облікових записів і листів.
+Al continuar se abre GitHub con todo lo que escribas ya rellenado. 	When you continue, GitHub opens with everything you wrote already filled in. 	Після продовження відкриється GitHub із усім, що ви написали, вже заповненим.
+Se publica en GitHub, que es público: no pongas datos personales, contraseñas ni nada de tu empresa.	It is published on GitHub, which is public: don't include personal data, passwords or anything from your company.	Звіт публікується на GitHub, а він публічний: не вказуйте особистих даних, паролів чи будь-чого з вашої компанії.
+Algo falla	Something's wrong	Щось не працює
+Tengo una idea	I have an idea	У мене є ідея
+Título	Title	Заголовок
+¿Qué ha pasado?	What happened?	Що сталося?
+¿Qué te gustaría?	What would you like?	Чого б вам хотілося?
+Descripción	Description	Опис
+¿Cómo se repite? (opcional)	How can it be repeated? (optional)	Як це відтворити? (необов'язково)
+Pasos para repetirlo	Steps to repeat it	Кроки для відтворення
+Incluir el registro de Stackshot	Include Stackshot's log	Додати журнал Stackshot
+Ocultar lo que se envía	Hide what is sent	Сховати те, що надсилається
+Ver lo que se envía	See what is sent	Переглянути, що надсилається
+Lo que se envía	What is sent	Що надсилається
+Siempre se añade: {0}. De lo que escribes y del registro se quitan tu usuario, el nombre del equipo, correos, DNI y NIE, cuentas, tarjetas y teléfonos.	Always added: {0}. From what you write and from the log, your user name, computer name, emails, ID numbers, accounts, cards and phone numbers are removed.	Завжди додається: {0}. З того, що ви пишете, і з журналу вилучаються ваше ім'я користувача, назва комп'ютера, адреси пошти, ідентифікаційні номери, рахунки, картки та номери телефонів.
+Continuar en GitHub	Continue on GitHub	Продовжити на GitHub
+Enviando…	Sending…	Надсилання…
+Enviar	Send	Надіслати
+Ctrl + Intro	Ctrl + Enter	Ctrl + Enter
+Abrir en GitHub	Open on GitHub	Відкрити на GitHub
+Abre la incidencia en el navegador con todo lo que has escrito	Opens the issue in the browser with everything you wrote	Відкриває звернення в браузері з усім, що ви написали
+Enviado. Gracias	Sent. Thank you	Надіслано. Дякуємо
+Tu reporte es el número {0}. En «Mis reportes» verás cómo avanza y las respuestas, aquí mismo y sin cuenta.	Your report is number {0}. In "My reports" you'll see how it's going and any replies, right here and without an account.	Ваш звіт має номер {0}. У розділі «Мої звіти» ви побачите, як він просувається, та відповіді — тут же й без облікового запису.
+Nuevo reporte	New report	Новий звіт
+Lo que has enviado desde este equipo, cómo va y las respuestas que recibas. No hace falta ninguna cuenta.	What you've sent from this computer, how it's going and the replies you get. No account needed.	Те, що ви надіслали з цього комп'ютера, як воно просувається і відповіді, які ви отримаєте. Обліковий запис не потрібен.
+Todavía no has enviado nada desde este equipo. Cuando lo hagas, aparecerá aquí.	You haven't sent anything from this computer yet. When you do, it will appear here.	Ви ще нічого не надсилали з цього комп'ютера. Коли надішлете, воно з'явиться тут.
+Consultando cómo van…	Checking how they're going…	Перевірка стану…
+Actualizando…	Updating…	Оновлення…
+Actualizar	Refresh	Оновити
+Enviado	Sent	Надіслано
+No disponible	Not available	Недоступно
+Abierto	Open	Відкрито
+Arreglado	Fixed	Виправлено
+Repetido	Duplicate	Дублікат
+Descartado	Discarded	Відхилено
+Cerrado	Closed	Закрито
+Respuesta nueva	New reply	Нова відповідь
+N.º {0}  ·  {1}  ·  enviado el {2}	No. {0}  ·  {1}  ·  sent on {2}	№{0}  ·  {1}  ·  надіслано {2}
+Idea	Idea	Ідея
+Fallo	Bug	Помилка
+Respuesta de Stackshot	Reply from Stackshot	Відповідь від Stackshot
+Comentario	Comment	Коментар
+«¿Qué ha pasado?»	"What happened?"	«Що сталося?»
+«¿Qué te gustaría?»	"What would you like?"	«Чого б вам хотілося?»
+Escribe un título y {0}.	Write a title and {0}.	Напишіть заголовок і {0}.
+El título necesita {0} más.	The title needs {0} more.	Заголовку потрібно ще {0}.
+{0} necesita {1} más.	{0} needs {1} more.	Для {0} потрібно ще {1}.
+{0} letra	{0} letter	{0} літера
+{0} letras	{0} letters	{0} літер
+{0} letras|few	{0} letters	{0} літери
+Espera un minuto antes de enviar otro reporte.	Wait a minute before sending another report.	Зачекайте хвилину, перш ніж надсилати ще один звіт.
+El servidor no ha confirmado el reporte.	The server didn't confirm the report.	Сервер не підтвердив звіт.
+Demasiados reportes seguidos. Prueba dentro de un minuto.	Too many reports in a row. Try again in a minute.	Забагато звітів поспіль. Спробуйте за хвилину.
+No se ha podido enviar ({0}).	It couldn't be sent ({0}).	Не вдалося надіслати ({0}).
+No hay conexión con el servidor de reportes.	There is no connection to the reports server.	Немає з'єднання із сервером звітів.
+No se ha podido enviar: {0}	It couldn't be sent: {0}	Не вдалося надіслати: {0}
+Puedes reintentarlo o abrirlo en GitHub.	You can try again or open it on GitHub.	Можна повторити спробу або відкрити на GitHub.
+mínimo {0} letras	at least {0} letters	щонайменше {0} літер
+Accesos rápidos	Quick links	Швидкі посилання
+Webs, carpetas, archivos o programas que quieras tener a mano: salen en el menú de la mascota y te los abre con un clic.	Websites, folders, files or programs you want at hand: they appear in the mascot's menu and open with one click.	Сайти, теки, файли чи програми, які хочеш мати під рукою: вони з'являються в меню талісмана й відкриваються одним кліком.
+Dirección web o ruta	Web address or path	Веб-адреса або шлях
+https://… o C:\\Carpeta\\archivo	https://… or C:\\Folder\\file	https://… або C:\\Folder\\file
+Nombre	Name	Назва
+Nombre (opcional)	Name (optional)	Назва (необов'язково)
+Elegir carpeta…	Choose folder…	Вибрати теку…
+Elegir archivo o programa…	Choose file or program…	Вибрати файл або програму…
+Añadir	Add	Додати
+Tus accesos ({0} de {1})	Your links ({0} of {1})	Твої посилання ({0} із {1})
+Abrir {0}	Open {0}	Відкрити {0}
+Quitar {0}	Remove {0}	Видалити {0}
+¡Listo! «{0}» ya está en mi menú.	Done! "{0}" is now in my menu.	Готово! «{0}» тепер у моєму меню.
+Elige la carpeta que quieres tener a mano	Choose the folder you want at hand	Виберіть теку, яку хочете мати під рукою
+Elige el archivo o el programa	Choose the file or program	Виберіть файл або програму
+Novedades	What's new	Новинки
+Novedades de Stackshot {0}	What's new in Stackshot {0}	Новинки Stackshot {0}
+La versión nueva: esto es lo que trae.	The new version: here's what it brings.	Нова версія: ось що вона містить.
+Todo lo nuevo desde la versión que tenías.	Everything new since the version you had.	Усе нове порівняно з версією, яку ви мали.
+Lo que trae la versión que tienes.	What the version you have brings.	Що містить версія, яку ви маєте.
+En la {0}	In {0}	У {0}
+Esta versión no trae notas.	This version has no notes.	До цієї версії немає приміток.
+Lo decide tu organización	Decided by your organization	Це визначає ваша організація
+Algunos ajustes los gestiona tu organización.	Some settings are managed by your organization.	Деякі налаштування керуються вашою організацією.
+se ha vuelto a abrir	has been reopened	знову відкрито
+está hecho	is done	виконано
+está arreglado	is fixed	виправлено
+se ha descartado	has been discarded	відхилено
+está repetido	is a duplicate	є дублікатом
+se ha cerrado	has been closed	закрито
+tiene una respuesta nueva	has a new reply	має нову відповідь
+tiene {0} respuesta nueva	has {0} new reply	має {0} нову відповідь
+tiene {0} respuestas nuevas	has {0} new replies	має {0} нових відповідей
+tiene {0} respuestas nuevas|few	has {0} new replies	має {0} нові відповіді
+Ahora no se puede consultar cómo van. Comprueba la conexión y pulsa Actualizar.	Their status can't be checked right now. Check your connection and press Refresh.	Зараз неможливо перевірити стан. Перевірте з'єднання й натисніть «Оновити».
+Documento Markdown	Markdown document	Документ Markdown
+Documento XML	XML document	Документ XML
+Vídeo MKV	MKV video	Відео MKV
+Capturas de pantalla, vídeo y GIF, con reproductor de vídeo y visor de Markdown y XML	Screenshots, video and GIF, with a video player and a Markdown and XML viewer	Знімки екрана, відео та GIF, із відеопрогравачем і переглядачем Markdown та XML
+Aceptar	OK	Гаразд
+Sí	Yes	Так
+No	No	Ні
+Minimizar	Minimize	Згорнути
+Guardando…	Saving…	Збереження…

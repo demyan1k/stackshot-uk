@@ -1,0 +1,415 @@
+Micrófono	Microphone	Мікрофон
+Salida de sonido	Sound output	Вихід звуку
+El dispositivo de sonido no responde.	The sound device is not responding.	Звуковий пристрій не відповідає.
+No hay ninguna salida de sonido.	There is no sound output.	Немає жодного виходу звуку.
+No hay ningún micrófono conectado.	No microphone is connected.	Мікрофон не підключено.
+No se encuentra el dispositivo (0x{0}).	The device was not found (0x{0}).	Пристрій не знайдено (0x{0}).
+Windows no deja grabar el sonido del equipo.	Windows does not allow recording the computer's sound.	Windows не дозволяє записувати звук комп’ютера.
+Windows no deja usar el micrófono. Actívalo en Configuración > Privacidad y seguridad > Micrófono («Permitir que las aplicaciones de escritorio accedan al micrófono»).	Windows does not allow using the microphone. Turn it on in Settings > Privacy & security > Microphone ("Let desktop apps access your microphone").	Windows не дозволяє використовувати мікрофон. Увімкни його в Параметри > Конфіденційність і безпека > Мікрофон («Дозволити класичним програмам доступ до мікрофона»).
+El dispositivo de sonido no se puede usar (0x{0}).	The sound device cannot be used (0x{0}).	Звуковий пристрій не можна використати (0x{0}).
+Mezcla (equipo + micrófono)	Mix (computer + microphone)	Мікс (комп’ютер + мікрофон)
+Sonido del equipo (original)	Computer sound (original)	Звук комп’ютера (оригінал)
+Micrófono (original)	Microphone (original)	Мікрофон (оригінал)
+Esta versión de FFmpeg no incluye el codificador sin pérdidas (libx264rgb), que la calidad Cine necesita.\n\nActualízalo desde los ajustes de Stackshot o elige otra calidad.	This version of FFmpeg does not include the lossless encoder (libx264rgb) that Cine quality needs.\n\nUpdate it from Stackshot's settings or choose another quality.	Ця версія FFmpeg не містить кодера без втрат (libx264rgb), потрібного для якості Cine.\n\nОнови його в налаштуваннях Stackshot або обери іншу якість.
+No hay espacio suficiente en el disco para grabar sin pérdidas: quedan {0} GB y hacen falta al menos {1} GB (un minuto ocupa desde unos MB hasta varios GB según el movimiento).	There is not enough disk space to record losslessly: {0} GB left and at least {1} GB are needed (a minute takes from a few MB to several GB depending on the motion).	Недостатньо місця на диску для запису без втрат: залишилося {0} ГБ, а потрібно щонайменше {1} ГБ (хвилина займає від кількох МБ до кількох ГБ залежно від руху).
+El área de {0} × {1} es demasiado grande para codificar sin pérdidas a 60 fps en la mayoría de los equipos.\n\nSí: grabar a 30 fps, sin pérdidas.\nNo: probar a 60 fps (si el equipo no puede seguir, la grabación se detiene y se conserva lo grabado).\nCancelar: no grabar.	An area of {0} × {1} is too large to encode losslessly at 60 fps on most computers.\n\nYes: record at 30 fps, lossless.\nNo: try 60 fps (if the computer can't keep up, the recording stops and what was recorded is kept).\nCancel: don't record.	Область {0} × {1} завелика, щоб кодувати без втрат на 60 кадр/с на більшості комп’ютерів.\n\nТак: записувати на 30 кадр/с без втрат.\nНі: спробувати 60 кадр/с (якщо комп’ютер не встигає, запис зупиниться, а записане збережеться).\nСкасувати: не записувати.
+FFmpeg terminó con el código {0}.	FFmpeg exited with code {0}.	FFmpeg завершився з кодом {0}.
+FFmpeg no creó el archivo.	FFmpeg did not create the file.	FFmpeg не створив файл.
+Comprobación	Verification	Перевірка
+Cancelada antes de terminar.	Cancelled before finishing.	Скасовано до завершення.
+No se pudo completar: {0}	Could not complete: {0}	Не вдалося завершити: {0}
+Lectura del archivo	File reading	Читання файлу
+FFmpeg lo lee entero sin errores.	FFmpeg reads it completely without errors.	FFmpeg читає його повністю без помилок.
+Contenedor	Container	Контейнер
+No es un archivo Matroska.	It is not a Matroska file.	Це не файл Matroska.
+Vídeo H.264 RGB	H.264 RGB video	Відео H.264 RGB
+Perfil High 4:4:4 Predictive	High 4:4:4 Predictive profile	Профіль High 4:4:4 Predictive
+El perfil no es High 4:4:4 Predictive	The profile is not High 4:4:4 Predictive	Профіль не High 4:4:4 Predictive
+RGB completo (gbrp)	full RGB (gbrp)	повний RGB (gbrp)
+no es RGB completo	not full RGB	не повний RGB
+tamaño distinto del grabado	size different from the recording	розмір відрізняється від записаного
+Se esperaba un único flujo de vídeo y hay {0}.	One video stream was expected and there are {0}.	Очікувався один відеопотік, а їх {0}.
+Pistas de sonido	Audio tracks	Звукові доріжки
+Pistas: {0}, PCM de 32 bits, 48 kHz, estéreo.	Tracks: {0}, 32-bit PCM, 48 kHz, stereo.	Доріжок: {0}, PCM 32 біти, 48 кГц, стерео.
+Pistas esperadas: {0} (PCM de 32 bits, 48 kHz, estéreo); hay {1}, o con otro formato.	Expected tracks: {0} (32-bit PCM, 48 kHz, stereo); found {1}, or in another format.	Очікувано доріжок: {0} (PCM 32 біти, 48 кГц, стерео); є {1} або в іншому форматі.
+Número de fotogramas	Number of frames	Кількість кадрів
+En el archivo: {0}; enviados al codificador: {1}.	In the file: {0}; sent to the encoder: {1}.	У файлі: {0}; надіслано кодеру: {1}.
+El fotograma {0} no es posterior al anterior.	Frame {0} is not after the previous one.	Кадр {0} не йде після попереднього.
+El fotograma {0} está {1} ms fuera de su instante.	Frame {0} is {1} ms off its time.	Кадр {0} зміщений на {1} мс від свого моменту.
+El archivo no tiene lista de fotogramas.	The file has no frame list.	У файлі немає списку кадрів.
+Tiempos de los fotogramas	Frame timing	Час кадрів
+Cada fotograma en su instante (a menos de 1 ms), siempre hacia delante.	Every frame at its moment (within 1 ms), always moving forward.	Кожен кадр у свій момент (з точністю до 1 мс), завжди вперед.
+Duración del sonido: {0}	Sound duration: {0}	Тривалість звуку: {0}
+En el archivo: {0} s; grabados: {1} s.	In the file: {0} s; recorded: {1} s.	У файлі: {0} с; записано: {1} с.
+No hay paquetes de esta pista.	There are no packets for this track.	Для цієї доріжки немає пакетів.
+Fotogramas idénticos: {0} de {1} (cada píxel).	Identical frames: {0} of {1} (every pixel).	Ідентичних кадрів: {0} з {1} (кожен піксель).
+El fotograma {0} no coincide; fotogramas idénticos: {1} de {2}.	Frame {0} does not match; identical frames: {1} of {2}.	Кадр {0} не збігається; ідентичних кадрів: {1} з {2}.
+Fotogramas decodificados: {0}; fotogramas grabados: {1}.	Frames decoded: {0}; frames recorded: {1}.	Декодовано кадрів: {0}; записано кадрів: {1}.
+Fotogramas idénticos a los capturados	Frames identical to the captured ones	Кадри, ідентичні захопленим
+Longitud del sonido: {0}	Sound length: {0}	Довжина звуку: {0}
+Muestras: {0}, las grabadas.	Samples: {0}, as recorded.	Семплів: {0}, як записано.
+Muestras en el archivo: {0}; grabadas: {1}.	Samples in the file: {0}; recorded: {1}.	Семплів у файлі: {0}; записано: {1}.
+Sonido original idéntico: {0}	Original sound identical: {0}	Оригінальний звук ідентичний: {0}
+Los bits son exactamente los grabados (SHA-256).	The bits are exactly the recorded ones (SHA-256).	Біти точно такі, як записані (SHA-256).
+Los bits no coinciden con lo grabado.	The bits do not match what was recorded.	Біти не збігаються із записаним.
+Cine: {0} × {1} a {2} fps, {3} s, fotogramas: {4}.	Cine: {0} × {1} at {2} fps, {3} s, frames: {4}.	Cine: {0} × {1}, {2} кадр/с, {3} с, кадрів: {4}.
+Archivo: {0} ({1} MB)	File: {0} ({1} MB)	Файл: {0} ({1} МБ)
+Archivo: {0}	File: {0}	Файл: {0}
+La grabación se detuvo antes de tiempo: {0}. Se ha guardado lo grabado hasta ese momento.	The recording stopped early: {0}. What was recorded up to that point has been saved.	Запис зупинився раніше часу: {0}. Записане до цього моменту збережено.
+- Se pausó una vez: lo que pasó en la pausa no está en el archivo.	- It was paused once: what happened during the pause is not in the file.	- Запис ставили на паузу один раз: те, що відбувалося під час паузи, у файлі відсутнє.
+- Se pausó {0} veces: lo que pasó en las pausas no está en el archivo.	- It was paused {0} times: what happened during the pauses is not in the file.	- Запис ставили на паузу (разів: {0}): те, що відбувалося під час пауз, у файлі відсутнє.
+- Fotogramas con los clics o las teclas pulsadas dibujados (Grabación > Clics y teclas): {0}.	- Frames with the clicks or pressed keys drawn on them (Recording > Clicks and keys): {0}.	- Кадри з намальованими кліками або натиснутими клавішами (Запис > Кліки та клавіші): {0}.
+- Fotogramas que pudieron tomar una imagen de pantalla equivocada (el equipo fue demasiado lento): {0}.	- Frames that may have taken a wrong screen image (the computer was too slow): {0}.	- Кадри, які могли отримати хибне зображення екрана (комп’ютер був надто повільним): {0}.
+- Fotogramas que repiten el anterior porque no se pudo leer la pantalla: {0}.	- Frames repeating the previous one because the screen could not be read: {0}.	- Кадри, що повторюють попередній, бо не вдалося прочитати екран: {0}.
+- Fotogramas negros al principio porque no se pudo leer la pantalla: {0}.	- Black frames at the start because the screen could not be read: {0}.	- Чорні кадри на початку, бо не вдалося прочитати екран: {0}.
+- Fotogramas tomados que no llegaron a escribirse: {0}.	- Frames taken that were never written: {0}.	- Кадри, які було отримано, але не записано: {0}.
+- La captura de pantalla se interrumpió (veces: {0}); {1} ms sin imagen nueva.	- Screen capture was interrupted (times: {0}); {1} ms without a new image.	- Захоплення екрана переривалося (разів: {0}); {1} мс без нового зображення.
+- Imágenes en las que Windows ocultó ventanas protegidas o excluidas de la captura en esa pantalla (también las de Stackshot): {0}. Si alguna estaba dentro del área, no aparece o sale en negro.	- Images in which Windows hid protected windows or windows excluded from capture on that screen (including Stackshot's own): {0}. If any was inside the area, it does not appear or shows up black.	- Зображення, на яких Windows приховала захищені або виключені із захоплення вікна на цьому екрані (зокрема вікна Stackshot): {0}. Якщо якесь було в області, його не видно або воно чорне.
+- Se ha usado la captura de reserva (GDI): no ve contenido acelerado por hardware.	- The fallback capture (GDI) was used: it cannot see hardware-accelerated content.	- Використано резервне захоплення (GDI): воно не бачить вмісту з апаратним прискоренням.
+- La pantalla está en HDR: Windows entrega la imagen convertida a SDR.	- The screen is in HDR: Windows delivers the image converted to SDR.	- Екран у режимі HDR: Windows віддає зображення, перетворене на SDR.
+- El monitor va a {0} Hz y se graba a {1} fps: imágenes de pantalla que no aparecen en ningún fotograma: {2}.	- The monitor runs at {0} Hz and recording is at {1} fps: screen images that appear in no frame: {2}.	- Монітор працює на {0} Гц, а запис іде на {1} кадр/с: зображень екрана, що не потрапили в жоден кадр: {2}.
+No se ha creado el máster: {0}	The master was not created: {0}	Майстер-файл не створено: {0}
+Lo grabado está en: {0}	What was recorded is in: {0}	Записане лежить тут: {0}
+Comprobación: no se ha hecho.	Verification: not done.	Перевірку не виконано.
+Comprobación: correcta; fotogramas idénticos a los enviados al codificador: {0}.	Verification: passed; frames identical to those sent to the encoder: {0}.	Перевірка пройдена; кадрів, ідентичних надісланим кодеру: {0}.
+Comprobación: HA FALLADO.	Verification: FAILED.	Перевірка НЕ ПРОЙДЕНА.
+monitores en dos tarjetas gráficas	monitors on two graphics cards	монітори на двох відеокартах
+DXGI 1.2 no disponible	DXGI 1.2 not available	DXGI 1.2 недоступний
+sin monitores	no monitors	немає моніторів
+monitor girado	rotated monitor	повернутий монітор
+formato {0}	format {0}	формат {0}
+GPU perdida	GPU lost	GPU втрачено
+Grabar vídeo y GIF	Record video and GIF	Запис відео та GIF
+Para grabar y reproducir vídeo, Stackshot usa FFmpeg {0}, un programa libre y gratuito con su propia licencia (GPL). Se descarga una sola vez (unos 110 MB) desde GitHub, se comprueba que es el original y se guarda solo para tu usuario.	To record and play video, Stackshot uses FFmpeg {0}, a free program with its own license (GPL). It is downloaded once (about 110 MB) from GitHub, checked to be the original, and saved only for your user.	Для запису й відтворення відео Stackshot використовує FFmpeg {0} — вільну безкоштовну програму з власною ліцензією (GPL). Її завантажують один раз (близько 110 МБ) з GitHub, перевіряють, що це оригінал, і зберігають лише для твого користувача.
+Reintentar	Try again	Повторити
+Descargar	Download	Завантажити
+Ya lo tengo…	I already have it…	Вже маю…
+Elegir un ffmpeg.exe que ya tengas en el equipo	Choose an ffmpeg.exe you already have on your computer	Обрати ffmpeg.exe, який уже є на комп’ютері
+Cancelar	Cancel	Скасувати
+¿Dónde está ffmpeg.exe?	Where is ffmpeg.exe?	Де знаходиться ffmpeg.exe?
+Comprobando {0}…	Checking {0}…	Перевіряю {0}…
+Ese archivo no responde como FFmpeg. Elige el ffmpeg.exe de una versión completa.	That file does not respond like FFmpeg. Choose the ffmpeg.exe of a full version.	Цей файл не відповідає як FFmpeg. Обери ffmpeg.exe повної версії.
+Hacen falta unos 400 MB libres en {0} para descargar y preparar FFmpeg.	About 400 MB of free space is needed on {0} to download and prepare FFmpeg.	Потрібно близько 400 МБ вільного місця на {0}, щоб завантажити й підготувати FFmpeg.
+Conectando…	Connecting…	З’єдную…
+{0} MB de {1} MB	{0} MB of {1} MB	{0} МБ із {1} МБ
+{0} MB	{0} MB	{0} МБ
+La descarga se ha quedado parada más de {0} s. Comprueba la conexión y vuelve a intentarlo.	The download has been stalled for more than {0} s. Check your connection and try again.	Завантаження зависло більш ніж на {0} с. Перевір з’єднання й спробуй ще раз.
+Comprobando que es el original y preparando…	Checking that it is the original and preparing…	Перевіряю, що це оригінал, і готую…
+El archivo descargado no es el original y se ha descartado por seguridad. Vuelve a intentarlo.	The downloaded file is not the original and was discarded for safety. Try again.	Завантажений файл не є оригіналом і був відхилений з міркувань безпеки. Спробуй ще раз.
+El paquete descargado no trae ffmpeg.exe.	The downloaded package does not contain ffmpeg.exe.	У завантаженому пакеті немає ffmpeg.exe.
+No hay conexión con el servidor de descarga. Comprueba Internet o pregunta si tu red lo permite.	There is no connection to the download server. Check your internet or ask whether your network allows it.	Немає з’єднання із сервером завантаження. Перевір інтернет або дізнайся, чи дозволяє це твоя мережа.
+La descarga ha tardado demasiado. Vuelve a intentarlo.	The download took too long. Try again.	Завантаження тривало надто довго. Спробуй ще раз.
+No se pudo establecer una conexión segura (quizá un proxy de la empresa). Puedes descargar FFmpeg tú y elegirlo con «Ya lo tengo…».	A secure connection could not be established (perhaps a company proxy). You can download FFmpeg yourself and choose it with "I already have it…".	Не вдалося встановити безпечне з’єднання (можливо, через корпоративний проксі). Можеш завантажити FFmpeg сам і обрати його кнопкою «Вже маю…».
+El proxy de tu red pide usuario y contraseña. Puedes descargar FFmpeg tú y elegirlo con «Ya lo tengo…».	Your network's proxy asks for a username and password. You can download FFmpeg yourself and choose it with "I already have it…".	Проксі твоєї мережі вимагає імені користувача й пароля. Можеш завантажити FFmpeg сам і обрати його кнопкою «Вже маю…».
+No se pudo guardar la descarga: quizá no quede espacio en el disco.	The download could not be saved: the disk may be out of space.	Не вдалося зберегти завантаження: можливо, на диску не залишилося місця.
+No se pudo descargar FFmpeg. Vuelve a intentarlo.	FFmpeg could not be downloaded. Try again.	Не вдалося завантажити FFmpeg. Спробуй ще раз.
+Impr Pant	Print Screen	Print Screen
+Espacio	Space	Пробіл
+Intro	Enter	Enter
+Retroceso	Backspace	Backspace
+Supr	Delete	Delete
+Inicio	Home	Home
+Fin	End	End
+Re Pág	Page Up	Page Up
+Av Pág	Page Down	Page Down
+Pausa	Pause	Пауза
+Bloq Despl	Scroll Lock	Scroll Lock
+Bloq Mayús	Caps Lock	Caps Lock
+Bloq Num	Num Lock	Num Lock
+Menú	Menu	Menu
+Silenciar	Mute	Вимкнути звук
+Bajar volumen	Volume Down	Зменшити гучність
+Subir volumen	Volume Up	Збільшити гучність
+Reproducir	Play	Відтворити
+Siguiente	Next	Наступний
+Anterior	Previous	Попередній
+Detener	Stop	Зупинити
+Atrás	Back	Назад
+Adelante	Forward	Вперед
+Actualizar	Refresh	Оновити
+Detener carga	Stop loading	Зупинити завантаження
+Búsqueda	Search	Пошук
+Favoritos	Favorites	Обране
+Inicio web	Web home	Домашня сторінка
+Correo	Mail	Пошта
+Aplicación 1	App 1	Програма 1
+Calculadora	Calculator	Калькулятор
+Multimedia	Media	Мультимедіа
+Suspender	Sleep	Сон
+Borrar	Clear	Очистити
+Sin atajo	No shortcut	Без гарячої клавіші
+Mayús	Shift	Shift
+{0} no sirve de atajo	{0} can't be used as a shortcut	{0} не годиться як гаряча клавіша
+Alt + Tab cambia de ventana	Alt + Tab switches windows	Alt + Tab перемикає вікна
+Ctrl + Tab cambia de pestaña	Ctrl + Tab switches tabs	Ctrl + Tab перемикає вкладки
+{0} ya es {1}	{0} is already "{1}"	{0} уже означає «{1}»
+Combínala con Ctrl o Alt	Combine it with Ctrl or Alt	Поєднай її з Ctrl або Alt
+Se usa al escribir: prueba otra	It is used when typing: try another	Її використовують під час друку: спробуй іншу
+Así escribes «{0}»: prueba otra	That is how you type "{0}": try another	Так друкується «{0}»: спробуй іншу
+Seleccionar todo	Select all	Вибрати все
+Copiar	Copy	Копіювати
+Pegar	Paste	Вставити
+Cortar	Cut	Вирізати
+Deshacer	Undo	Скасувати дію
+Rehacer	Redo	Повторити дію
+Guardar	Save	Зберегти
+Buscar	Find	Знайти
+Imprimir	Print	Друкувати
+Nuevo	New	Новий
+Abrir	Open	Відкрити
+Cerrar	Close	Закрити
+Nueva pestaña	New tab	Нова вкладка
+Menú contextual	Context menu	Контекстне меню
+Cerrar ventana	Close window	Закрити вікно
+Menú de ventana	Window menu	Меню вікна
+Probar micrófono	Test microphone	Перевірити мікрофон
+Nivel del micrófono	Microphone level	Рівень мікрофона
+Saturando	Clipping	Перевантаження
+Abriendo el micrófono…	Opening the microphone…	Відкриваю мікрофон…
+No hay micrófono	No microphone	Немає мікрофона
+El micrófono no responde	The microphone is not responding	Мікрофон не відповідає
+Windows no deja usar el micrófono	Windows does not allow using the microphone	Windows не дозволяє використовувати мікрофон
+Se está grabando	Recording is in progress	Триває запис
+Dejar de probar	Stop testing	Зупинити перевірку
+Micrófono: {0}	Microphone: {0}	Мікрофон: {0}
+Actívalo en Configuración > Privacidad y seguridad > Micrófono.	Turn it on in Settings > Privacy & security > Microphone.	Увімкни його в Параметри > Конфіденційність і безпека > Мікрофон.
+Mientras grabas, el nivel de cada sonido sale en la barra de grabación.	While you record, the level of each sound appears in the recording bar.	Під час запису рівень кожного звуку показано на панелі запису.
+Este Windows no tiene el reconocimiento de texto (OCR) instalado.	This Windows does not have text recognition (OCR) installed.	У цій Windows не встановлено розпізнавання тексту (OCR).
+No hay memoria suficiente para leer una imagen tan grande.	There is not enough memory to read such a large image.	Недостатньо пам’яті, щоб прочитати таке велике зображення.
+No se ha podido leer la imagen.	The image could not be read.	Не вдалося прочитати зображення.
+No se ha podido leer el texto: {0}	The text could not be read: {0}	Не вдалося прочитати текст: {0}
+{0}: «{1}»	{0}: "{1}"	{0}: «{1}»
+{0} línea	{0} line	{0} рядок
+{0} líneas	{0} lines	{0} рядки
+{0} líneas (5+)	{0} lines	{0} рядків
+Copiar el texto	Copy the text	Копіювати текст
+Guardar como…	Save as…	Зберегти як…
+Tamaño real	Actual size	Реальний розмір
+Imagen copiada	Image copied	Зображення скопійовано
+Ya puedes pegarla donde quieras.	You can now paste it wherever you like.	Тепер можеш вставити його куди завгодно.
+No se pudo copiar	Could not copy	Не вдалося скопіювати
+Otro programa está usando el portapapeles. Vuelve a intentarlo.	Another program is using the clipboard. Try again.	Інша програма використовує буфер обміну. Спробуй ще раз.
+Imagen PNG	PNG image	Зображення PNG
+Imagen guardada	Image saved	Зображення збережено
+No se pudo guardar la imagen.	The image could not be saved.	Не вдалося зберегти зображення.
+¿Descartar?	Discard?	Скасувати?
+¿Cancelar?	Cancel?	Скасувати?
+En pausa	Paused	На паузі
+Pausar	Pause	Пауза
+Reanudar	Resume	Продовжити
+Cuenta atrás…	Countdown…	Зворотний відлік…
+Preparando…	Preparing…	Готуюсь…
+Guardando…	Saving…	Зберігаю…
+Conservando lo grabado…	Keeping what was recorded…	Зберігаю записане…
+Guardado	Saved	Збережено
+Barra de grabación	Recording bar	Панель запису
+Grabando	Recording	Запис
+Guardando la grabación	Saving the recording	Збереження запису
+Grabación guardada	Recording saved	Запис збережено
+Detener y guardar	Stop and save	Зупинити й зберегти
+Descartar (pulsa otra vez para confirmar)	Discard (press again to confirm)	Відхилити (натисни ще раз, щоб підтвердити)
+Descartar	Discard	Відхилити
+Activar el micrófono	Unmute the microphone	Увімкнути мікрофон
+Silenciar el micrófono	Mute the microphone	Вимкнути мікрофон
+Activar el sonido del equipo	Unmute the computer sound	Увімкнути звук комп’ютера
+Silenciar el sonido del equipo	Mute the computer sound	Вимкнути звук комп’ютера
+Pulsar	Press	Натиснути
+Captura con desplazamiento	Scrolling capture	Захоплення з прокручуванням
+El área es demasiado pequeña: elige una de al menos 40 × 40 píxeles.	The area is too small: choose one of at least 40 × 40 pixels.	Область надто мала: обери область щонайменше 40 × 40 пікселів.
+La captura se cortó antes de terminar: se ha guardado lo capturado hasta ese momento.	The capture was cut short: what was captured up to that point has been saved.	Захоплення обірвалося до завершення: те, що встигло захопитися, збережено.
+No se pudo componer la imagen: es demasiado grande para la memoria disponible. Prueba con un área más estrecha o más corta.	The image could not be composed: it is too large for the available memory. Try a narrower or shorter area.	Не вдалося скласти зображення: воно завелике для доступної пам’яті. Спробуй вужчу або коротшу область.
+No se pudo terminar la captura. Vuelve a intentarlo.	The capture could not be finished. Try again.	Не вдалося завершити захоплення. Спробуй ще раз.
+Desplazamiento	Scrolling	Прокручування
+La zona no se ha movido, así que se ha guardado como una captura normal. Elige solo la parte que se desplaza (la lista o el texto), sin la cabecera fija.	The area did not move, so it was saved as a normal capture. Choose only the part that scrolls (the list or the text), without the fixed header.	Область не рухалася, тож її збережено як звичайне захоплення. Обери лише ту частину, що прокручується (список або текст), без закріпленої шапки.
+Componiendo…	Composing…	Складаю…
+Esc otra vez para descartar	Esc again to discard	Esc ще раз, щоб відхилити
+No has bajado · Listo otra vez la guarda	You haven't scrolled · Done again saves it	Ти не прокрутив · «Готово» ще раз збереже
+Altura máxima	Maximum height	Максимальна висота
+Solo hacia abajo	Downward only	Лише вниз
+Más despacio	Slower	Повільніше
+Pausa: paro y sigues tú con la rueda	Pause: I stop and you continue with the wheel	Пауза: я зупиняюсь, а ти продовжуєш коліщатком
+Auto: bajo yo solo, poco a poco	Auto: I scroll down on my own, little by little	Авто: прокручую сам, потроху
+Listo: guarda la captura (Enter)	Done: saves the capture (Enter)	Готово: зберігає захоплення (Enter)
+Cancela sin guardar (Esc)	Cancels without saving (Esc)	Скасовує без збереження (Esc)
+Bajando solo…	Scrolling on its own…	Прокручую сам…
+¿No baja? Pulsa Auto	Not scrolling? Press Auto	Не прокручується? Натисни «Авто»
+Baja con la rueda · Enter termina	Scroll with the wheel · Enter finishes	Прокручуй коліщатком · Enter завершує
+1 pantalla	1 screen	1 екран
+{0} pantallas	{0} screens	{0} екр.
+Auto	Auto	Авто
+Listo	Done	Готово
+Baja despacio con la rueda del ratón	Scroll down slowly with the mouse wheel	Повільно прокручуй вниз коліщатком миші
+O pulsa Auto y bajo yo. Cuando llegues al final, Listo o Enter.	Or press Auto and I'll scroll. When you reach the end, Done or Enter.	Або натисни «Авто», і я прокручу сам. Коли дійдеш до кінця — «Готово» або Enter.
+Archivos pequeños, para enviar en segundos.	Small files, to send in seconds.	Малі файли, щоб надсилати за лічені секунди.
+60 fps con mucho detalle; se guarda al momento.	60 fps with lots of detail; saved instantly.	60 кадр/с із великою деталізацією; зберігається миттєво.
+Sin pérdidas al grabar y MP4 de muy alta calidad al terminar; tarda un poco en guardar.	Lossless while recording and a very high quality MP4 when finished; takes a little while to save.	Без втрат під час запису та MP4 дуже високої якості після завершення; збереження триває трохи довше.
+Máster sin pérdidas comprobado fotograma a fotograma (.mkv); ocupa mucho.	Lossless master verified frame by frame (.mkv); takes a lot of space.	Майстер-файл без втрат, перевірений кадр за кадром (.mkv); займає багато місця.
+Calidad muy alta al grabar (en un área tan grande no es sin pérdidas) y MP4 de muy alta calidad al terminar; tarda un poco en guardar.	Very high quality while recording (not lossless on an area this large) and a very high quality MP4 when finished; takes a little while to save.	Дуже висока якість під час запису (на такій великій області вона не без втрат) та MP4 дуже високої якості після завершення; збереження триває трохи довше.
+Grabar GIF	Record GIF	Запис GIF
+Grabar vídeo	Record video	Запис відео
+Área de {0} × {1} px	Area of {0} × {1} px	Область {0} × {1} px
+Estándar	Standard	Стандартна
+Alta	High	Висока
+Máxima	Maximum	Максимальна
+Calidad	Quality	Якість
+Fotogramas	Frames	Кадри
+por segundo	per second	за секунду
+60 por segundo	60 per second	60 за секунду
+Alta y Máxima graban siempre a 60, para que el movimiento sea fluido.	High and Maximum always record at 60, so the motion is smooth.	«Висока» і «Максимальна» завжди записують на 60, щоб рух був плавним.
+Sonido del equipo	Computer sound	Звук комп’ютера
+Desactivada	Off	Вимк.
+Redonda	Round	Кругла
+Cuadrada	Square	Квадратна
+Cámara	Camera	Камера
+3 s	3 s	3 с
+5 s	5 s	5 с
+10 s	10 s	10 с
+Cuenta atrás	Countdown	Відлік
+Preguntar siempre	Always ask	Завжди питати
+Si lo apagas, se graba directamente con estas opciones (se vuelve a activar en Grabación).	If you turn it off, recording starts right away with these options (you can turn it back on in Recording).	Якщо вимкнеш, запис почнеться одразу з цими параметрами (знову ввімкнути можна в розділі «Запис»).
+Grabar	Record	Записати
+Nivel de entrada	Input level	Рівень входу
+Esc: cancelar	Esc: cancel	Esc: скасувати
+Vista previa	Preview	Попередній перегляд
+Capturar	Capture	Захопити
+Vídeo	Video	Відео
+Desplazar	Scroll	Прокрутка
+Texto	Text	Текст
+Arrastra un área o haz clic en una ventana	Drag an area or click a window	Перетягни область або клацни вікно
+Después eliges qué hacer	Then you choose what to do	Потім обереш, що робити
+Después la ajustas	Then you adjust it	Потім відкоригуєш її
+Arrastra para capturar un área	Drag to capture an area	Перетягни, щоб захопити область
+Clic: ventana o pantalla entera	Click: window or whole screen	Клік: вікно або весь екран
+C: color	C: color	C: колір
+Mayús: medir	Shift: measure	Shift: виміряти
+Arrastra sobre el texto o haz clic en una ventana	Drag over the text or click a window	Перетягни по тексту або клацни вікно
+Copiar texto	Copy text	Копіювати текст
+Arrastra sobre la parte que se mueve, sin la cabecera fija	Drag over the part that moves, without the fixed header	Перетягни по тій частині, що рухається, без закріпленої шапки
+Color copiado	Color copied	Колір скопійовано
+No se pudo copiar el color	Could not copy the color	Не вдалося скопіювати колір
+{0} está listo para pegar.	{0} is ready to paste.	{0} готово до вставлення.
+El portapapeles está ocupado: vuelve a intentarlo.	The clipboard is busy: try again.	Буфер обміну зайнятий: спробуй ще раз.
+n.º de la Seguridad Social	Social Security no.	номер соцстрахування
+tarjeta	card	картка
+tarjetas	cards	картки
+tarjetas (5+)	cards	карток
+correo	email	е-пошта
+correos	emails	е-пошти
+correos (5+)	emails	е-пошт
+teléfono	phone	телефон
+teléfonos	phones	телефони
+teléfonos (5+)	phones	телефонів
+Sin revisar	Not checked	Не перевірено
+{0} dato tapado	{0} item covered	Приховано {0} елемент даних
+{0} datos tapados	{0} items covered	Приховано {0} елементи даних
+{0} datos tapados (5+)	{0} items covered	Приховано {0} елементів даних
+No hay memoria suficiente para revisar una imagen tan grande.	There is not enough memory to check such a large image.	Недостатньо пам’яті, щоб перевірити таке велике зображення.
+No se ha podido revisar la imagen.	The image could not be checked.	Не вдалося перевірити зображення.
+Conectando la cámara…	Connecting the camera…	Підключаю камеру…
+No se puede abrir la cámara	The camera cannot be opened	Не вдається відкрити камеру
+No se encuentra ninguna cámara	No camera found	Камеру не знайдено
+Reconectando la cámara…	Reconnecting the camera…	Повторно підключаю камеру…
+La cámara se ha desconectado	The camera was disconnected	Камеру відключено
+No se pudo empezar a grabar: {0}	Recording could not be started: {0}	Не вдалося почати запис: {0}
+Quedan {0} libres en el disco: no cabe ni un minuto en {1}.\n\nLibera espacio o elige una calidad más ligera.	{0} left on the disk: not even a minute fits in {1}.\n\nFree up some space or choose a lighter quality.	На диску залишилося {0} вільного місця: навіть хвилина не вміститься в режимі «{1}».\n\nЗвільни місце або обери легшу якість.
+Quedan {0} libres en el disco: en {1} caben {2}, según el movimiento.	{0} left on the disk: in {1}, {2} fits, depending on the motion.	На диску залишилося {0} вільного місця: у режимі «{1}» вміститься {2}, залежно від руху.
+{0}\n\nAceptar: grabar igualmente (la grabación se detiene sola antes de llenar el disco y conserva lo grabado).\nCancelar: no grabar.	{0}\n\nOK: record anyway (the recording stops by itself before filling the disk and keeps what was recorded).\nCancel: don't record.	{0}\n\nОК: усе одно записувати (запис сам зупиниться, не заповнивши диск, і збереже записане).\nСкасувати: не записувати.
+{0}\n\nSí: grabar en {1} (caben {2}).\nNo: grabar en {3} igualmente (la grabación se detiene sola antes de llenar el disco y conserva lo grabado).\nCancelar: no grabar.	{0}\n\nYes: record in {1} ({2} fits).\nNo: record in {3} anyway (the recording stops by itself before filling the disk and keeps what was recorded).\nCancel: don't record.	{0}\n\nТак: записувати в режимі «{1}» (вміститься {2}).\nНі: усе одно записувати в режимі «{3}» (запис сам зупиниться, не заповнивши диск, і збереже записане).\nСкасувати: не записувати.
+Se ha bloqueado el equipo	The computer was locked	Комп’ютер заблоковано
+El equipo se va a suspender	The computer is going to sleep	Комп’ютер переходить у режим сну
+Queda poco espacio en el disco	Little disk space is left	На диску залишилося мало місця
+sin duplicación de pantalla	no screen duplication	без дублювання екрана
+Esta zona no se puede grabar con la captura de Windows ({0}): se usaría la de reserva (GDI), que no ve el contenido acelerado por hardware (vídeos, juegos, algunas apps) y no es fiel a la pantalla.\n\n¿Grabar igualmente en Cine?	This area cannot be recorded with Windows capture ({0}): the fallback (GDI) would be used, which cannot see hardware-accelerated content (videos, games, some apps) and is not faithful to the screen.\n\nRecord in Cine anyway?	Цю область не можна записати засобами захоплення Windows ({0}): буде використано резервний спосіб (GDI), який не бачить вміст з апаратним прискоренням (відео, ігри, деякі програми) і не вірний екрану.\n\nУсе одно записувати в режимі Cine?
+El área ocupa varias pantallas (en total: {0}). Los fotogramas siguen el ritmo de la principal ({1} Hz) y la otra va a otra frecuencia, así que su parte puede verse a saltos.\n\n¿Grabar igualmente en Cine?	The area spans several screens (in total: {0}). Frames follow the rhythm of the main one ({1} Hz) and the other runs at a different frequency, so its part may look choppy.\n\nRecord in Cine anyway?	Область охоплює кілька екранів (разом: {0}). Кадри йдуть у ритмі головного ({1} Гц), а інший працює на іншій частоті, тому його частина може сіпатися.\n\nУсе одно записувати в режимі Cine?
+El área ocupa varias pantallas (en total: {0}). Los fotogramas siguen el ritmo de la principal ({1} Hz); si una se mueve a otro ritmo, su parte puede verse a saltos.\n\n¿Grabar igualmente en Cine?	The area spans several screens (in total: {0}). Frames follow the rhythm of the main one ({1} Hz); if one runs at a different rate, its part may look choppy.\n\nRecord in Cine anyway?	Область охоплює кілька екранів (разом: {0}). Кадри йдуть у ритмі головного ({1} Гц); якщо якийсь рухається в іншому ритмі, його частина може сіпатися.\n\nУсе одно записувати в режимі Cine?
+No se ha podido abrir la cámara.	The camera could not be opened.	Не вдалося відкрити камеру.
+La cámara no ha respondido a tiempo.	The camera did not respond in time.	Камера не відповіла вчасно.
+Grabando sin parte del sonido	Recording without part of the sound	Запис без частини звуку
+Grabando sin cámara	Recording without the camera	Запис без камери
+~{0} min de disco	~{0} min of disk	~{0} хв на диску
+menos de 1 min	less than 1 min	менше 1 хв
+hasta {0}	up to {0}	до {0}
+unos {0}	about {0}	близько {0}
+entre {0} y {1}	between {0} and {1}	від {0} до {1}
+muchas horas	many hours	багато годин
+{0} min	{0} min	{0} хв
+{0} h	{0} h	{0} год
+{0} GB	{0} GB	{0} ГБ
+enchufar el portátil	plug in the laptop	під’єднати ноутбук до живлення
+bajar los fotogramas del GIF	lower the GIF frame rate	зменшити кадрову частоту GIF
+bajar a 30 fps	drop to 30 fps	знизити до 30 кадр/с
+grabar un área más pequeña	record a smaller area	записувати меншу область
+usar la calidad Alta	use High quality	використати якість «Висока»
+cerrar las apps que no uses	close the apps you don't use	закрити програми, які не використовуєш
+Tu equipo no ha podido seguir el ritmo: fotogramas que salieron tarde o repetidos: {0} ({1} %).	Your computer could not keep up: frames that came out late or repeated: {0} ({1} %).	Твій комп’ютер не встигав: кадрів, що запізнилися або повторилися: {0} ({1} %).
+Tu equipo se atascó un momento ({0} s) y algún fotograma pudo repetirse.	Your computer stalled for a moment ({0} s) and a frame may have been repeated.	Твій комп’ютер на мить завис ({0} с), тож якийсь кадр міг повторитися.
+{0} Prueba a {1}.	{0} Try to {1}.	{0} Спробуй: {1}.
+o	or	або
+Has cancelado el guardado.	You cancelled the saving.	Ти скасував збереження.
+La conversión se ha quedado parada (FFmpeg dejó de avanzar).	The conversion has stalled (FFmpeg stopped making progress).	Перетворення зависло (FFmpeg перестав просуватися).
+El equipo no ha podido seguir el ritmo de la pantalla	The computer could not keep up with the screen	Комп’ютер не встигав за екраном
+No queda memoria libre para seguir grabando sin pérdidas	There is no free memory left to keep recording losslessly	Не залишилося вільної пам’яті, щоб продовжувати запис без втрат
+El equipo no ha podido codificar sin pérdidas al ritmo de la pantalla	The computer could not encode losslessly at the screen's pace	Комп’ютер не встигав кодувати без втрат у темпі екрана
+La resolución o la orientación de la pantalla ha cambiado	The screen's resolution or orientation changed	Роздільна здатність або орієнтація екрана змінилася
+Este equipo no deja ocultar la barra de grabación: saldrá en el vídeo si está dentro del área.	This computer does not allow hiding the recording bar: it will appear in the video if it is inside the area.	Цей комп’ютер не дозволяє приховати панель запису: вона потрапить у відео, якщо буде всередині області.
+Se graba con el método de reserva: puede ir más lento y no ver vídeos, juegos ni algunas apps.	Recording with the fallback method: it may be slower and not see videos, games or some apps.	Запис ведеться резервним способом: він може працювати повільніше й не бачити відео, ігор і деяких програм.
+Windows no deja seguir el ratón y el teclado ahora: el vídeo sale sin clics ni teclas.	Windows does not allow following the mouse and keyboard right now: the video comes out without clicks or keys.	Windows зараз не дозволяє стежити за мишею й клавіатурою: відео буде без кліків і клавіш.
+Grabando con limitaciones	Recording with limitations	Запис з обмеженнями
+Sonido del equipo recuperado	Computer sound recovered	Звук комп’ютера відновлено
+Micrófono recuperado	Microphone recovered	Мікрофон відновлено
+Vuelve a grabarse desde «{0}».	Recording from "{0}" again.	Запис знову йде з «{0}».
+La salida de sonido elegida no está	The chosen sound output is not available	Обраного виходу звуку немає
+El micrófono elegido se ha desconectado	The chosen microphone was disconnected	Обраний мікрофон відключено
+Se graba con «{0}», el de Windows, hasta que vuelva.	Recording with "{0}", the Windows one, until it comes back.	Запис іде через «{0}» — пристрій Windows, доки обраний не повернеться.
+Sin sonido del equipo	No computer sound	Без звуку комп’ютера
+Sin micrófono	No microphone	Без мікрофона
+No hay ningún dispositivo: esta parte se graba sin sonido del equipo.	There is no device: this part is recorded without the computer sound.	Немає жодного пристрою: ця частина записується без звуку комп’ютера.
+No hay ningún dispositivo: esta parte se graba sin micrófono.	There is no device: this part is recorded without the microphone.	Немає жодного пристрою: ця частина записується без мікрофона.
+FFmpeg se ha cerrado durante la grabación. {0}	FFmpeg closed during the recording. {0}	FFmpeg закрився під час запису. {0}
+No se pudo guardar la grabación: {0}	The recording could not be saved: {0}	Не вдалося зберегти запис: {0}
+FFmpeg no terminó de guardar el vídeo.	FFmpeg did not finish saving the video.	FFmpeg не закінчив зберігати відео.
+FFmpeg no pudo guardar el vídeo. {0}	FFmpeg could not save the video. {0}	FFmpeg не зміг зберегти відео. {0}
+No se ha grabado ningún fotograma.	No frame was recorded.	Жодного кадру не записано.
+{0}: {1}. La grabación lo guarda tal cual; si se oye distorsionado, baja el volumen de esa fuente antes de grabar.	{0}: {1}. The recording keeps it as it is; if it sounds distorted, lower that source's volume before recording.	{0}: {1}. Запис зберігає це як є; якщо чути спотворення, зменш гучність цього джерела перед записом.
+Muestras solapadas descartadas: {0}.	Overlapping samples discarded: {0}.	Відкинуто семплів, що перекривалися: {0}.
+Ajuste del reloj de sonido: muestras duplicadas: {0}, quitadas: {1}.	Sound clock adjustment: samples duplicated: {0}, removed: {1}.	Підлаштування звукового годинника: дубльовано семплів: {0}, вилучено: {1}.
+El dispositivo no entrega 48 kHz estéreo en coma flotante: Stackshot lo ha convertido (no es copia exacta).	The device does not deliver 48 kHz floating-point stereo: Stackshot converted it (it is not an exact copy).	Пристрій не віддає стерео 48 кГц із плаваючою комою: Stackshot перетворив звук (це не точна копія).
+{0}: {1} s de silencio insertado (huecos, o nada sonando).	{0}: {1} s of silence inserted (gaps, or nothing playing).	{0}: вставлено {1} с тиші (прогалини або нічого не звучало).
+{0}: al reanudar tras la pausa, el sonido se funde durante {1} ms para que el corte no se oiga.	{0}: when resuming after the pause, the sound fades in over {1} ms so the cut is not heard.	{0}: після паузи звук плавно наростає протягом {1} мс, щоб розрив не було чути.
+{0}: al reanudar tras cada una de las {1} pausas, el sonido se funde durante {2} ms para que el corte no se oiga.	{0}: when resuming after each of the {1} pauses, the sound fades in over {2} ms so the cut is not heard.	{0}: після кожної з пауз (їх {1}) звук плавно наростає протягом {2} мс, щоб розрив не було чути.
+{0} ms	{0} ms	{0} мс
+{0} s	{0} s	{0} с
+saturó una vez (a {0}, {1} a fondo de escala)	clipped once (at {0}, {1} at full scale)	перевантажився один раз (на {0}, {1} на повній шкалі)
+saturó varias veces (en total: {0}; la primera a {1}, {2} a fondo de escala)	clipped several times (in total: {0}; the first at {1}, {2} at full scale)	перевантажувався кілька разів (разом: {0}; перший — на {1}, {2} на повній шкалі)
+el sonido del equipo {0}	the computer sound {0}	звук комп’ютера {0}
+el micrófono {0}	the microphone {0}	мікрофон {0}
+y	and	і
+Ojo: {0}.	Heads up: {0}.	Увага: {0}.
+Guardando el máster sin pérdidas…	Saving the lossless master…	Зберігаю майстер-файл без втрат…
+No se pudo crear el máster sin pérdidas. {0}	The lossless master could not be created. {0}	Не вдалося створити майстер-файл без втрат. {0}
+Comprobando que no hay pérdidas…	Checking that nothing was lost…	Перевіряю, що втрат немає…
+sin verificar	unverified	неперевірений
+Has cancelado la comprobación: el archivo se ha guardado sin verificar como «{0}».	You cancelled the check: the file was saved unverified as "{0}".	Ти скасував перевірку: файл збережено без перевірки як «{0}».
+La comprobación ha encontrado diferencias: el archivo se ha guardado como «{0}».	The check found differences: the file was saved as "{0}".	Перевірка виявила відмінності: файл збережено як «{0}».
+Lo grabado no se ha borrado.	What was recorded was not deleted.	Записане не видалено.
+Está en:\n{0}	It is in:\n{0}	Воно тут:\n{0}
+No se ha podido mover y sigue donde estaba:\n{0}	Could not be moved and is still where it was:\n{0}	Не вдалося перемістити, воно лишається на місці:\n{0}
+No se pudo guardar la grabación.	The recording could not be saved.	Не вдалося зберегти запис.
+Guardando en máxima calidad…	Saving in maximum quality…	Зберігаю в максимальній якості…
+Añadiendo el sonido…	Adding the sound…	Додаю звук…
+No se pudo guardar el vídeo.	The video could not be saved.	Не вдалося зберегти відео.
+Creando el GIF…	Creating the GIF…	Створюю GIF…
+No se pudo crear el GIF.	The GIF could not be created.	Не вдалося створити GIF.
+¿Abrir la carpeta?	Open the folder?	Відкрити теку?
+Grabación detenida	Recording stopped	Запис зупинено
+{0}: se ha guardado lo grabado hasta ese momento.	{0}: what was recorded up to that point has been saved.	{0}: записане до цього моменту збережено.
+La grabación ha ido a tirones	The recording was choppy	Запис ішов ривками
+El sonido ha saturado	The sound clipped	Звук перевантажився
+Si se oye distorsionado, baja el volumen de esa fuente antes de grabar.	If it sounds distorted, lower that source's volume before recording.	Якщо чути спотворення, зменш гучність цього джерела перед записом.
+Fotogramas idénticos a los capturados: {0}. Para compartirlo, ábrelo y expórtalo a MP4 (esa copia sí comprime).	Frames identical to the captured ones: {0}. To share it, open it and export it to MP4 (that copy does compress).	Кадрів, ідентичних захопленим: {0}. Щоб поділитися, відкрий його й експортуй у MP4 (ця копія вже стискається).
+Cine: sin pérdidas, verificado	Cine: lossless, verified	Cine: без втрат, перевірено
+Prueba a grabar a 30 fps, un área más pequeña o con más memoria para picos de movimiento (Grabación > Cine).	Try recording at 30 fps, a smaller area, or with more memory for spikes of motion (Recording > Cine).	Спробуй записувати на 30 кадр/с, меншу область або з більшим запасом пам’яті для піків руху (Запис > Cine).
+Windows no deja capturar la pantalla ahora mismo (pantalla bloqueada o un aviso de seguridad). Vuelve a intentarlo en el escritorio.	Windows does not allow capturing the screen right now (locked screen or a security prompt). Try again on the desktop.	Windows зараз не дозволяє захоплювати екран (екран заблоковано або показано запит безпеки). Спробуй ще раз на робочому столі.
+No se pudo arrancar FFmpeg: {0}	FFmpeg could not be started: {0}	Не вдалося запустити FFmpeg: {0}
+La captura de pantalla ha fallado: {0}	Screen capture failed: {0}	Захоплення екрана не вдалося: {0}
+FFmpeg ha dejado de responder.	FFmpeg stopped responding.	FFmpeg перестав відповідати.
